@@ -1,0 +1,215 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "blog",
+      "disabled": true,
+      "settings": {
+        "default_image": "shopify://shop_images/KOOZI-CAMPAIGN-141_1.jpg",
+        "default_color": "accent",
+        "blog_style": "standard",
+        "post_columns": 3,
+        "image_aspect_ratio": 1.2,
+        "show_rss_icon": false,
+        "show_date": true,
+        "show_author": false,
+        "show_tags": false,
+        "show_comments_count": false,
+        "tag_alignment": "left",
+        "bg_color_secondary": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_text_NUtnbB": {
+      "type": "section-text",
+      "blocks": {
+        "heading_3THKDG": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>The Paw'rent Journal</p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "text_GHNdie": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dog Parent Guides, styling tips, stories and inspiration.</p>",
+            "size": 120
+          }
+        }
+      },
+      "block_order": [
+        "heading_3THKDG",
+        "text_GHNdie"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": true,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 90,
+        "padding_bottom": 8
+      }
+    },
+    "section_list_butttons_FqLYCw": {
+      "type": "section-list-butttons",
+      "blocks": {
+        "button_yiJj3a": {
+          "type": "button",
+          "settings": {
+            "heading": "Stories",
+            "button_link": "",
+            "overlay_opacity": 100,
+            "block_text_color": "",
+            "bg_color": "",
+            "border_color": ""
+          }
+        },
+        "button_KGQyQJ": {
+          "type": "button",
+          "settings": {
+            "heading": "Interiors",
+            "button_link": "",
+            "overlay_opacity": 100,
+            "block_text_color": "",
+            "bg_color": "",
+            "border_color": ""
+          }
+        },
+        "button_TgjkJB": {
+          "type": "button",
+          "settings": {
+            "heading": "Recipes",
+            "button_link": "",
+            "overlay_opacity": 100,
+            "block_text_color": "",
+            "bg_color": "",
+            "border_color": ""
+          }
+        },
+        "button_AKEaPJ": {
+          "type": "button",
+          "settings": {
+            "heading": "Training",
+            "button_link": "",
+            "overlay_opacity": 100,
+            "block_text_color": "",
+            "bg_color": "",
+            "border_color": ""
+          }
+        },
+        "button_KcPgkF": {
+          "type": "button",
+          "settings": {
+            "heading": "Button",
+            "button_link": "",
+            "overlay_opacity": 100,
+            "block_text_color": "",
+            "bg_color": "",
+            "border_color": ""
+          }
+        },
+        "button_bWXqGw": {
+          "type": "button",
+          "settings": {
+            "heading": "Button",
+            "button_link": "",
+            "overlay_opacity": 100,
+            "block_text_color": "",
+            "bg_color": "",
+            "border_color": ""
+          }
+        },
+        "button_4fxAGB": {
+          "type": "button",
+          "settings": {
+            "heading": "Button",
+            "button_link": "",
+            "overlay_opacity": 100,
+            "block_text_color": "",
+            "bg_color": "",
+            "border_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "button_yiJj3a",
+        "button_KGQyQJ",
+        "button_TgjkJB",
+        "button_AKEaPJ",
+        "button_KcPgkF",
+        "button_bWXqGw",
+        "button_4fxAGB"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": 100,
+        "layout": "carousel",
+        "alignment": "center",
+        "collections_per_row": 6,
+        "columns_mobile": "1",
+        "type_style": "button-typography",
+        "button_style": "rounded",
+        "text_size": 115,
+        "letter_spacing": 75,
+        "show_arrow": false,
+        "bg_color": "#ffffff",
+        "block_text_color": "#000000",
+        "border_color": "#000000",
+        "section_bg_color": "#f7f7f7",
+        "section_text_color": "",
+        "enable_slider_mobile": true,
+        "animations_enabled": true,
+        "width": "wrapper--full-padded",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_blog_r4Birx": {
+      "type": "section-blog",
+      "settings": {
+        "blog": "pawrents-guide",
+        "blog_style": "standard",
+        "image_aspect_ratio": 1.1,
+        "rows": 3,
+        "columns": 3,
+        "columns_mobile": "1",
+        "show_tags": false,
+        "show_author": false,
+        "show_date": false,
+        "show_comments_count": false,
+        "default_image": "shopify://shop_images/yelana_and_Gemma.jpg",
+        "default_color": "none",
+        "heading": "",
+        "button_text": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "text_color": "text-dark",
+        "bg_color_secondary": true,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_text_NUtnbB",
+    "section_list_butttons_FqLYCw",
+    "section_blog_r4Birx"
+  ]
+}

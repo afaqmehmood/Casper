@@ -1,0 +1,685 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "bg_color_secondary": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_text_UEP638": {
+      "type": "section-text",
+      "blocks": {
+        "subheading_CGCMBf": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p>KOOZI AUTUMN SALE</p>",
+            "size": 100,
+            "margin_bottom": 16
+          }
+        },
+        "heading_T3qAbW": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>20% OFF STOREWIDE</p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "text_ALNrQg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Enjoy huge savings this season, plus enjoy FREE shipping on all items Australia wide. <br/>Limited time only.</p>",
+            "size": 90
+          }
+        }
+      },
+      "block_order": [
+        "subheading_CGCMBf",
+        "heading_T3qAbW",
+        "text_ALNrQg"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_banner_image_bbQGQY": {
+      "type": "section-banner-image",
+      "blocks": {
+        "heading_GBmhXQ": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "size": 180,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GBmhXQ"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "original-height",
+        "enable_mobile_height": true,
+        "mobile_height": "original-height-mobile",
+        "image": "shopify://shop_images/grrfs.png",
+        "image_mobile": "shopify://shop_images/iol_2x_dc120583-82c9-44d9-bfeb-f878d9768954.png",
+        "overlay_opacity": 0,
+        "transition": "zoom-out",
+        "enable_zoom_animation": false,
+        "enable_card_scrolling": false,
+        "increase_border_radius": false,
+        "text_width": "normal",
+        "text_position": "left",
+        "text_alignment": "text-left",
+        "text_color": "text-light"
+      }
+    },
+    "ss_featured_collection_7_wMdzcB": {
+      "type": "ss-featured-collection-7",
+      "blocks": {
+        "slide_hiELj8": {
+          "type": "slide",
+          "settings": {
+            "product": "dog-crate-side-table",
+            "tag": "Up to $170 off",
+            "url": ""
+          }
+        },
+        "slide_PYeWdb": {
+          "type": "slide",
+          "settings": {
+            "product": "cloud-sofa-dog-bed-oatmeal-linen",
+            "tag": "Up to $66 off",
+            "url": ""
+          }
+        },
+        "slide_CBJP3z": {
+          "type": "slide",
+          "settings": {
+            "product": "soft-topper-milk-white",
+            "tag": "Up to $73 off",
+            "url": ""
+          }
+        },
+        "slide_Y3btHh": {
+          "type": "slide",
+          "settings": {
+            "product": "cloud-dog-bed-red-clay-linen",
+            "tag": "Save  up to $66",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_hiELj8",
+        "slide_PYeWdb",
+        "slide_CBJP3z",
+        "slide_Y3btHh"
+      ],
+      "settings": {
+        "collection": "",
+        "collection_show": 10,
+        "heading": "<h2>Discover Sale Favourites</h2>",
+        "heading_custom": true,
+        "heading_font": "serif",
+        "heading_size": 18,
+        "heading_size_mobile": 16,
+        "heading_height": 110,
+        "heading_align": "left",
+        "heading_align_mobile": "left",
+        "use_all": false,
+        "all": "Shop All",
+        "all_url": "",
+        "all_custom": false,
+        "all_font": "josefin_sans_n4",
+        "all_size": 16,
+        "all_size_mobile": 16,
+        "all_height": 130,
+        "all_arrow": true,
+        "slider_view": 4,
+        "slider_view_mobile": 1.7,
+        "slider_gap": 6,
+        "slider_gap_mobile": 6,
+        "slider_mt": 18,
+        "slider_mt_mobile": 20,
+        "image_radius": 0,
+        "image_border_thickness": 0,
+        "image_ratio": "portrait",
+        "image_ratio_mobile": "portrait",
+        "tag_custom": true,
+        "tag_font": "sans-serif",
+        "tag_size": 11,
+        "tag_size_mobile": 11,
+        "tag_height": 100,
+        "tag_padding_vertical": 5,
+        "tag_padding_vertical_mobile": 5,
+        "tag_padding_horizontal": 15,
+        "tag_padding_horizontal_mobile": 15,
+        "tag_radius": 2,
+        "tag_border_thickness": 0,
+        "title_custom": true,
+        "title_font": "helvetica_n3",
+        "title_size": 15,
+        "title_size_mobile": 13,
+        "title_height": 130,
+        "title_mt": 12,
+        "title_mt_mobile": 10,
+        "vendor_custom": false,
+        "vendor_font": "josefin_sans_n4",
+        "vendor_size": 0,
+        "vendor_size_mobile": 0,
+        "vendor_height": 50,
+        "vendor_mt": 0,
+        "vendor_mt_mobile": 0,
+        "button": "",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 14,
+        "button_size_mobile": 14,
+        "button_height": 100,
+        "button_padding_vertical": 12,
+        "button_padding_vertical_mobile": 12,
+        "button_padding_horizontal": 20,
+        "button_padding_horizontal_mobile": 12,
+        "button_radius": 6,
+        "button_border_thickness": 0,
+        "button_mt": 14,
+        "button_mt_mobile": 14,
+        "button_style": "non_outline",
+        "use_price": true,
+        "price_custom": false,
+        "price_font": "josefin_sans_n4",
+        "price_size": 14,
+        "price_size_mobile": 12,
+        "price_height": 100,
+        "price_compare": true,
+        "navigation_mt": 20,
+        "navigation_mt_mobile": 32,
+        "arrow_size": 36,
+        "arrow_size_mobile": 36,
+        "arrow_icon_size": 7,
+        "arrow_icon_size_mobile": 7,
+        "arrow_border_thickness": 0.5,
+        "arrow_radius": 100,
+        "arrow_hover_effect": "color",
+        "arrow_show_desktop": false,
+        "arrow_show_mobile": false,
+        "scrollbar_height": 3,
+        "scrollbar_show_desktop": false,
+        "scrollbar_show_mobile": false,
+        "image_border_color": "#000000",
+        "tag_color": "#3a3a3a",
+        "tag_bg_color": "#d8fdb0",
+        "tag_border_color": "#000000",
+        "title_color": "#000000",
+        "vendor_color": "#000000",
+        "price_color": "#181717",
+        "price_original_color": "#ffffff",
+        "button_color": "#ffffff",
+        "button_hover_color": "#ffffff",
+        "button_bg_color": "#000000",
+        "button_bg_hover_color": "#000000",
+        "button_bg_gradient": "linear-gradient(71deg, rgba(255, 130, 58, 1), rgba(255, 90, 97, 1) 37%, rgba(255, 130, 58, 1) 100%)",
+        "button_bg_hover_gradient": "linear-gradient(71deg, rgba(255, 130, 58, 1), rgba(255, 90, 97, 1) 37%, rgba(255, 130, 58, 1) 100%)",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "arrow_color": "#7b7b7b",
+        "arrow_hover_color": "#7b7b7b",
+        "arrow_bg_color": "#ebebeb",
+        "arrow_bg_hover_color": "#ffffff",
+        "arrow_border_color": "#c7c7c7",
+        "arrow_border_hover_color": "#c7c7c7",
+        "scrollbar_bg_color": "#dddddd",
+        "scrollbar_drag_bg_color": "#6e6e6e",
+        "all_color": "#000000",
+        "all_hover_color": "#000000",
+        "all_bg_color": "#ebebeb",
+        "heading_color": "#000000",
+        "background_color": "#f4f3ef",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 40,
+        "padding_bottom": 12,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
+    "section_list_collection_Uc9Yib": {
+      "type": "section-list-collection",
+      "blocks": {
+        "collection_Gy7nUB": {
+          "type": "collection",
+          "settings": {
+            "collection": "cloud-dog-beds",
+            "custom_collection_image": "shopify://shop_images/Cloud_Bed_Denim_Blue_Linen_Cover_Bailey.jpg",
+            "heading": "",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_6T4hDw": {
+          "type": "collection",
+          "settings": {
+            "collection": "side-table-dog-crate",
+            "custom_collection_image": "shopify://shop_images/koozi_side_table_dog_crate_bedside_close_up.jpg",
+            "heading": "",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_rKQJEq": {
+          "type": "collection",
+          "settings": {
+            "collection": "sofa-toppers",
+            "heading": "",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_akVx3B": {
+          "type": "collection",
+          "settings": {
+            "collection": "flat-dog-beds",
+            "custom_collection_image": "shopify://shop_images/hbh.jpg",
+            "heading": "",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_X3AtXg": {
+          "type": "collection",
+          "settings": {
+            "collection": "marble-dog-bowl-set",
+            "custom_collection_image": "shopify://shop_images/Marble-bowl-set-placing-bowl-down.jpg",
+            "heading": "",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_3k8AEJ": {
+          "type": "collection",
+          "settings": {
+            "collection": "launch-collection-a-shared-sanctuary",
+            "custom_collection_image": "shopify://shop_images/hfgdfsd.png",
+            "heading": "Shop All",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_Gy7nUB",
+        "collection_6T4hDw",
+        "collection_rKQJEq",
+        "collection_akVx3B",
+        "collection_X3AtXg",
+        "collection_3k8AEJ"
+      ],
+      "settings": {
+        "title": "Shop All - 20% Off",
+        "heading_size": 65,
+        "layout": "grid",
+        "alignment": "left",
+        "collections_per_row": 3,
+        "columns_mobile": "2",
+        "image_shape": "square",
+        "image_aspect_ratio": 1.2,
+        "text_size": 110,
+        "overlay_text": false,
+        "enable_slider_mobile": false,
+        "section_bg_color": "",
+        "section_text_color": "",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "ss_featured_collection_7_k7i4PU": {
+      "type": "ss-featured-collection-7",
+      "blocks": {
+        "slide_am33VN": {
+          "type": "slide",
+          "settings": {
+            "product": "",
+            "tag": "Best Seller",
+            "url": ""
+          }
+        },
+        "slide_ywjwgG": {
+          "type": "slide",
+          "settings": {
+            "product": "",
+            "tag": "Best Seller",
+            "url": ""
+          }
+        },
+        "slide_WxyWg4": {
+          "type": "slide",
+          "settings": {
+            "product": "",
+            "tag": "Best Seller",
+            "url": ""
+          }
+        },
+        "slide_ijkLVe": {
+          "type": "slide",
+          "settings": {
+            "product": "",
+            "tag": "",
+            "url": ""
+          }
+        },
+        "slide_XXXUbU": {
+          "type": "slide",
+          "settings": {
+            "product": "",
+            "tag": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_am33VN",
+        "slide_ywjwgG",
+        "slide_WxyWg4",
+        "slide_ijkLVe",
+        "slide_XXXUbU"
+      ],
+      "disabled": true,
+      "settings": {
+        "collection": "",
+        "collection_show": 10,
+        "heading": "<h2>Best Sellers</h2>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 18,
+        "heading_size_mobile": 14,
+        "heading_height": 130,
+        "heading_align": "left",
+        "heading_align_mobile": "left",
+        "use_all": true,
+        "all": "Shop All",
+        "all_url": "",
+        "all_custom": false,
+        "all_font": "josefin_sans_n4",
+        "all_size": 16,
+        "all_size_mobile": 16,
+        "all_height": 130,
+        "all_arrow": true,
+        "slider_view": 4,
+        "slider_view_mobile": 1.4,
+        "slider_gap": 20,
+        "slider_gap_mobile": 16,
+        "slider_mt": 40,
+        "slider_mt_mobile": 40,
+        "image_radius": 10,
+        "image_border_thickness": 0,
+        "image_ratio": "portrait",
+        "image_ratio_mobile": "portrait",
+        "tag_custom": false,
+        "tag_font": "josefin_sans_n4",
+        "tag_size": 11,
+        "tag_size_mobile": 11,
+        "tag_height": 100,
+        "tag_padding_vertical": 5,
+        "tag_padding_vertical_mobile": 5,
+        "tag_padding_horizontal": 15,
+        "tag_padding_horizontal_mobile": 15,
+        "tag_radius": 2,
+        "tag_border_thickness": 0,
+        "title_custom": false,
+        "title_font": "josefin_sans_n4",
+        "title_size": 16,
+        "title_size_mobile": 14,
+        "title_height": 130,
+        "title_mt": 12,
+        "title_mt_mobile": 10,
+        "vendor_custom": false,
+        "vendor_font": "josefin_sans_n4",
+        "vendor_size": 14,
+        "vendor_size_mobile": 12,
+        "vendor_height": 130,
+        "vendor_mt": 4,
+        "vendor_mt_mobile": 4,
+        "button": "Show Now",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 14,
+        "button_size_mobile": 14,
+        "button_height": 100,
+        "button_padding_vertical": 12,
+        "button_padding_vertical_mobile": 12,
+        "button_padding_horizontal": 20,
+        "button_padding_horizontal_mobile": 12,
+        "button_radius": 6,
+        "button_border_thickness": 0,
+        "button_mt": 14,
+        "button_mt_mobile": 14,
+        "button_style": "non_outline",
+        "use_price": true,
+        "price_custom": false,
+        "price_font": "josefin_sans_n4",
+        "price_size": 14,
+        "price_size_mobile": 12,
+        "price_height": 100,
+        "price_compare": false,
+        "navigation_mt": 20,
+        "navigation_mt_mobile": 32,
+        "arrow_size": 36,
+        "arrow_size_mobile": 36,
+        "arrow_icon_size": 7,
+        "arrow_icon_size_mobile": 7,
+        "arrow_border_thickness": 0.5,
+        "arrow_radius": 100,
+        "arrow_hover_effect": "color",
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "scrollbar_height": 3,
+        "scrollbar_show_desktop": true,
+        "scrollbar_show_mobile": true,
+        "image_border_color": "#000000",
+        "tag_color": "#3a3a3a",
+        "tag_bg_color": "#d8fdb0",
+        "tag_border_color": "#000000",
+        "title_color": "#000000",
+        "vendor_color": "#000000",
+        "price_color": "#ffffff",
+        "price_original_color": "#ffffff",
+        "button_color": "#ffffff",
+        "button_hover_color": "#ffffff",
+        "button_bg_color": "#000000",
+        "button_bg_hover_color": "#000000",
+        "button_bg_gradient": "linear-gradient(71deg,#ff823a,#ff5a61 37%,#ff823a)",
+        "button_bg_hover_gradient": "linear-gradient(71deg,#ff823a,#ff5a61 37%,#ff823a)",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "arrow_color": "#7b7b7b",
+        "arrow_hover_color": "#7b7b7b",
+        "arrow_bg_color": "#ebebeb",
+        "arrow_bg_hover_color": "#ffffff",
+        "arrow_border_color": "#c7c7c7",
+        "arrow_border_hover_color": "#c7c7c7",
+        "scrollbar_bg_color": "#dddddd",
+        "scrollbar_drag_bg_color": "#6e6e6e",
+        "all_color": "#000000",
+        "all_hover_color": "#000000",
+        "all_bg_color": "#ebebeb",
+        "heading_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
+    "section_products_list_GCQFGQ": {
+      "type": "section-products-list",
+      "blocks": {
+        "product_8dBbwT": {
+          "type": "product",
+          "settings": {
+            "product": "dog-crate-side-table",
+            "title": "",
+            "product_description": "<p>The Most Aesthetic Dog Crate. Your home is a sanctuary for both you and your dog, and their sleep retreat shouldn’t be an eyesore.</p>",
+            "button_text": "Shop now",
+            "show_second_image": true,
+            "show_circle": true,
+            "hide_on_mobile": false,
+            "circle_text_color": "#000000",
+            "circle_rotate_animation": "rotate-on-scroll",
+            "circle_text": "Take 20% Off ~ Free Delivery ~",
+            "circle_word_spacing": 3,
+            "circle_size": 150
+          }
+        },
+        "product_R6VNTx": {
+          "type": "product",
+          "settings": {
+            "product": "marble-dog-bowl-set",
+            "title": "Marble Bowl Set",
+            "product_description": "<p>Transform your dog's dining area and your kitchen with our limited edition New York Lilac Marble Dog Bowl Set. Made from 100% natural New York lilac marble.</p>",
+            "button_text": "Shop Now",
+            "show_second_image": true,
+            "show_circle": true,
+            "hide_on_mobile": false,
+            "circle_text_color": "#000000",
+            "circle_rotate_animation": "rotate-on-scroll",
+            "circle_text": "New Arrival ~ New Arrival ~",
+            "circle_word_spacing": 3,
+            "circle_size": 150
+          }
+        }
+      },
+      "block_order": [
+        "product_8dBbwT",
+        "product_R6VNTx"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": 100,
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "image_aspect_ratio": 1.1,
+        "bg_color_secondary": false,
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_press_HB7Gc6": {
+      "type": "section-press",
+      "blocks": {
+        "press_Nz6hbg": {
+          "type": "press",
+          "settings": {
+            "text": "<p>\"Koozi blends interior design with pet products, putting your dog’s comfort first without compromising aesthetics - a dream for those who crave style in their home.\"</p>",
+            "link": "",
+            "press_logo": "shopify://shop_images/bhujiko_2x_b641336e-8983-4bff-bec5-2d1bc7e83753.png",
+            "logo_width": 170
+          }
+        }
+      },
+      "block_order": [
+        "press_Nz6hbg"
+      ],
+      "custom_css": [
+        "p {font-size: 14px;}"
+      ],
+      "settings": {
+        "title": "",
+        "show_quotations": true,
+        "show_rounded_corners": false,
+        "autoplay": false,
+        "duration": 4,
+        "bg_color_secondary": false,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_video_GYCPwd": {
+      "type": "section-video",
+      "settings": {
+        "video_height": "five-fifty-height",
+        "text_position": "middle-center",
+        "video_link_bg": "https://cdn.shopify.com/videos/c/o/v/1f3412a1257346a29fba08e7949aa89a.mp4",
+        "video_link": "",
+        "image": "shopify://shop_images/KOOZI-CAMPAIGN-168.jpg",
+        "overlay_opacity": 10,
+        "text_color": "text-light",
+        "title": "",
+        "heading_highlight_type": "italics",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "text": "",
+        "heading_size": 100,
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--white",
+        "button_style": "btn--solid-border",
+        "button_size": "btn--small"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_text_UEP638",
+    "section_banner_image_bbQGQY",
+    "ss_featured_collection_7_wMdzcB",
+    "section_list_collection_Uc9Yib",
+    "ss_featured_collection_7_k7i4PU",
+    "section_products_list_GCQFGQ",
+    "section_press_HB7Gc6",
+    "section_video_GYCPwd"
+  ]
+}

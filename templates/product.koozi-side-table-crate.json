@@ -1,0 +1,1813 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "subheading": "none",
+            "padding_bottom": 4
+          }
+        },
+        "feature_RmkKPF": {
+          "type": "feature",
+          "disabled": true,
+          "settings": {
+            "icon_name": "none",
+            "icon_width": 25,
+            "title": "",
+            "text": "<p>- FREE shipping Australia wide<br/>- FREE premium linen or boucle bed included</p>",
+            "bg_color": "#f4f3ef",
+            "text_color": "#000000",
+            "padding_bottom": 12
+          }
+        },
+        "divider_RANghx": {
+          "type": "divider",
+          "disabled": true,
+          "settings": {
+            "show_line": false,
+            "padding_bottom": 8
+          }
+        },
+        "judge_me_reviews_preview_badge_teAgrb": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider_CPe4MN": {
+          "type": "divider",
+          "settings": {
+            "show_line": false,
+            "padding_bottom": 20
+          }
+        },
+        "inventory_countdown_B8mUmB": {
+          "type": "inventory_countdown",
+          "disabled": true,
+          "settings": {
+            "max_inventory": 20,
+            "hide_inventory_count": false,
+            "padding_bottom": 20
+          }
+        },
+        "divider_Y869th": {
+          "type": "divider",
+          "settings": {
+            "show_line": false,
+            "padding_bottom": 12
+          }
+        },
+        "feature_c6K9CM": {
+          "type": "feature",
+          "settings": {
+            "icon_name": "none",
+            "icon_width": 20,
+            "title": "Autumn Special - Receive a free bed with your purchase - valued at $179",
+            "text": "<p><strong>Here's how to claim:</strong><br/><strong>1. Add Side Table Dog Crate to cart<br/>2. Choose bed colour and fabric in cart</strong></p>",
+            "bg_color": "#dde4f2",
+            "text_color": "#1d1e20",
+            "padding_bottom": 48
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "show_labels": true,
+            "show_quantity": false,
+            "show_payment_button": true,
+            "enable_subscriptions_selectors": false,
+            "padding_bottom": 10
+          }
+        },
+        "divider_aYGAMU": {
+          "type": "divider",
+          "settings": {
+            "show_line": false,
+            "padding_bottom": 4
+          }
+        },
+        "custom_code_6GEaPj": {
+          "type": "custom_code",
+          "disabled": true,
+          "settings": {
+            "custom_code": "<a href=\"https://koozipets.com.au/products/retreat-bundle-crate-flat-bed\" title=\"Retreat Bundle\" style=\"display: flex; align-items: center; background-color: #F1EFE8; padding: 10px; border-radius: 10px;\">\n    <img src=\"{{ product.featured_image | img_url: '200x200' }}\" alt=\"{{ product.title }}\" style=\"width: 50px; margin-right: 10px;\" />\n    <div>\n        <span style=\"font-weight: normal; font-size: 14px;\">Limited Offer: Free Plush Flat Bed with the Koozi Side Table Dog Crate</span><br>\n        <span style=\"font-weight: 300; font-size: 13px;\"> \nGet a FREE dog bed, in linen or boucle, for a limited time only &rarr;</span>\n    </div>\n</a>",
+            "padding_bottom": 20
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "padding_bottom": 28
+          }
+        },
+        "divider_9PVaG6": {
+          "type": "divider",
+          "settings": {
+            "show_line": false,
+            "padding_bottom": 6
+          }
+        },
+        "icon_8qFP4M": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "package",
+            "icon_color": "",
+            "icon_width": 20,
+            "icon_text": "Enjoy free shipping in April & save up to $150!",
+            "text_size": 95,
+            "width": "full",
+            "text_alignment": "center",
+            "bg_color": "#f4f3ef",
+            "padding_bottom": 42
+          }
+        },
+        "divider_EpdBn4": {
+          "type": "divider",
+          "disabled": true,
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 2
+          }
+        },
+        "judge_me_reviews_featured_carousel_wFLpxh": {
+          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
+          "settings": {
+            "maxwidth": 1080
+          }
+        },
+        "divider_irhbii": {
+          "type": "divider",
+          "disabled": true,
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 6
+          }
+        },
+        "9927e90d-2ecb-4104-af67-0dadf75b2a0a": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "Overview",
+            "heading_style": "font-body",
+            "accordion_text": "<p><strong>The Most Aesthetic Dog Crate. </strong>Your home is a sanctuary for both you and your dog, but their retreat shouldn’t be an eyesore.</p><p>The Koozi Side Table Dog Crate is unlike any other. It gives your dog a cosy, secure den while seamlessly blending into your home’s interiors — with no compromise on style. Whether you’re crate training or simply offering a peaceful retreat, this is a true lifetime investment. It doubles as a sleek side table, providing two essentials in one.</p>",
+            "accordion_page": "",
+            "padding_bottom": 8
+          }
+        },
+        "divider_9HKpnx": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 26
+          }
+        },
+        "product_accordion_b48M3x": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "Features and Materials",
+            "heading_style": "font-body",
+            "accordion_text": "<p></p><p><em>Designed in Sydney Australia</em></p><p><strong>Materials</strong></p><p><strong>Structure</strong>: Elm grain plywood for durability and a natural finish.<br/><strong>Surface top</strong>: White Carrara marble-effect surface top, crafted with lightweight, low-maintenance laminate materials. Designed for modern living, it is heat, scratch, and moisture-resistant, providing a durable and dog-safe foundation.</p><h5><strong>Features</strong></h5><ul><li><strong>Lifetime Value:</strong> Built to last your dog's lifetime, designed to forever fit your home.</li><li><strong>Innovative Transparent Pocket Door:</strong> Allows for flexible use as a dog den or crate for training.</li><li><strong>Sleek Functional Details:</strong> Double gold brass locks and rubber grip feet for added stability and style.</li><li><strong>Built for Small to Medium Dogs:</strong> Compact yet spacious, designed to fit perfectly into modern home interiors.</li><li><strong>Optimised Airflow:</strong> Elongated air holes ensure proper ventilation and comfort for your pet.</li><li><strong>Scratch-Proof Interior:</strong> Interior finish resists scratches, keeping the crate looking pristine.</li><li><strong>Rubber Feet for Grip:</strong> Protects your floors by preventing scratches and ensuring stability.</li><li><strong>Flat-Packed & Simple Assembly:</strong> Easy to assemble with minimal effort, ensuring a hassle-free setup.</li></ul><h5>Details and Care</h5><ul><li><strong>Weight:</strong> Small Size: 24kg | Medium Size: 34kg</li><li><strong>Weight capacity:</strong> 35kg</li><li><strong>Care: </strong>Clean with mild detergent/water and cloth dry</li></ul>",
+            "accordion_page": "",
+            "padding_bottom": 8
+          }
+        },
+        "divider_QkAA8t": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 24
+          }
+        },
+        "product_accordion_RKN9qN": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "What's Included",
+            "heading_style": "font-body",
+            "accordion_text": "<p></p><p><strong>Your Dog’s Forever Sanctuary: The Ultimate 2-in-1 Dog Crate & Side Table Furniture Piece</strong></p><ul><li><strong>1 x Dog Crate / Side Table: </strong>A durable comfy crate that doubles as a side table.</li><li><strong>1 x Flat Dog Bed</strong> <strong>in linen or boucle</strong><em><strong> -  Free for a limited time</strong></em><strong>: </strong>Memory foam flat bed for joint support, with a stylish, machine-washable cover, waterproof liner, and non-slip base. Must add it on in cart.</li><li><strong>Free Delivery:</strong> Australia wide</li><li><strong>Pocket Door System</strong> –  A sliding pocket door is attached, and can be stowed away to create an open den, or closed for crate training.</li></ul>",
+            "accordion_page": "",
+            "padding_bottom": 8
+          }
+        },
+        "divider_WKLamV": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 24
+          }
+        },
+        "product_accordion_KYaiAp": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "Free Delivery and Warranty",
+            "heading_style": "font-body",
+            "accordion_text": "<p><strong><br/>Summer Sale: Free delivery - Australia wide</strong></p><ul><li>Orders are dispatched within 1-2 business days from our Sydney warehouse, with delivery typically taking 4-10 business days, depending on your location. </li><li>You’ll receive an order confirmation email with tracking details once your order is dispatched.<br/></li></ul><p>Please put residential addresses only. We cannot ship to PO Boxes. </p><p><strong>Warranty<br/></strong>Shop with peace of mind. We offer 12 month manufacturers warranty.</p>",
+            "accordion_page": "",
+            "padding_bottom": 8
+          }
+        },
+        "divider_FAjMJD": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 32
+          }
+        },
+        "icon_row_eTeKrQ": {
+          "type": "icon_row",
+          "disabled": true,
+          "settings": {
+            "icon_name_1": "paw-heart",
+            "icon_color_1": "",
+            "icon_width_1": 20,
+            "icon_text_1": "2-in-1 crate & table",
+            "icon_name_2": "paw-heart",
+            "icon_color_2": "",
+            "icon_width_2": 20,
+            "icon_text_2": "Anxiety soothing safe space",
+            "icon_name_3": "paw-heart",
+            "icon_color_3": "",
+            "icon_width_3": 20,
+            "icon_text_3": "Durable & Lasts their Lifetime",
+            "icon_name_4": "paw-heart",
+            "icon_color_4": "",
+            "icon_width_4": 20,
+            "icon_text_4": "Use as a Crate or Den",
+            "alignment": "center",
+            "bg_color": "rgba(0,0,0,0)",
+            "padding_bottom": 22
+          }
+        },
+        "icon_row_P4NiF3": {
+          "type": "icon_row",
+          "settings": {
+            "icon_name_1": "paw-heart",
+            "icon_color_1": "",
+            "icon_width_1": 20,
+            "icon_text_1": "2-in-1 Side Table Crate",
+            "icon_name_2": "map-pin",
+            "icon_color_2": "",
+            "icon_width_2": 20,
+            "icon_text_2": "Based in Sydney Australia",
+            "icon_name_3": "check",
+            "icon_color_3": "",
+            "icon_width_3": 20,
+            "icon_text_3": "12 Month Warranty Guarantee",
+            "icon_name_4": "star",
+            "icon_color_4": "",
+            "icon_width_4": 20,
+            "icon_text_4": "Top Rated 5-Star Reviews",
+            "alignment": "center",
+            "bg_color": "#ffffff",
+            "padding_bottom": 30
+          }
+        },
+        "divider_UXJh3V": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 38
+          }
+        },
+        "feature_QYXCAP": {
+          "type": "feature",
+          "settings": {
+            "icon_name": "support",
+            "icon_width": 25,
+            "title": "Have a question? Chat with us!",
+            "text": "<p>Click the chat bubble icon to connect instantly with our team, or email us anytime at <a href=\"mailto:hello@koozipets.com.au&quot;>hello@koozipets.com.au\" title=\"mailto:hello@koozipets.com.au&quot;>hello@koozipets.com.au\">hello@koozipets.com.au</a>.</p>",
+            "bg_color": "#f4f3ef",
+            "text_color": "#000000",
+            "padding_bottom": 36
+          }
+        },
+        "divider_J7ciaB": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 30
+          }
+        },
+        "upsell_jfgiEa": {
+          "type": "upsell",
+          "settings": {
+            "product_list": [
+              "soft-topper-milk-white",
+              "soft-topper-dove-grey",
+              "cloud-sofa-dog-bed-denim-blue-linen"
+            ],
+            "padding_bottom": 20
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "feature_RmkKPF",
+        "divider_RANghx",
+        "judge_me_reviews_preview_badge_teAgrb",
+        "divider_CPe4MN",
+        "inventory_countdown_B8mUmB",
+        "divider_Y869th",
+        "feature_c6K9CM",
+        "form",
+        "divider_aYGAMU",
+        "custom_code_6GEaPj",
+        "description",
+        "divider_9PVaG6",
+        "icon_8qFP4M",
+        "divider_EpdBn4",
+        "judge_me_reviews_featured_carousel_wFLpxh",
+        "divider_irhbii",
+        "9927e90d-2ecb-4104-af67-0dadf75b2a0a",
+        "divider_9HKpnx",
+        "product_accordion_b48M3x",
+        "divider_QkAA8t",
+        "product_accordion_RKN9qN",
+        "divider_WKLamV",
+        "product_accordion_KYaiAp",
+        "divider_FAjMJD",
+        "icon_row_eTeKrQ",
+        "icon_row_P4NiF3",
+        "divider_UXJh3V",
+        "feature_QYXCAP",
+        "divider_J7ciaB",
+        "upsell_jfgiEa"
+      ],
+      "custom_css": [
+        "h1 {font-size: 20px;}",
+        "@media (max-width: 768px) {.product__price--regular {font-size: 14px; }}",
+        ".icons-row-block__text {font-size: 12px;}",
+        ".radio__fieldset .radio__input:checked ~ .radio__label {border-width: 2px;}",
+        ".radio__label {font-size: 14px;}"
+      ],
+      "settings": {
+        "product_sticky_enable": true,
+        "image_layout": "grid",
+        "image_width": "large",
+        "product_image_aspect_ratio": true,
+        "enable_zoom": true,
+        "enable_video_looping": true,
+        "bg_color": "#ffffff",
+        "width": "wrapper--full-padded",
+        "padding_top": 28,
+        "padding_bottom": 24
+      }
+    },
+    "section_text_TpJ7KP": {
+      "type": "section-text",
+      "blocks": {
+        "subheading_eDA8yt": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p>Details you'll love</p>",
+            "size": 110,
+            "margin_bottom": 16
+          }
+        },
+        "heading_YYPHCz": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>The Koozi Crate Difference</p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_eDA8yt",
+        "heading_YYPHCz"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 60,
+        "padding_bottom": 20
+      }
+    },
+    "section_icons_row_yVW9Fr": {
+      "type": "section-icons-row",
+      "blocks": {
+        "text_kjrLYN": {
+          "type": "text",
+          "settings": {
+            "icon_name": "check",
+            "title": "2-in-1 Dog Crate & Side Table",
+            "text": ""
+          }
+        },
+        "text_dJqGpi": {
+          "type": "text",
+          "settings": {
+            "icon_name": "smile",
+            "title": "Anxiety Soothing Safe Space",
+            "text": ""
+          }
+        },
+        "text_B8CHMT": {
+          "type": "text",
+          "settings": {
+            "icon_name": "shield",
+            "title": "Durable & Lasts Their Lifetime",
+            "text": ""
+          }
+        },
+        "text_rQEqFp": {
+          "type": "text",
+          "settings": {
+            "icon_name": "paw-heart",
+            "title": "Use as a Crate or Cosy Den",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_kjrLYN",
+        "text_dJqGpi",
+        "text_B8CHMT",
+        "text_rQEqFp"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "alignment": "center",
+        "columns": 4,
+        "icons_width": 20,
+        "show_vertical_borders": true,
+        "show_horizontal_borders": false,
+        "heading_size": 90,
+        "text_size": 90,
+        "bg_color": "#ffffff",
+        "text_color": "#080809",
+        "box_color": "rgba(0,0,0,0)",
+        "color_border": "#333333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "layout_mobile": "stacked",
+        "width": "wrapper--full-padded",
+        "padding_top": 24,
+        "padding_bottom": 56
+      }
+    },
+    "ss_video_banner_GmX6ag": {
+      "type": "ss-video-banner",
+      "blocks": {
+        "slide_D7Je8a": {
+          "type": "slide",
+          "settings": {
+            "autoplay": true,
+            "video": "shopify://files/videos/BUNDLE - 16X9 (1).mp4",
+            "video_url": "",
+            "title": "",
+            "subtitle": "",
+            "button": "",
+            "button_url": "shopify://collections/all",
+            "second_button": "",
+            "second_button_url": "shopify://collections/all"
+          }
+        }
+      },
+      "block_order": [
+        "slide_D7Je8a"
+      ],
+      "settings": {
+        "height": 640,
+        "height_mobile": 380,
+        "overlay_opacity": 0,
+        "interval": 5,
+        "image_object_fit": "cover",
+        "vertical_alignment": "center",
+        "horizontal_alignment": "center",
+        "title_custom": false,
+        "title_font": "josefin_sans_n4",
+        "title_size": 50,
+        "title_size_mobile": 32,
+        "title_height": 130,
+        "subtitle_custom": false,
+        "subtitle_font": "josefin_sans_n4",
+        "subtitle_size": 16,
+        "subtitle_size_mobile": 16,
+        "subtitle_height": 130,
+        "subtitle_mt": 20,
+        "buttons_mt": 20,
+        "buttons_gap": 20,
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 16,
+        "button_size_mobile": 16,
+        "button_height": 120,
+        "button_padding_vertical": 16,
+        "button_padding_vertical_mobile": 16,
+        "button_padding_horizontal": 32,
+        "button_padding_horizontal_mobile": 32,
+        "button_radius": 0,
+        "button_border_thickness": 0,
+        "button_color": "#000000",
+        "button_hover_color": "#ffffff",
+        "button_bg_color": "#ffffff",
+        "button_bg_hover_color": "#000000",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "second_button_color": "#000000",
+        "second_button_hover_color": "#ffffff",
+        "second_button_bg_color": "#ffffff",
+        "second_button_bg_hover_color": "#000000",
+        "second_button_border_color": "#000000",
+        "second_button_border_hover_color": "#000000",
+        "title_color": "#ffffff",
+        "subtitle_color": "#ffffff",
+        "overlay_color": "#000000",
+        "background_color": "#535353",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 3,
+        "padding_horizontal_mobile": 0,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "section_width": 120,
+        "section_radius": 0,
+        "lazy": false
+      }
+    },
+    "section_accordions_zc3Y94": {
+      "type": "section-accordions",
+      "blocks": {
+        "text_f4CkNc": {
+          "type": "text",
+          "settings": {
+            "title": "Why Choose the Koozi Crate?",
+            "text": "<p>Forget everything you thought you knew about dog crates. Traditional ones are bulky, unattractive, and take up too much space. The Koozi Crate changes all that. It’s a secure, cosy sanctuary for your dog and a sleek, functional side table for your home. A true 2-in-1 solution, it’s space-saving, stylish, and built to last. <br/><br/>Whether you use it as a dog den or for crate training, it will adapt to you and your dog's needs.</p><p>If you’ve ever ruled  out a crate because of how it looks - or worried your dog wouldn’t take to it- the Koozi Crate will change your mind.</p><p></p><p>Plus enjoy free delivery and a free linen or boucle bed to match. </p>"
+          }
+        },
+        "text_bVMbqQ": {
+          "type": "text",
+          "settings": {
+            "title": "Who is the Koozi Crate for?",
+            "text": "<p>The Koozi Crate is for dog parents looking to replace mismatched crates or worn-out beds with a lasting solution that provides style, comfort and security. Designed as both a cosy, safe retreat for your dog and a stylish side table for your home, the Koozi Crate offers two essentials in one – a timeless investment you won’t want to hide away.</p>"
+          }
+        },
+        "text_Lga3tA": {
+          "type": "text",
+          "settings": {
+            "title": "If we don't crate train, is the Koozi Crate for us?",
+            "text": "<p>Yes! Absolutely. Even if you don’t crate train, the Koozi Crate is designed to serve as a cosy den with the door up, offering a safe and secure space for your dog - particularly dogs with anxiety. Vets recommend crates because dogs naturally seek secure places to relax. So whether you crate train or not, the Koozi Crate provides your dog with a peaceful retreat, while functioning as a side table for your home.</p>"
+          }
+        },
+        "text_aqpX73": {
+          "type": "text",
+          "settings": {
+            "title": "Where do I place the Koozi Crate in my home?",
+            "text": "<p>Think of it this way: where would you put a side table? Since the Koozi Crate is more than just a dog crate, there’s no need to hide it away. Place it next to your sofa for easy access, in a shaded corner of your home, by your bedside for a peaceful nighttime retreat, or in your office to keep your dog close, all the while giving them their own safe comfy space. </p>"
+          }
+        },
+        "text_BMjpxB": {
+          "type": "text",
+          "settings": {
+            "title": "What is the right size for my dog?",
+            "text": "<p>The Koozi crate is available in two sizes: XS/S for small dogs and medium for medium-sized dogs. Choosing the right size depends on how you plan to use the crate and your dog’s preferences. </p><p>We recommend measuring your dog and reviewing the crate dimensions before purchasing. Refer to our size guide at the top of the page.</p><p>For more guidance, reach out to us at <a>hello@koozipets.com.au </a>for personalised assistance in choosing the best size for your dog.</p>"
+          }
+        },
+        "text_iFFJ8C": {
+          "type": "text",
+          "settings": {
+            "title": "Why is it more expensive than caged wire crates?",
+            "text": "<p>The Koozi Crate is more than just a dog crate—it’s a high-quality, multifunctional furniture piece that combines a stylish side table with a comfortable retreat for your dog. </p><p>This clever design maximises space, saving both cost and clutter compared to purchasing a wire dog crate and a separate side table. The price reflects the premium materials and expert craftsmanship used to create its unique design, ensuring long-term durability and value. <br/><br/>It's an investment in your dog's comfort, and in your home.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_f4CkNc",
+        "text_bVMbqQ",
+        "text_Lga3tA",
+        "text_aqpX73",
+        "text_BMjpxB",
+        "text_iFFJ8C"
+      ],
+      "custom_css": [
+        "h6 {font-size: 10px;}"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": true,
+        "title": "",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "rgba(0,0,0,0)",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 54,
+        "padding_bottom": 42
+      }
+    },
+    "section_divider_agAHGL": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": false,
+        "width": "wrapper",
+        "padding_top": 14,
+        "padding_bottom": 14
+      }
+    },
+    "section_text_FkhzkB": {
+      "type": "section-text",
+      "blocks": {
+        "subheading_GV9ir6": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "<p>SAY GOODBYE TO THE EYESORE OF CHEAP UGLY WIRE CRATES </p>",
+            "size": 115,
+            "margin_bottom": 23
+          }
+        },
+        "heading_agAFNT": {
+          "type": "heading",
+          "settings": {
+            "text": "<h1>Your dog’s forever den — designed to last their lifetime <em>and</em> blend beautifully into your home.</h1>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#3a5b9e",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "text_Ce4PaX": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "subheading_GV9ir6",
+        "heading_agAFNT",
+        "text_Ce4PaX"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 64,
+        "padding_bottom": 12
+      }
+    },
+    "section_divider_QDpiid": {
+      "type": "section-divider",
+      "disabled": true,
+      "settings": {
+        "show_line": false,
+        "width": "wrapper",
+        "padding_top": 26,
+        "padding_bottom": 24
+      }
+    },
+    "section_columns_6b33Aw": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_yyYrM3": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-94.jpg",
+            "title": "2-in-1 Side Table & Dog Crate / Den",
+            "text": "<p>Finally, a dog crate that fits with your furniture. Doubling as a side table, it turns an eyesore into a refined piece of furniture and a cosy dog retreat.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_mRVnJd": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/sliding_door.jpg",
+            "title": "Versatile Transparent Door System",
+            "text": "<p>The transparent acrylic door slides up and inwards to be hidden or pulled down to close, letting you switch between a den or a crate.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_nbHHU9": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Side_Table_Crate_Marble_Detail.jpg",
+            "title": "Sleek Carrara Marble Style Top",
+            "text": "<p>The white Carrara marble style top adds simple luxury. Made from engineered materials, it's lightweight, stain-resistant & easy to clean - blending beauty with practicality.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_yyYrM3",
+        "text_block_mRVnJd",
+        "text_block_nbHHU9"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "columns": 3,
+        "columns_mobile": "2",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 1.1,
+        "mobile_aspect_ratio": 1,
+        "heading_size": 120,
+        "text_size": 90,
+        "bg_color_secondary": false,
+        "color_borders": "#000000",
+        "layout_mobile": "stacked",
+        "width": "wrapper",
+        "padding_top": 56,
+        "padding_bottom": 10
+      }
+    },
+    "section_columns_adwgfY": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_hzErcK": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-STUDIO-239.jpg",
+            "title": "Durable Elm Wood Grain Structure",
+            "text": "<p>The structure features the natural beauty of light elm wood grain, combined with scratch-resistant engineered materials for a durable, lasting design.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_Uhbbic": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Medium_crate_side_on.jpg",
+            "title": "Enhanced Airflow Design",
+            "text": "<p>Three rows of air holes on each side ensure optimal airflow, keeping your dog comfortable. In warmer months, add a fan to boost air circulation.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_gkwe3m": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/brass_lock_detail.jpg",
+            "title": "Gold Brass Locks",
+            "text": "<p>The door features two gold brass locks that slide into recessed holes in the base, offering a sleek and secure design for those who crate train.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_hzErcK",
+        "text_block_Uhbbic",
+        "text_block_gkwe3m"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "columns": 3,
+        "columns_mobile": "1",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 1,
+        "mobile_aspect_ratio": 1,
+        "heading_size": 120,
+        "text_size": 90,
+        "bg_color_secondary": false,
+        "color_borders": "#000000",
+        "layout_mobile": "stacked",
+        "width": "wrapper",
+        "padding_top": 26,
+        "padding_bottom": 66
+      }
+    },
+    "section_icons_row_h8M8WT": {
+      "type": "section-icons-row",
+      "blocks": {
+        "text_9cCWGc": {
+          "type": "text",
+          "settings": {
+            "icon_name": "shield",
+            "title": "A retreat they call their own - forever",
+            "text": "<p>Your dog deserves their own space. Whether it's for crate training or enjoying a cosy den, this is a sanctuary they'll love for life.</p>"
+          }
+        },
+        "text_4UDQcM": {
+          "type": "text",
+          "settings": {
+            "icon_name": "heart",
+            "title": "Reduces anxiety by providing a safe space",
+            "text": "<p>Dogs have a natural instinct to retreat to a small, secure den. In our human world, giving them their own dedicated safe space brings a sense of calm.</p>"
+          }
+        },
+        "text_Wm3nha": {
+          "type": "text",
+          "settings": {
+            "icon_name": "paw-heart",
+            "title": "Paw'fect for puppies & dogs of all ages",
+            "text": "<p>Introducing the dog crate early on, helps puppies with training, and lets them grow up loving their den. It becomes their cosy, safe space throughout their dog years.</p>"
+          }
+        },
+        "text_4F7Lnt": {
+          "type": "text",
+          "settings": {
+            "icon_name": "package",
+            "title": "Assemble the Dog Crate in 15 minutes",
+            "text": "<p>The Koozi Side Table Dog Crate arrives flat-packed with easy assembly, and we offer free live support to help you every step of the way!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_9cCWGc",
+        "text_4UDQcM",
+        "text_Wm3nha",
+        "text_4F7Lnt"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "alignment": "center",
+        "columns": 4,
+        "icons_width": 30,
+        "show_vertical_borders": false,
+        "show_horizontal_borders": true,
+        "heading_size": 100,
+        "text_size": 90,
+        "bg_color": "#f5f4f1",
+        "text_color": "#333333",
+        "box_color": "#f5f4f1",
+        "color_border": "#333333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "layout_mobile": "stacked",
+        "width": "wrapper",
+        "padding_top": 24,
+        "padding_bottom": 22
+      }
+    },
+    "ss_video_banner_irf7Dt": {
+      "type": "ss-video-banner",
+      "blocks": {
+        "slide_yfdN64": {
+          "type": "slide",
+          "settings": {
+            "autoplay": true,
+            "video": "shopify://files/videos/CRATE DEMO 1x1.mp4",
+            "video_url": "",
+            "title": "",
+            "subtitle": "",
+            "button": "",
+            "button_url": "shopify://collections/all",
+            "second_button": "",
+            "second_button_url": "shopify://collections/all"
+          }
+        }
+      },
+      "block_order": [
+        "slide_yfdN64"
+      ],
+      "settings": {
+        "height": 600,
+        "height_mobile": 380,
+        "overlay_opacity": 0,
+        "interval": 5,
+        "image_object_fit": "cover",
+        "vertical_alignment": "center",
+        "horizontal_alignment": "center",
+        "title_custom": false,
+        "title_font": "josefin_sans_n4",
+        "title_size": 50,
+        "title_size_mobile": 32,
+        "title_height": 130,
+        "subtitle_custom": false,
+        "subtitle_font": "josefin_sans_n4",
+        "subtitle_size": 16,
+        "subtitle_size_mobile": 16,
+        "subtitle_height": 130,
+        "subtitle_mt": 20,
+        "buttons_mt": 20,
+        "buttons_gap": 20,
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 16,
+        "button_size_mobile": 16,
+        "button_height": 120,
+        "button_padding_vertical": 16,
+        "button_padding_vertical_mobile": 16,
+        "button_padding_horizontal": 32,
+        "button_padding_horizontal_mobile": 32,
+        "button_radius": 0,
+        "button_border_thickness": 0,
+        "button_color": "#000000",
+        "button_hover_color": "#ffffff",
+        "button_bg_color": "#ffffff",
+        "button_bg_hover_color": "#000000",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "second_button_color": "#000000",
+        "second_button_hover_color": "#ffffff",
+        "second_button_bg_color": "#ffffff",
+        "second_button_bg_hover_color": "#000000",
+        "second_button_border_color": "#000000",
+        "second_button_border_hover_color": "#000000",
+        "title_color": "#ffffff",
+        "subtitle_color": "#ffffff",
+        "overlay_color": "#000000",
+        "background_color": "#535353",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 3,
+        "padding_horizontal_mobile": 1.5,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "section_width": 120,
+        "section_radius": 0,
+        "lazy": false
+      }
+    },
+    "section_press_fpmG36": {
+      "type": "section-press",
+      "blocks": {
+        "press_TykiXN": {
+          "type": "press",
+          "settings": {
+            "text": "<h4>\"This is the ultimate aesthetic crate upgrade for any dog-inclusive home.\"</h4>",
+            "link": "",
+            "press_logo": "shopify://shop_images/Racquel_vesper.png",
+            "logo_width": 180
+          }
+        },
+        "press_aX3cLF": {
+          "type": "press",
+          "disabled": true,
+          "settings": {
+            "text": "<p><strong>\"I never thought a dog crate could look this good. Best investment. \"</strong></p>",
+            "link": "",
+            "press_logo": "shopify://shop_images/Mark_cashion_8f4e29d6-a991-467b-9380-e506e4349d98.png",
+            "logo_width": 120
+          }
+        }
+      },
+      "block_order": [
+        "press_TykiXN",
+        "press_aX3cLF"
+      ],
+      "settings": {
+        "title": "",
+        "show_quotations": true,
+        "show_rounded_corners": false,
+        "autoplay": false,
+        "duration": 3,
+        "bg_color_secondary": true,
+        "width": "wrapper--narrow",
+        "padding_top": 50,
+        "padding_bottom": 60
+      }
+    },
+    "section_text_yhfzW6": {
+      "type": "section-text",
+      "blocks": {
+        "heading_nV8fAF": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>\"This is the Aesthetic Crate Upgrade for All Pet-Inclusive Homes\"</p>",
+            "size": 95,
+            "heading_highlight_type": "squiggle",
+            "highlight_color": "#3a5b9e",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "text_XXR3Nb": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p><strong>A Dog Crate, Cosy Dog Den and Side Table Furniture - All in One.</strong> Enjoy the flexibility of leaving the crate door open for a cosy retreat, or closed for crate training. Dog furniture should beautifully integrate into your home, not be an eyesore. At Koozi, we make it happen.</p>",
+            "size": 110
+          }
+        }
+      },
+      "block_order": [
+        "heading_nV8fAF",
+        "text_XXR3Nb"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 90,
+        "padding_bottom": 22
+      }
+    },
+    "section_sticky_images_and_text_3zqdQL": {
+      "type": "section-sticky-images-and-text",
+      "blocks": {
+        "slide_pnq8Jn": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/heroimages_copy_2_48e9cd6a-6a69-4646-a931-823c224b423d.jpg",
+            "image_mobile": "shopify://shop_images/KOOZI-CAMPAIGN-143_copy.png",
+            "truncate_text": false,
+            "title_length": 10,
+            "content_length": 30,
+            "subheading": "",
+            "title": "",
+            "heading_size": 130,
+            "content": "<p>Your home is your sanctuary. The Koozi Side Table Dog Crate is designed with modern dog parents in mind, to offer both interior style and functionality.</p>",
+            "text_size": 100,
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small",
+            "video_link": "",
+            "video_text": ""
+          }
+        },
+        "slide_hK4bVF": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Koozi_side_table_dog_crate_sofa_topper.jpg",
+            "image_mobile": "shopify://shop_images/Koozi_side_table_dog_crate_sofa_topper.jpg",
+            "truncate_text": false,
+            "title_length": 10,
+            "content_length": 15,
+            "subheading": "",
+            "title": "",
+            "heading_size": 130,
+            "content": "<p>Picture a peaceful afternoon at home, relaxing with friends, family, or enjoying some solo R&R. Your dog is curled up comfortably in their Koozi Dog Crate.</p>",
+            "text_size": 100,
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small",
+            "video_link": "",
+            "video_text": ""
+          }
+        },
+        "slide_DFP38R": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Koozi_side_table_dog_crate_two_dogs.jpg",
+            "image_mobile": "shopify://shop_images/Koozi_side_table_dog_crate_two_dogs.jpg",
+            "truncate_text": false,
+            "title_length": 10,
+            "content_length": 15,
+            "subheading": "",
+            "title": "",
+            "heading_size": 130,
+            "content": "<p>You sip your tea or wine, admiring the marble side table as you set your cup down. You reach down to stroke your sleeping dog before settling back into your book or conversation, savouring the moments in your shared sanctuary.</p>",
+            "text_size": 100,
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small",
+            "video_link": "",
+            "video_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_pnq8Jn",
+        "slide_hK4bVF",
+        "slide_DFP38R"
+      ],
+      "disabled": true,
+      "settings": {
+        "scroll_direction": "vertical",
+        "text_alignment": "right",
+        "image_position": "",
+        "space_around_images": true,
+        "image_width": "standard",
+        "aspect_ratio_desktop": 1,
+        "aspect_ratio_mobile": 1.1,
+        "show_single_text": false,
+        "text_color": "text-dark",
+        "bg_color": "",
+        "gradient": "linear-gradient(180deg, rgba(255, 255, 255, 1) 3%, rgba(237, 229, 220, 1) 100%)",
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_testimonials_with_images_Jqa9Jw": {
+      "type": "section-testimonials-with-images",
+      "blocks": {
+        "image_fgMihy": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/Wendy_Cody_studio_side_table_crate.jpg",
+            "aspect_ratio": 1.3,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_7Ppem8": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/side_table_crate_medium_archie_studio.jpg",
+            "aspect_ratio": 1.3,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_Y7PckR": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/KOOZI-STUDIO-side_table_crate-air-hole-detail.jpg",
+            "aspect_ratio": 1.3,
+            "heading": "",
+            "text_size": 105,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_GzXAHF": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/KOOZI-STUDIO-side_table_crate-marble.jpg",
+            "aspect_ratio": 1.3,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_BkpnRC": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/KOOZI-STUDIO-side_table_crate-close_up.jpg",
+            "aspect_ratio": 1.3,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_gfpRYQ": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/KOOZI-STUDIO-side_table_crate-luna.jpg",
+            "aspect_ratio": 1.3,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_RXeqqB": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/KOOZI-STUDIO-side_table_crate-lock-detail.jpg",
+            "aspect_ratio": 1.3,
+            "heading": "",
+            "text_size": 100,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "image_fgMihy",
+        "image_7Ppem8",
+        "image_Y7PckR",
+        "image_GzXAHF",
+        "image_BkpnRC",
+        "image_gfpRYQ",
+        "image_RXeqqB"
+      ],
+      "disabled": true,
+      "settings": {
+        "subheading": "The Koozi Side Table Dog Crate",
+        "subheading_size": 100,
+        "title": "",
+        "heading_size": 100,
+        "text_alignment": "text-left",
+        "bg_color": "#f5f4f1",
+        "testimonial_block_color": "",
+        "star_color": "",
+        "testimonial_text_color": "text-dark",
+        "width": "wrapper--full-padded",
+        "padding_top": 38,
+        "padding_bottom": 38
+      }
+    },
+    "section_text_eqLrkr": {
+      "type": "section-text",
+      "blocks": {
+        "heading_LAC8qN": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Naptime Never Looked So Koozi...</p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "text_QPP8NH": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Your dog will love curling up in their very own cosy den, while you can enjoy a side table thats as stylish as it is functional. Perfect as a bedside table or end-table for your living room.</p>",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "heading_LAC8qN",
+        "text_QPP8NH"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 80,
+        "padding_bottom": 12
+      }
+    },
+    "section_grid_8Qra6H": {
+      "type": "section-grid",
+      "blocks": {
+        "image_yeQML6": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-41_1.jpg",
+            "overlay_opacity": 0,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_3ViT8q": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify://shop_images/Opening_the_crate_side_table_in_bedromo-2.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_39ReKD": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-214_copy_b70fe9bf-8194-480a-b2d9-37d79834926c.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_m7GAAc": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-190_copy.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_Aq8ybG": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-33_1.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_qtVyRf": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-233_1.jpg",
+            "overlay_opacity": 10,
+            "text_position": "bottom-right",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        }
+      },
+      "block_order": [
+        "image_yeQML6",
+        "image_3ViT8q",
+        "image_39ReKD",
+        "image_m7GAAc",
+        "image_Aq8ybG",
+        "image_qtVyRf"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_height": "five-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "two-fifty-height-mobile",
+        "heading_size": 130,
+        "button_1_color": "btn--white",
+        "button_1_style": "btn--text",
+        "button_1_size": "btn--small",
+        "button_2_color": "btn--black",
+        "button_2_style": "btn--text",
+        "button_2_size": "btn--small",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": true,
+        "columns_mobile": "2",
+        "overlay_text": true,
+        "width": "wrapper--full",
+        "add_gutter": false,
+        "padding_top": 32,
+        "padding_bottom": 0
+      }
+    },
+    "tabs": {
+      "type": "section-accordions",
+      "blocks": {
+        "acordion-0": {
+          "type": "text",
+          "settings": {
+            "title": "What is the right size for my dog?",
+            "text": "<p>We recommend referring to our size guide at the top of the page, to ensure you choose the right size for your dog. <br/><br/>if you have any questions, reach out to us for personalised guidance at hello@koozipets.com.au.</p>"
+          }
+        },
+        "acordion-1": {
+          "type": "text",
+          "settings": {
+            "title": "How do I assemble the Koozi Crate?",
+            "text": "<p><strong>Simple Self Guided Assembly<br/></strong>The Koozi Side Table Dog Crate arrives flat-packed and can be assembled in 15 minutes. Allen key, screws and instruction manual are included, you just need a screwdriver. </p>"
+          }
+        },
+        "d0defd0d-94c3-403c-bd36-dc2f140a104f": {
+          "type": "text",
+          "settings": {
+            "title": "Warranty and returns",
+            "text": "<h4>Warranty Coverage</h4><p>Koozi Pets provides a <strong>12-month limited warranty</strong> covering manufacturing defects only. This warranty applies solely to defects from faulty workmanship.<br/><br/>The warranty period for Side Table Dog Crates purchased from Koozi is one (1) year from the date of purchase. If a replacement Side Table Dog Crate or part is provided, it will inherit the remaining warranty of the original item or one year from the replacement date.</p><p>During the warranty period, Koozi Pets will replace any products or parts of the Side Table Dog Crate that are proven to be defective due to improper material or workmanship, only. Repairs and/or replacements are provided at no charge to you, for eligible warranty claims.<br/><br/>The warranty does <strong>not</strong> cover:</p><ul><li><strong>Damage caused by improper assembly </strong>or not following the instructions when unpacking.</li><li><strong>Normal wear and tear</strong>, including any dog-related use, washing-related wear, weathering, sun-damage or corrosion.</li><li><strong>Damages due to use by pets</strong> (e.g., chewing, bites, rips, burns, excessive scratching, stains, or moisture/liquid damage).</li><li><strong>Damage from improper weight placement</strong> on the Side Table Crate.</li><li><strong>Scars, marks and colour</strong> that are characteristics of natural materials.</li><li><strong>Damage caused by spills </strong>such as acid, solvents, dyes or other corrosive materials, ink, paint, or bodily fluids.</li><li><strong>Commercial use</strong> damage, such as use in hotels or stores.</li></ul><p><br/>To make a claim please read our policy and steps to submit a claim <a href=\"https://koozipets.com.au/pages/warranty-and-returns\" target=\"_blank\" title=\"Warranty & Returns\">here</a>.</p><h6>Returns and Exchanges Policy</h6><p><strong>We do not offer returns or exchanges</strong> on the Side Table Crate, including for change of mind, as it is a<em> large furniture item</em> and cannot be returned once shipped to you. There is no way of you shipping it back to us.<br/><br/>Before purchasing, please ensure the Side Table Crate meets your dog’s size and has that you have an adequate space in your home to fit it.</p>"
+          }
+        },
+        "acordion-2": {
+          "type": "text",
+          "settings": {
+            "title": "What are the benefits of crate training?",
+            "text": "<p>Crate training can help dogs feel secure and comfortable by providing a personal, safe space that reduces anxiety and fosters a sense of routine, especially overnight. This practice is particularly beneficial during a puppy's early months and years, supporting their learning and growth, but it also serves as a practical and cherished retreat for dogs of all ages. The Koozi Side Table Crate continues to serve as a dedicated safe den for sleep and relaxation throughout your dog's life.</p><p>With the Koozi Side Table Crate, you can offer this essential comfort without the eyesore of traditional crates. Instead, it serves as a stylish statement piece that enhances your home decor. </p><p>Recognising that crate training is a personal choice that varies based on your dog's needs, our crate features a hidden pocket door system. This innovative design allows it to function as both a cosy den with the door up and a chic side table for your living space.</p>"
+          }
+        },
+        "text_fjHtf3": {
+          "type": "text",
+          "settings": {
+            "title": "How much weight can the tabletop support?",
+            "text": "<p>The tabletop surface can hold up to 40kg, making it perfect for flowers, bowls, books, lamps, clocks, photo frames, or other decorative accents.</p>"
+          }
+        },
+        "text_9hdUQn": {
+          "type": "text",
+          "settings": {
+            "title": "What is the recommended use guide?",
+            "text": "<p>The Koozi Side Table Dog Crate seamlessly combines style and functionality, making it a perfect addition to any room. Use it as a sleek side table beside your sofa or bed, while your dog enjoys it as a cozy den nearby.</p><p>For dogs or puppies new to crates, we recommend a gradual introduction and close monitoring of their behaviour. Do not leave them unattended if they show signs of being destructive; any damage caused by dogs is not covered by warranty.</p><p>We advocate for <strong>responsible</strong> crate training practices. Never leave your dog in the crate with the door closed if they appear distressed, and avoid long, extended periods inside. Remember, dog crates are not designed to be cages; they should provide a safe retreat for your furry friend. For more information and helpful tips, please refer to our recommended crate training guides available on our blog.</p><p>Do not put the crate directly in the sun - this is not good for your dog nor the crate. Find a shady spot in your home.</p>"
+          }
+        },
+        "text_yjA4iA": {
+          "type": "text",
+          "settings": {
+            "title": "When will my order ship and is it free?",
+            "text": "<p><strong>Enjoy FREE Shipping Australia wide </strong></p><p><strong>Delivery Timeframe</strong><br/>We ship from our warehouse in Sydney, with orders dispatching within 1 to 2 business days.<br/><br/>Delivery timeframe is typically between 4- 14 business days, depending on your location in Australia.</p><p>You will receive an order confirmation email once your order has been dispatched, along with a tracking link to monitor its progress.</p>"
+          }
+        },
+        "text_iRM9zw": {
+          "type": "text",
+          "settings": {
+            "title": "Is the Koozi Crate suitable for new puppies?",
+            "text": "<p>Yes, the Koozi Side Table Dog Crate is ideal for introducing your puppy to their own dedicated safe and cosy resting space while seamlessly integrating into your living spaces. Its durable design ensures it lasts a lifetime, beautifully complementing your home as your puppy grows.</p><p>The interior is built to withstand light scratching and is waterproof. However, we understand that accidents may happen during the toilet training phase. While our Plush Bed is waterproof and thick enough to protect the crate, we recommend placing a dedicated towel on the base of the crate beneath the bed for added protection of the wooden base. This precaution can help minimise hygiene concerns, staining, and odour issues from any toilet accidents.</p>"
+          }
+        },
+        "text_R3ff4V": {
+          "type": "text",
+          "settings": {
+            "title": "Does the Koozi Crate have enough ventilation?",
+            "text": "<p>Yes, the crate features three rows of elongated air holes on all three sides to provide excellent airflow, keeping your dog comfortable year-round. For added ventilation during warmer months, consider placing a fan nearby or positioning the crate in an air-conditioned space.</p>"
+          }
+        },
+        "text_C3yLyd": {
+          "type": "text",
+          "settings": {
+            "title": "How durable is the Koozi Crate?",
+            "text": "<p>The Koozi crate is designed to stand the test of time. Made with high-quality, dog-safe materials, its scratch-resistant frame and waterproof, stain-resistant finishes ensure durability without compromising style. It’s built to handle daily use and stay looking great for years to come.</p>"
+          }
+        },
+        "text_CpK9RK": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "title": "What accessories are compatible with the Koozi Side Table Dog Crate?",
+            "text": "<p><strong>Plush Flat Bed:</strong>  Our Plush Flat Bed is designed to fit perfectly into the Koozi Side Table Dog Crate. Available in luxurious linen and boucle fabric covers, its colours and shape complement the minimalist, modern, and organic style of the crate. This thoughtful design ensures that both you and your beloved dog can enjoy your Koozi moments together in comfort and style.</p><p><strong>Sofa Toppers:</strong> The Sofa Topper is a versatile accessory designed to enhance your dog’s comfort in multiple settings. Use it as an additional layer of cosiness inside the Koozi Side Table Dog Crate, or place it on the sofa next to your crate for easy access during cuddle time. You can even drape it over the end of your bed, ensuring that protection and added texture are always within reach. This stylish topper is perfect for moving around and can be used on various soft furnishings, making it a practical and chic addition to your home.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "acordion-0",
+        "acordion-1",
+        "d0defd0d-94c3-403c-bd36-dc2f140a104f",
+        "acordion-2",
+        "text_fjHtf3",
+        "text_9hdUQn",
+        "text_yjA4iA",
+        "text_iRM9zw",
+        "text_R3ff4V",
+        "text_C3yLyd",
+        "text_CpK9RK"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": true,
+        "title": "Frequently Asked Questions",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "rgba(0,0,0,0)",
+        "bg_color_secondary": true,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 50
+      }
+    },
+    "section_text_T3KLBQ": {
+      "type": "section-text",
+      "blocks": {
+        "heading_bEikVz": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Real Dog Parents, <br/>Real Moments with Koozi</p>",
+            "size": 95,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "subheading_g7b8zh": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p>Follow and tag us @koozipets to be featured</p>",
+            "size": 100,
+            "margin_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "heading_bEikVz",
+        "subheading_g7b8zh"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 70,
+        "padding_bottom": 22
+      }
+    },
+    "section_testimonials_with_images_k89qAW": {
+      "type": "section-testimonials-with-images",
+      "blocks": {
+        "image_LkRRKN": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/side_table_crate_-_testimonial_raffy.jpg",
+            "aspect_ratio": 1,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_ApePnw": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/Screenshot_2024-11-11_at_3.53.17_pm.png",
+            "aspect_ratio": 1,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_yAH7gD": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/Crate_review.jpg",
+            "aspect_ratio": 1,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_q9396r": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/border_collie_side_table_crate_review_photo.heic",
+            "aspect_ratio": 1,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_g3WGKj": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/Bailey_Side_Table_Crate_review.jpg",
+            "aspect_ratio": 1,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_DehCC7": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/IMG_0985.jpg",
+            "aspect_ratio": 1,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_YLekzy": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/IMG_0165_2.jpg",
+            "aspect_ratio": 1,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_cmNCE7": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/IMG_0879.jpg",
+            "aspect_ratio": 1,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "image_LkRRKN",
+        "image_ApePnw",
+        "image_yAH7gD",
+        "image_q9396r",
+        "image_g3WGKj",
+        "image_DehCC7",
+        "image_YLekzy",
+        "image_cmNCE7"
+      ],
+      "settings": {
+        "subheading": "",
+        "subheading_size": 100,
+        "title": "",
+        "heading_size": 100,
+        "text_alignment": "text-left",
+        "bg_color": "",
+        "testimonial_block_color": "",
+        "star_color": "",
+        "testimonial_text_color": "text-dark",
+        "width": "wrapper--full-padded",
+        "padding_top": 30,
+        "padding_bottom": 42
+      }
+    },
+    "17261050170f200733": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_d9LRP6": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_d9LRP6"
+      ],
+      "settings": {
+        "bg_color": "",
+        "width": "wrapper",
+        "padding_top": 26,
+        "padding_bottom": 30
+      }
+    },
+    "related": {
+      "type": "related-products",
+      "blocks": {
+        "related": {
+          "type": "related",
+          "settings": {
+            "title": "You May Also Like",
+            "product_recommendations_limit": 4
+          }
+        },
+        "recent": {
+          "type": "recent",
+          "settings": {
+            "title": "Recently viewed",
+            "product_recently_limit": 4
+          }
+        }
+      },
+      "block_order": [
+        "related",
+        "recent"
+      ],
+      "disabled": true,
+      "settings": {
+        "enable_tabs": true,
+        "columns_mobile": "1",
+        "type_style": "subheading-text",
+        "tab_heading_size": 120,
+        "bg_color": "",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_text_TpJ7KP",
+    "section_icons_row_yVW9Fr",
+    "ss_video_banner_GmX6ag",
+    "section_accordions_zc3Y94",
+    "section_divider_agAHGL",
+    "section_text_FkhzkB",
+    "section_divider_QDpiid",
+    "section_columns_6b33Aw",
+    "section_columns_adwgfY",
+    "section_icons_row_h8M8WT",
+    "ss_video_banner_irf7Dt",
+    "section_press_fpmG36",
+    "section_text_yhfzW6",
+    "section_sticky_images_and_text_3zqdQL",
+    "section_testimonials_with_images_Jqa9Jw",
+    "section_text_eqLrkr",
+    "section_grid_8Qra6H",
+    "tabs",
+    "section_text_T3KLBQ",
+    "section_testimonials_with_images_k89qAW",
+    "17261050170f200733",
+    "related"
+  ]
+}

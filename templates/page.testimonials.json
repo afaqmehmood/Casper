@@ -1,0 +1,1353 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "bg_color_secondary": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_text_eRm8NU": {
+      "type": "section-text",
+      "blocks": {
+        "subheading_3YEYBR": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p>Real Photos and Reviews from Pets Parents</p>",
+            "size": 100,
+            "margin_bottom": 16
+          }
+        },
+        "heading_qFn4Mi": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>The Koozi Collective: Real Stories & Photos from Modern Dog Parents</p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "text_aNLEzi": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Scroll to view photos from our furry friends and their happy parents. <br/>Tag @koozipets on <a href=\"https://www.instagram.com/koozipets\" target=\"_blank\" title=\"koozipets Instagram\">Instagram</a> or <a href=\"https://www.tiktok.com/@koozipets\" target=\"_blank\" title=\"koozipets TikTok\">TikTok</a> to be featured. </p>",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "subheading_3YEYBR",
+        "heading_qFn4Mi",
+        "text_aNLEzi"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 110,
+        "padding_bottom": 20
+      }
+    },
+    "section_grid_CxNexM": {
+      "type": "section-grid",
+      "blocks": {
+        "image_iEzWmU": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/IMG_0593.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_daBCLW": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify://shop_images/puppy_boucle_cloud_bed.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_jpjfKX": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify://shop_images/side_table_crate_-_testimonial_raffy.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_XiymW6": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/soft_topper_dove_grey_-_review_raffy.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_8WxUWW": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/Bailey_Side_Table_Crate_review.jpg",
+            "overlay_opacity": 10,
+            "text_position": "bottom-right",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_xaCejz": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/Sunny_-_denim_blue_linen_cloud_bed_review_photo.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        }
+      },
+      "block_order": [
+        "image_iEzWmU",
+        "image_daBCLW",
+        "image_jpjfKX",
+        "image_XiymW6",
+        "image_8WxUWW",
+        "image_xaCejz"
+      ],
+      "settings": {
+        "desktop_height": "five-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "original-height-mobile",
+        "heading_size": 130,
+        "button_1_color": "btn--white",
+        "button_1_style": "btn--text",
+        "button_1_size": "btn--small",
+        "button_2_color": "btn--black",
+        "button_2_style": "btn--text",
+        "button_2_size": "btn--small",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": false,
+        "columns_mobile": "2",
+        "overlay_text": true,
+        "width": "wrapper",
+        "add_gutter": false,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "section_testimonials_RCNxtJ": {
+      "type": "section-testimonials",
+      "blocks": {
+        "text_tpEWpC": {
+          "type": "text",
+          "settings": {
+            "star_rating": 5,
+            "enable_border": true,
+            "heading": "We let our reviews speak for themselves.",
+            "text_size": 125,
+            "subheading": "<p>4.98 average<br/>34 reviews</p>",
+            "block_color": "#000000",
+            "text_color": "text-light",
+            "text_alignment": "text-left"
+          }
+        },
+        "testimonial_iPz8f6": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "enable_border": true,
+            "heading": "",
+            "text_size": 125,
+            "text": "<p>The Koozi Crate is an absolute dream if you love interior design. We wanted to find a crate that would match our living space, and this does just that. We mostly use it as a den for Bailey to wander in and out of, and she absolutely loves it! It’s her favourite spot to sleep in the house.</p>",
+            "customer_name": "Zoe H.",
+            "subheading": "<p><strong>✓ </strong>Verified Customer</p>"
+          }
+        },
+        "testimonial_EwfXRC": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "enable_border": true,
+            "heading": "",
+            "text_size": 125,
+            "text": "<p>Our dachshund is very particular about where he sleeps, mostly choosing the couch or our bed, but the Cloud bed has won him over. He started rolling around on it the moment we unpacked it, and sleeps through the night on it! The small size is a perfect fit, and the pillow height is just right for his little head. The red linen cover is absolutely gorgeous and feels so light and comfy.</p>",
+            "customer_name": "Bianca C.",
+            "subheading": "<p><strong>✓ </strong>Verified Customer</p>"
+          }
+        },
+        "testimonial_XtPqYp": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "enable_border": true,
+            "heading": "",
+            "text_size": 125,
+            "text": "<p>I just got my puppy Rue, and didn't want to have the ugly caged crate next to my bed. Koozi's side table crate is perfect as a 2-in-1 for my bedside, especially as she needs tending during the night and getting her into a routine. She loves the cosy feel, and i'm so happy with how it looks in my bedroom.</p>",
+            "customer_name": "Bec F.",
+            "subheading": "<p><strong>✓ </strong>Verified Customer</p>"
+          }
+        },
+        "testimonial_DexiRM": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "enable_border": true,
+            "heading": "",
+            "text_size": 125,
+            "text": "<p>We have the MCM Joe Sofa, and I can’t believe how perfectly the Koozi sofa topper matches the fabric! It looks like it was made for the sofa, blending beautifully. Such a genius idea! I feel so much more at ease now when my dogs are napping on the couch. I was always lint rolling and scrubbing muddy paw marks off before, but now I can relax knowing the topper is keeping it protected, and i can easily chuck it in the wash! I'm getting another one for our lounge chair too.</p>",
+            "customer_name": "Lisa B.",
+            "subheading": "<p><strong>✓ </strong>Verified Customer</p>"
+          }
+        },
+        "testimonial_A4eYLb": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "enable_border": true,
+            "heading": "",
+            "text_size": 125,
+            "text": "<p>Love the red linen cover! It’s light and easy for me to bring along to work when Oscar comes for the day. He loves lounging on it next to my desk, it’s very comfy. Just perfect!</p>",
+            "customer_name": "Sally M.",
+            "subheading": "<p><strong>✓ </strong>Verified Customer</p>"
+          }
+        },
+        "testimonial_U67BRG": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "enable_border": true,
+            "heading": "",
+            "text_size": 125,
+            "text": "<p>The Koozi crate is truly beautiful, and our cavoodle, Ziggy loves curling up in it to sleep! We've styled it as a side table next to our sofa, which worked out perfectly since we were hunting for a new side table. So glad we went with this and it’s totally worth the price for the double function!</p>",
+            "customer_name": "Paige R.",
+            "subheading": "<p><strong>✓ </strong>Verified Customer</p>"
+          }
+        },
+        "testimonial_wmE3YY": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "enable_border": true,
+            "heading": "",
+            "text_size": 125,
+            "text": "<p>Love the Cloud Bed! My corgi has never taken to beds with big, high edges, and now I see why—they weren’t low enough for him! He can finally get in and out without having to climb, and he still gets to stretch out naturally with his head on the pillow edge. It’s simply perfect. I can’t believe there hasn’t been a bed like this for smaller breeds before! Get yourself a Koozi bed if you have a small dog, you won't regret it.</p>",
+            "customer_name": "Alex H.",
+            "subheading": "<p><strong>✓ </strong>Verified Customer</p>"
+          }
+        },
+        "testimonial_KEjRdH": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "enable_border": true,
+            "heading": "",
+            "text_size": 125,
+            "text": "<p>The Cloud Bed has been a great buy! I wanted something easy for my mini poodle, Jax, to get into so she’d actually use it—and she loves it! No hassle at all, and it’s so stylish and modern. The blue cover looks fantastic and has been super easy to clean.</p>",
+            "customer_name": "Fiona W.",
+            "subheading": "<p><strong>✓ </strong>Verified Customer</p>"
+          }
+        },
+        "testimonial_cfJVEz": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "enable_border": true,
+            "heading": "",
+            "text_size": 125,
+            "text": "<p>I was so excited when Koozi finally launched! Been wanting to get one of these side table crates since I saw them share it on Instagram. My bedroom looks SO MUCH BETTER. And Boston my frenchie loves it - super cosy with the boucle bed too.</p>",
+            "customer_name": "Beth D.",
+            "subheading": "<p><strong>✓ </strong>Verified Customer</p>"
+          }
+        },
+        "testimonial_ggEXCK": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "enable_border": true,
+            "heading": "",
+            "text_size": 125,
+            "text": "<p>I've never liked the look of those cheap synthetic protectors that fully cover the sofa— they're ugly and completely ruin the style of the lounge. The Koozi sofa topper is THE best option for interior-conscious pet owners (or even parents with young kids). I drape it over the sofa, and it adds a sleek, stylish layer of protection without compromising the look of the room.</p>",
+            "customer_name": "Lauren C.",
+            "subheading": "<p><strong>✓ </strong>Verified Customer</p>"
+          }
+        },
+        "testimonial_Gxd7BF": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "star_rating": 5,
+            "enable_border": true,
+            "heading": "",
+            "text_size": 125,
+            "text": "<p>The marble bowls are so beautiful! I get compliments on them every time someone sees them in our kitchen. They’re super sturdy, the bowls can't tip over, and surprisingly keeps the water cooler for longer. Worth the investment!</p>",
+            "customer_name": "Krystal M.",
+            "subheading": "<p><strong>✓ </strong>Verified Customer</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_tpEWpC",
+        "testimonial_iPz8f6",
+        "testimonial_EwfXRC",
+        "testimonial_XtPqYp",
+        "testimonial_DexiRM",
+        "testimonial_A4eYLb",
+        "testimonial_U67BRG",
+        "testimonial_wmE3YY",
+        "testimonial_KEjRdH",
+        "testimonial_cfJVEz",
+        "testimonial_ggEXCK",
+        "testimonial_Gxd7BF"
+      ],
+      "settings": {
+        "subheading": "",
+        "subheading_size": 100,
+        "title": "",
+        "heading_size": 100,
+        "text_alignment": "text-left",
+        "bg_color": "",
+        "testimonial_block_color": "",
+        "star_color": "",
+        "testimonial_text_color": "text-dark",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 34
+      }
+    },
+    "section_grid_pkfbjw": {
+      "type": "section-grid",
+      "blocks": {
+        "image_KdzaKz": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/border_collie_side_table_crate_review_photo.heic",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_fX8tBr": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/IMG_0840.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_CLPUzP": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/Bailey_-_denim_blue_linen_cloud_bed_review_photo.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_WFhkTT": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/IMG_0016.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_tkwGiM": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify://shop_images/IMG_0445.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_WFbWbw": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify://shop_images/IMG_0985.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        }
+      },
+      "block_order": [
+        "image_KdzaKz",
+        "image_fX8tBr",
+        "image_CLPUzP",
+        "image_WFhkTT",
+        "image_tkwGiM",
+        "image_WFbWbw"
+      ],
+      "settings": {
+        "desktop_height": "five-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "original-height-mobile",
+        "heading_size": 130,
+        "button_1_color": "btn--white",
+        "button_1_style": "btn--text",
+        "button_1_size": "btn--small",
+        "button_2_color": "btn--black",
+        "button_2_style": "btn--text",
+        "button_2_size": "btn--small",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": false,
+        "columns_mobile": "2",
+        "overlay_text": true,
+        "width": "wrapper",
+        "add_gutter": false,
+        "padding_top": 16,
+        "padding_bottom": 26
+      }
+    },
+    "section_grid_nkHDFT": {
+      "type": "section-grid",
+      "blocks": {
+        "image_Qe3H7J": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify://shop_images/IMG_9839.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_wFLt3K": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify://shop_images/IMG_9348.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_W4Vagc": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/IMG_0186.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_zheYXf": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/IMG_7164.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_Hkgcwn": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/IMG_0165_2.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        }
+      },
+      "block_order": [
+        "image_Qe3H7J",
+        "image_wFLt3K",
+        "image_W4Vagc",
+        "image_zheYXf",
+        "image_Hkgcwn"
+      ],
+      "settings": {
+        "desktop_height": "five-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "original-height-mobile",
+        "heading_size": 130,
+        "button_1_color": "btn--white",
+        "button_1_style": "btn--text",
+        "button_1_size": "btn--small",
+        "button_2_color": "btn--black",
+        "button_2_style": "btn--text",
+        "button_2_size": "btn--small",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": false,
+        "columns_mobile": "2",
+        "overlay_text": true,
+        "width": "wrapper",
+        "add_gutter": false,
+        "padding_top": 10,
+        "padding_bottom": 10
+      }
+    },
+    "ss_hero_14_qfJLEf": {
+      "type": "ss-hero-14",
+      "settings": {
+        "hero_height": "adapt_first",
+        "hero_fixed_height": 600,
+        "content_use_fixed_height": true,
+        "content_fixed_height": 290,
+        "body_gap": 0,
+        "body_gap_mobile": 0,
+        "content_image": "shopify://shop_images/IMG_0405.heic",
+        "content_vertical_align": "end",
+        "content_vertical_align_mobile": "end",
+        "content_horizontal_align": "start",
+        "content_horizontal_align_mobile": "start",
+        "content_padding_vertical": 56,
+        "content_padding_vertical_mobile": 56,
+        "content_padding_horizontal": 56,
+        "content_padding_horizontal_mobile": 28,
+        "content_overlay": 0.1,
+        "video": "shopify://files/videos/jodie-testimonial.mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_ratio_mobile": "portrait",
+        "video_bottom_mobile": true,
+        "video_hide_mobile": false,
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 3,
+        "margin_horizontal_mobile": 1.5,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "section_radius": 0
+      }
+    },
+    "ss_video_grid_socials_3_Wp7LkB": {
+      "type": "ss-video-grid-socials-3",
+      "blocks": {
+        "video_X8wQKP": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/jodie-testimonial.mp4",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "info": "",
+            "url": ""
+          }
+        },
+        "video_RGP74n": {
+          "type": "video",
+          "settings": {
+            "video_url": "",
+            "poster": "shopify://shop_images/IMG_0405.heic",
+            "info": "",
+            "url": ""
+          }
+        },
+        "video_fX8xac": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "info": "Tell your story",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_X8wQKP",
+        "video_RGP74n",
+        "video_fX8xac"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 24,
+        "heading_size_mobile": 26,
+        "heading_height": 130,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "sub_heading": "",
+        "sub_heading_custom": false,
+        "sub_heading_font": "josefin_sans_n4",
+        "sub_heading_size": 18,
+        "sub_heading_size_mobile": 16,
+        "sub_heading_height": 150,
+        "sub_heading_align": "center",
+        "sub_heading_align_mobile": "center",
+        "sub_heading_mt": 24,
+        "sub_heading_mt_mobile": 20,
+        "slider_view": 2,
+        "slider_view_mobile": 1.3,
+        "slider_gap": 10,
+        "slider_gap_mobile": 4,
+        "slider_mt": 24,
+        "slider_mt_mobile": 36,
+        "card_radius": 10,
+        "card_border_thickness": 0,
+        "video_ratio": "square",
+        "video_ratio_mobile": "square",
+        "info_custom": false,
+        "info_font": "josefin_sans_n4",
+        "info_size": 15,
+        "info_size_mobile": 18,
+        "info_height": 150,
+        "info_align": "left",
+        "info_align_mobile": "left",
+        "arrow_size": 48,
+        "arrow_size_mobile": 48,
+        "arrow_icon_size": 8,
+        "arrow_icon_size_mobile": 8,
+        "arrow_border_thickness": 1,
+        "arrow_radius": 100,
+        "arrow_hover_effect": "color",
+        "arrow_show_desktop": false,
+        "arrow_show_mobile": false,
+        "action_size": 48,
+        "action_size_mobile": 48,
+        "action_icon_size": 28,
+        "action_icon_size_mobile": 28,
+        "action_border_thickness": 0,
+        "card_border_color": "#000000",
+        "info_color": "#ffffff",
+        "arrow_color": "#000000",
+        "arrow_hover_color": "#ffffff",
+        "arrow_bg_color": "#ffffff",
+        "arrow_bg_hover_color": "#555555",
+        "arrow_border_color": "#f6f6f6",
+        "arrow_border_hover_color": "#555555",
+        "action_color": "#ffffff",
+        "action_hover_color": "#ffffff",
+        "action_bg_color": "#ffffff",
+        "action_bg_hover_color": "#ffffff",
+        "action_border_color": "#ffffff",
+        "action_border_hover_color": "#ffffff",
+        "heading_color": "#000000",
+        "sub_heading_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "padding_horizontal": 3,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 110,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
+    "section_grid_6dzzQg": {
+      "type": "section-grid",
+      "blocks": {
+        "image_yNKmkd": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify://shop_images/luna_review.png",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_KGyFGW": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify://shop_images/Koozi_testimonial_photo_2.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_dcYJ6D": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/IMG_0723.heic",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_yUM3NB": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/crate_-_review_photo.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_tJBJrG": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/IMG_0316_1.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        }
+      },
+      "block_order": [
+        "image_yNKmkd",
+        "image_KGyFGW",
+        "image_dcYJ6D",
+        "image_yUM3NB",
+        "image_tJBJrG"
+      ],
+      "settings": {
+        "desktop_height": "five-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "original-height-mobile",
+        "heading_size": 130,
+        "button_1_color": "btn--white",
+        "button_1_style": "btn--text",
+        "button_1_size": "btn--small",
+        "button_2_color": "btn--black",
+        "button_2_style": "btn--text",
+        "button_2_size": "btn--small",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": false,
+        "columns_mobile": "2",
+        "overlay_text": true,
+        "width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 18,
+        "padding_bottom": 18
+      }
+    },
+    "section_testimonials_yqM4cG": {
+      "type": "section-testimonials",
+      "blocks": {
+        "testimonial_DFAe3K": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "enable_border": false,
+            "heading": "",
+            "text_size": 125,
+            "text": "<p>The Cloud Bed is amazing, and the blue cover looks so boujee and chic. It’s super comfy, and my mini poodle is obsessed, he can stretch out completely with so much room. The quality is top notch. I had a question about sizing, and customer service was super helpful. Delivery was really fast too. </p>",
+            "customer_name": "Gabby Dunworth",
+            "subheading": "<p><strong>✓ </strong>Verified customer</p>"
+          }
+        },
+        "testimonial_xgxxcV": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "enable_border": false,
+            "heading": "",
+            "text_size": 125,
+            "text": "<p>A friend with a small dog recommended the Cloud Bed, and my jack russell, Rolo, is obsessed with it! The bolster is actually soft for him to rest his head on and the bed is low enough for him to hop on and off with his teeny legs - way better than other ones I've tried that are too thick, high and heavy. </p>",
+            "customer_name": "Linda Hermann",
+            "subheading": "<p><strong>✓ </strong>Verified Customer</p>"
+          }
+        },
+        "testimonial_FNpkbV": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "enable_border": false,
+            "heading": "",
+            "text_size": 125,
+            "text": "<p>It's truly a piece of furniture, not at all like a dog crate. It looks perfect next to my bedside with the matching khaki bed, and my dog slept a full 8hrs straight the first night in it! He loves sleeping near us, but i just hated his old wire crate and bed in our room. So this is a massive upgrade. very happy!</p>",
+            "customer_name": "Rachel K",
+            "subheading": "<p><strong>✓ </strong>Verified customer</p>"
+          }
+        },
+        "testimonial_d3R4aU": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "enable_border": false,
+            "heading": "",
+            "text_size": 125,
+            "text": "<p>When I was getting my new puppy, I didn’t have space for both a crate and a side table in my apartment, so the Koozi Crate was the perfect solution! It fits so well, and it looks sooo nice in my lounge room. I’ve styled it, and my pup loves hanging out in it. Totally worth the price.</p>",
+            "customer_name": "Simone",
+            "subheading": "<p><strong>✓ </strong>Verified customer</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_DFAe3K",
+        "testimonial_xgxxcV",
+        "testimonial_FNpkbV",
+        "testimonial_d3R4aU"
+      ],
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "subheading_size": 100,
+        "title": "",
+        "heading_size": 100,
+        "text_alignment": "text-left",
+        "bg_color": "",
+        "testimonial_block_color": "#f5f4f1",
+        "star_color": "",
+        "testimonial_text_color": "text-dark",
+        "width": "wrapper--full-padded",
+        "padding_top": 36,
+        "padding_bottom": 30
+      }
+    },
+    "section_grid_CBhVmP": {
+      "type": "section-grid",
+      "blocks": {
+        "image_DdGmQx": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify://shop_images/IMG_9353.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_cTqxVa": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify://shop_images/IMG_8865.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_NDEPHh": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/IMG_1033.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_xPJFcE": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/IMG_0209.png",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_XLygLF": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/IMG_6352.png",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_HjAdV6": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/IMG_0033.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        }
+      },
+      "block_order": [
+        "image_DdGmQx",
+        "image_cTqxVa",
+        "image_NDEPHh",
+        "image_xPJFcE",
+        "image_XLygLF",
+        "image_HjAdV6"
+      ],
+      "settings": {
+        "desktop_height": "five-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "original-height-mobile",
+        "heading_size": 130,
+        "button_1_color": "btn--white",
+        "button_1_style": "btn--text",
+        "button_1_size": "btn--small",
+        "button_2_color": "btn--black",
+        "button_2_style": "btn--text",
+        "button_2_size": "btn--small",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": true,
+        "columns_mobile": "1",
+        "overlay_text": true,
+        "width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 22
+      }
+    },
+    "section_grid_NwaWBc": {
+      "type": "section-grid",
+      "blocks": {
+        "image_AXep7N": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/IMG_9923.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_3XUz3q": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/IMG_0809.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_RJYENe": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/Facetune_30-10-2024-09-20-11.heic",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_miAGbn": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/099A1279_1.jpg",
+            "overlay_opacity": 10,
+            "text_position": "left",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_yhnBzG": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/IMG_0273.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_AEx8aW": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/IMG_9131.heic",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        }
+      },
+      "block_order": [
+        "image_AXep7N",
+        "image_3XUz3q",
+        "image_RJYENe",
+        "image_miAGbn",
+        "image_yhnBzG",
+        "image_AEx8aW"
+      ],
+      "settings": {
+        "desktop_height": "five-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "original-height-mobile",
+        "heading_size": 130,
+        "button_1_color": "btn--white",
+        "button_1_style": "btn--text",
+        "button_1_size": "btn--small",
+        "button_2_color": "btn--black",
+        "button_2_style": "btn--text",
+        "button_2_size": "btn--small",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": false,
+        "columns_mobile": "2",
+        "overlay_text": true,
+        "width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 32,
+        "padding_bottom": 12
+      }
+    },
+    "section_grid_aWCkP3": {
+      "type": "section-grid",
+      "blocks": {
+        "image_pBdJAp": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/simone_-_oatmeal_cloud_bed.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_7nAmiz": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/IMG_0863.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_7gT8rq": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/IMG_0252.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        }
+      },
+      "block_order": [
+        "image_pBdJAp",
+        "image_7nAmiz",
+        "image_7gT8rq"
+      ],
+      "settings": {
+        "desktop_height": "five-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "original-height-mobile",
+        "heading_size": 130,
+        "button_1_color": "btn--white",
+        "button_1_style": "btn--text",
+        "button_1_size": "btn--small",
+        "button_2_color": "btn--black",
+        "button_2_style": "btn--text",
+        "button_2_size": "btn--small",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": false,
+        "columns_mobile": "2",
+        "overlay_text": true,
+        "width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 12,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_text_eRm8NU",
+    "section_grid_CxNexM",
+    "section_testimonials_RCNxtJ",
+    "section_grid_pkfbjw",
+    "section_grid_nkHDFT",
+    "ss_hero_14_qfJLEf",
+    "ss_video_grid_socials_3_Wp7LkB",
+    "section_grid_6dzzQg",
+    "section_testimonials_yqM4cG",
+    "section_grid_CBhVmP",
+    "section_grid_NwaWBc",
+    "section_grid_aWCkP3"
+  ]
+}

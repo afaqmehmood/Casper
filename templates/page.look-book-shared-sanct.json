@@ -1,0 +1,1030 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "section-slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-377.jpg",
+            "overlay_opacity": 35,
+            "text_width": "normal",
+            "text_position": "center",
+            "text_alignment": "text-center",
+            "text_color": "text-light",
+            "subheading": "",
+            "title": "<p>Our Story</p>",
+            "heading_highlight_type": "circle",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000",
+            "text": "Koozi was born from the heart of a devoted dog mum.",
+            "stacked_button": false,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--large",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--large",
+            "video_text": "",
+            "video_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "slide_height": "original-height",
+        "enable_mobile_height": false,
+        "mobile_slide_height": "five-fifty-height-mobile",
+        "show_nav_dots": true,
+        "show_nav_arrows": true,
+        "show_arrow_down": false,
+        "autoplay": false,
+        "duration": 4,
+        "transition": "fade",
+        "enable_zoom_animation": true,
+        "enable_card_scrolling": false,
+        "increase_border_radius": true,
+        "heading_size": 120
+      }
+    },
+    "section_banner_image_wecDj6": {
+      "type": "section-banner-image",
+      "blocks": {
+        "subheading_NFecPx": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p>COLLECTION EDIT #1</p>",
+            "size": 95
+          }
+        },
+        "heading_34pYGB": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>A Shared Sanctuary</p>",
+            "size": 180,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "text_yDbUTi": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Redefining dog-friendly home living. </p>",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "subheading_NFecPx",
+        "heading_34pYGB",
+        "text_yDbUTi"
+      ],
+      "settings": {
+        "height": "five-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "four-fifty-height-mobile",
+        "image": "shopify://shop_images/xcfade.jpg",
+        "image_mobile": "shopify://shop_images/KOOZI-CAMPAIGN-143_copy.png",
+        "overlay_opacity": 25,
+        "transition": "zoom-out",
+        "enable_zoom_animation": true,
+        "enable_card_scrolling": false,
+        "increase_border_radius": true,
+        "text_width": "normal",
+        "text_position": "left",
+        "text_alignment": "text-left",
+        "text_color": "text-light"
+      }
+    },
+    "section_text_CMfipT": {
+      "type": "section-text",
+      "blocks": {
+        "text_atFx3U": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>The Shared Sanctuary Collection</strong> celebrates the bond you share with your dog, creating spaces where both of you can truly feel at home - your sanctuaries. Designed to enhance your shared living spaces, each piece effortlessly blends style with thoughtful comfort, solving real problems along the way.</p><p><br/>With a focus on natural fabrics, durable materials, and elevated neutral and organic tones, this collection transforms your home into a retreat - elegant for you and  serene for your dog. It’s a celebration of connection, making every space as stylish as it is inviting for the furry ones you love.</p>",
+            "size": 95
+          }
+        }
+      },
+      "block_order": [
+        "text_atFx3U"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": true,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 68,
+        "padding_bottom": 40
+      }
+    },
+    "section_video_gWeUYn": {
+      "type": "section-video",
+      "settings": {
+        "video_height": "five-fifty-height",
+        "text_position": "middle-center",
+        "video_link_bg": "https://cdn.shopify.com/videos/c/o/v/1f3412a1257346a29fba08e7949aa89a.mp4",
+        "video_link": "",
+        "image": "shopify://shop_images/gg.jpg",
+        "overlay_opacity": 10,
+        "text_color": "text-light",
+        "title": "",
+        "heading_highlight_type": "italics",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "text": "",
+        "heading_size": 100,
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--white",
+        "button_style": "btn--solid-border",
+        "button_size": "btn--small"
+      }
+    },
+    "cdb3be2a-9d5e-47f0-9431-04f739f3c7cc": {
+      "type": "section-image-with-text",
+      "disabled": true,
+      "settings": {
+        "section_height": "seven-fifty-height",
+        "layout": "inline",
+        "image_location": "left",
+        "image_width": "standard",
+        "subheading": "",
+        "title": "<p>Our Story Began with Two Puppies Coming Home</p>",
+        "heading_highlight_type": "circle",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "heading_size": 100,
+        "content": "<p>At Koozi, we get that modern dog families need more than just functional pet accessories—they need solutions that blend seamlessly into their lives and homes. Our journey started with a personal challenge.<br/><br/>When I, Yelana, welcomed my mini dachshunds, Winston and Bailey, I quickly realised that the market was missing pet products that combined both function and style in a way that fit perfectly into a modern home, and specifically fit the needs of small to medium dogs.</p>",
+        "text_alignment": "left",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "video_link": "",
+        "text_color": "text-dark",
+        "bg_color": "#f5f4f1",
+        "gradient": "",
+        "section_width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "text": {
+      "type": "section-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Each Koozi product is designed with purpose and style</p>",
+            "size": 85,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Frustrated with the lack of options for dog parents who cherish their home interiors, we set out to create a better solution. We began with a crate that doubles as stylish side table furniture, followed by a linen dog bed designed for the unique needs of smaller dogs, and then our sofa topper range—simple, versatile, and waterproof protection for sofas.<br/></p><p><br/>Each Koozi product is created to solve real problems while providing comfort for style-driven dog parents and their beloved pups. Every piece is designed to enhance your space while serving a practical purpose.</p>",
+            "size": 95
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 60,
+        "padding_bottom": 32
+      }
+    },
+    "section_image_mUEzTf": {
+      "type": "section-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/KOOZI-CAMPAIGN-213_1_1.jpg",
+        "height": "five-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "original-height-mobile",
+        "enable_stretch": true,
+        "image_position": "center",
+        "bg_color_secondary": false,
+        "width": "wrapper",
+        "padding_top": 28,
+        "padding_bottom": 10
+      }
+    },
+    "section_grid_PB49Ln": {
+      "type": "section-grid",
+      "blocks": {
+        "image_7XjfCQ": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-161_1_51b9531e-0a52-49ee-a0a3-98ee34df520b.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_6E4qFP": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-207_1.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_AAGTnQ": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-90_1.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        }
+      },
+      "block_order": [
+        "image_7XjfCQ",
+        "image_6E4qFP",
+        "image_AAGTnQ"
+      ],
+      "settings": {
+        "desktop_height": "five-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "three-fifty-height-mobile",
+        "heading_size": 130,
+        "button_1_color": "btn--white",
+        "button_1_style": "btn--text",
+        "button_1_size": "btn--small",
+        "button_2_color": "btn--black",
+        "button_2_style": "btn--text",
+        "button_2_size": "btn--small",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": true,
+        "columns_mobile": "1",
+        "overlay_text": true,
+        "width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 26,
+        "padding_bottom": 20
+      }
+    },
+    "section_video_86LUEH": {
+      "type": "section-video",
+      "settings": {
+        "video_height": "six-fifty-height",
+        "text_position": "middle-center",
+        "video_link_bg": "https://cdn.shopify.com/videos/c/o/v/3d2d9d0c0378473a8a28a07e14eb26c5.mp4",
+        "video_link": "",
+        "overlay_opacity": 10,
+        "text_color": "text-light",
+        "title": "",
+        "heading_highlight_type": "italics",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "text": "",
+        "heading_size": 100,
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--white",
+        "button_style": "btn--solid-border",
+        "button_size": "btn--small"
+      }
+    },
+    "section_text_iJJFcW": {
+      "type": "section-text",
+      "blocks": {
+        "text_GKHXKD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our mission is simple: to offer modern dog families stylish, functional solutions that enhance their living spaces for both pets and their parents. <br/><br/>Koozi is dedicated to making your dog-friendly home a shared sanctuary.<br/><br/> It’s about creating cohesive, thoughtful spaces where both you and your dog can relax, connect, and live in harmony together.</p>",
+            "size": 95
+          }
+        }
+      },
+      "block_order": [
+        "text_GKHXKD"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_grid_niDmki": {
+      "type": "section-grid",
+      "blocks": {
+        "image_RjRtrh": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-23_1.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "Shop the Koozi Crate",
+            "button_1_link": "shopify://products/dog-crate-side-table",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_iTrRjX": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-246-2.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "Shop Cloud Beds",
+            "button_1_link": "shopify://collections/cloud-dog-beds",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_ER4hWG": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-81_1.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "Shop Sofa Toppers",
+            "button_1_link": "shopify://collections/sofa-toppers",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_LBEF8W": {
+          "type": "image",
+          "settings": {
+            "width": "100",
+            "image": "shopify://shop_images/Crate_boucle_cloud_bed_campaign.jpg",
+            "overlay_opacity": 0,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        }
+      },
+      "block_order": [
+        "image_RjRtrh",
+        "image_iTrRjX",
+        "image_ER4hWG",
+        "image_LBEF8W"
+      ],
+      "settings": {
+        "desktop_height": "five-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "original-height-mobile",
+        "heading_size": 130,
+        "button_1_color": "btn--white",
+        "button_1_style": "btn--text",
+        "button_1_size": "btn--small",
+        "button_2_color": "btn--black",
+        "button_2_style": "btn--text",
+        "button_2_size": "btn--small",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": false,
+        "columns_mobile": "1",
+        "overlay_text": true,
+        "width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 8,
+        "padding_bottom": 22
+      }
+    },
+    "section_divider_miXpNM": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "ss_video_grid_socials_3_Cj6QJy": {
+      "type": "ss-video-grid-socials-3",
+      "blocks": {
+        "video_bXjqpY": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/TEASER 4x5.mp4",
+            "video_url": "",
+            "info": "",
+            "url": ""
+          }
+        },
+        "video_UiH6XR": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/BUNDLE - 4x5.mp4",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "info": "",
+            "url": ""
+          }
+        },
+        "video_MyLeUU": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/SOFA TOPPER 4x5.mp4",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "info": "",
+            "url": ""
+          }
+        },
+        "video_aBDqLp": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/BRANDING 3x4.mp4",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "info": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_bXjqpY",
+        "video_UiH6XR",
+        "video_MyLeUU",
+        "video_aBDqLp"
+      ],
+      "settings": {
+        "heading": "<h2>Get Inspired</h2>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 26,
+        "heading_size_mobile": 16,
+        "heading_height": 130,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "sub_heading": "<p>Follow @koozipets</p>",
+        "sub_heading_custom": false,
+        "sub_heading_font": "josefin_sans_n4",
+        "sub_heading_size": 12,
+        "sub_heading_size_mobile": 10,
+        "sub_heading_height": 150,
+        "sub_heading_align": "center",
+        "sub_heading_align_mobile": "center",
+        "sub_heading_mt": 24,
+        "sub_heading_mt_mobile": 20,
+        "slider_view": 4,
+        "slider_view_mobile": 1.6,
+        "slider_gap": 20,
+        "slider_gap_mobile": 20,
+        "slider_mt": 24,
+        "slider_mt_mobile": 36,
+        "card_radius": 0,
+        "card_border_thickness": 0,
+        "video_ratio": "portrait",
+        "video_ratio_mobile": "portrait",
+        "info_custom": false,
+        "info_font": "josefin_sans_n4",
+        "info_size": 15,
+        "info_size_mobile": 18,
+        "info_height": 150,
+        "info_align": "left",
+        "info_align_mobile": "left",
+        "arrow_size": 48,
+        "arrow_size_mobile": 48,
+        "arrow_icon_size": 8,
+        "arrow_icon_size_mobile": 8,
+        "arrow_border_thickness": 1,
+        "arrow_radius": 100,
+        "arrow_hover_effect": "color",
+        "arrow_show_desktop": false,
+        "arrow_show_mobile": false,
+        "action_size": 48,
+        "action_size_mobile": 48,
+        "action_icon_size": 28,
+        "action_icon_size_mobile": 28,
+        "action_border_thickness": 0,
+        "card_border_color": "#000000",
+        "info_color": "#ffffff",
+        "arrow_color": "#000000",
+        "arrow_hover_color": "#ffffff",
+        "arrow_bg_color": "#ffffff",
+        "arrow_bg_hover_color": "#555555",
+        "arrow_border_color": "#f6f6f6",
+        "arrow_border_hover_color": "#555555",
+        "action_color": "#ffffff",
+        "action_hover_color": "#ffffff",
+        "action_bg_color": "#ffffff",
+        "action_bg_hover_color": "#ffffff",
+        "action_border_color": "#ffffff",
+        "action_border_hover_color": "#ffffff",
+        "heading_color": "#000000",
+        "sub_heading_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 28,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
+    "f9132c5c-9f15-4676-8086-613d0304f488": {
+      "type": "section-collection",
+      "disabled": true,
+      "settings": {
+        "collection": "launch-collection-a-shared-sanctuary",
+        "products_layout": "carousel",
+        "number_of_products": 8,
+        "products_per_row_on_desktop": 4,
+        "columns_mobile": "2",
+        "text_alignment": "text-left",
+        "title": "<p>Launch Collection</p>",
+        "heading_highlight_type": "circle",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "heading_size": 75,
+        "text": "",
+        "text_size": 105,
+        "button_text": "View All",
+        "button_color": "btn--black",
+        "button_style": "btn--text",
+        "button_size": "btn--large",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": true,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "bg_color_secondary": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_grid_9A99Qw": {
+      "type": "section-grid",
+      "blocks": {
+        "image_gjDPb8": {
+          "type": "image",
+          "settings": {
+            "width": "100",
+            "image": "shopify://shop_images/yelana_campaign_crate_sofa_topper.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_CebLXD": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/Denim_Blue_Flat_Bed.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_3ffPAA": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/Red-Clay-Linen-Cloud-Dog-Bed.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_tTfRRX": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify://shop_images/Gemma_and_Mimi_campaign.png",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        }
+      },
+      "block_order": [
+        "image_gjDPb8",
+        "image_CebLXD",
+        "image_3ffPAA",
+        "image_tTfRRX"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_height": "five-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "original-height-mobile",
+        "heading_size": 130,
+        "button_1_color": "btn--white",
+        "button_1_style": "btn--text",
+        "button_1_size": "btn--small",
+        "button_2_color": "btn--black",
+        "button_2_style": "btn--text",
+        "button_2_size": "btn--small",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": false,
+        "columns_mobile": "1",
+        "overlay_text": true,
+        "width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 30,
+        "padding_bottom": 60
+      }
+    },
+    "section_collection_xkbhGL": {
+      "type": "section-collection",
+      "blocks": {
+        "promo_8FkjKC": {
+          "type": "promo",
+          "settings": {
+            "position": 1,
+            "width": "auto",
+            "title": "<p>Promotion title</p>",
+            "heading_highlight_type": "circle",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000",
+            "heading_size": 100,
+            "content": "Advertise a promotion or a sale",
+            "text_size": 100,
+            "text_color": "text-light",
+            "text_position": "center",
+            "layout": "stacked",
+            "overlay_opacity": 10,
+            "bg_color": "#d3d3d3",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--white",
+            "button_style": "btn--solid-border",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "promo_8FkjKC"
+      ],
+      "disabled": true,
+      "settings": {
+        "collection": "launch-collection-a-shared-sanctuary",
+        "products_layout": "carousel",
+        "number_of_products": 8,
+        "products_per_row_on_desktop": 4,
+        "columns_mobile": "2",
+        "text_alignment": "text-left",
+        "title": "",
+        "heading_highlight_type": "circle",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "heading_size": 100,
+        "text": "",
+        "text_size": 100,
+        "button_text": "Shop Now",
+        "button_color": "btn--black",
+        "button_style": "btn--text",
+        "button_size": "btn--large",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": true,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_divider_yirmJM": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "padding_top": 8,
+        "padding_bottom": 26
+      }
+    },
+    "ss_featured_collection_7_eLhVwH": {
+      "type": "ss-featured-collection-7",
+      "blocks": {
+        "slide_KzfQez": {
+          "type": "slide",
+          "settings": {
+            "product": "dog-crate-side-table",
+            "tag": "Best Seller",
+            "url": "shopify://products/dog-crate-side-table"
+          }
+        },
+        "slide_ni9FeG": {
+          "type": "slide",
+          "settings": {
+            "product": "cloud-sofa-dog-bed-denim-blue-linen",
+            "tag": "Best Seller",
+            "url": "shopify://products/cloud-sofa-dog-bed-denim-blue-linen"
+          }
+        },
+        "slide_AkPqyz": {
+          "type": "slide",
+          "settings": {
+            "product": "cloud-dog-bed-red-clay-linen",
+            "tag": "",
+            "url": "shopify://products/cloud-dog-bed-red-clay-linen"
+          }
+        },
+        "slide_6Hjwb9": {
+          "type": "slide",
+          "settings": {
+            "product": "soft-topper-milk-white",
+            "tag": "",
+            "url": ""
+          }
+        },
+        "slide_Y6fQ6F": {
+          "type": "slide",
+          "settings": {
+            "product": "plush-flat-dog-bed-light-khaki-linen",
+            "tag": "",
+            "url": "shopify://products/plush-flat-dog-bed-light-khaki-linen"
+          }
+        }
+      },
+      "block_order": [
+        "slide_KzfQez",
+        "slide_ni9FeG",
+        "slide_AkPqyz",
+        "slide_6Hjwb9",
+        "slide_Y6fQ6F"
+      ],
+      "settings": {
+        "collection": "",
+        "collection_show": 10,
+        "heading": "<h2>Discover the Collection</h2>",
+        "heading_custom": true,
+        "heading_font": "sans-serif",
+        "heading_size": 18,
+        "heading_size_mobile": 14,
+        "heading_height": 80,
+        "heading_align": "left",
+        "heading_align_mobile": "left",
+        "use_all": true,
+        "all": "",
+        "all_url": "",
+        "all_custom": false,
+        "all_font": "josefin_sans_n4",
+        "all_size": 16,
+        "all_size_mobile": 16,
+        "all_height": 130,
+        "all_arrow": true,
+        "slider_view": 4,
+        "slider_view_mobile": 1.7,
+        "slider_gap": 20,
+        "slider_gap_mobile": 16,
+        "slider_mt": 40,
+        "slider_mt_mobile": 40,
+        "image_radius": 0,
+        "image_border_thickness": 0,
+        "image_ratio": "portrait",
+        "image_ratio_mobile": "portrait",
+        "tag_custom": false,
+        "tag_font": "josefin_sans_n4",
+        "tag_size": 11,
+        "tag_size_mobile": 11,
+        "tag_height": 100,
+        "tag_padding_vertical": 5,
+        "tag_padding_vertical_mobile": 5,
+        "tag_padding_horizontal": 15,
+        "tag_padding_horizontal_mobile": 15,
+        "tag_radius": 2,
+        "tag_border_thickness": 0,
+        "title_custom": true,
+        "title_font": "helvetica_n3",
+        "title_size": 15,
+        "title_size_mobile": 13,
+        "title_height": 130,
+        "title_mt": 12,
+        "title_mt_mobile": 10,
+        "vendor_custom": false,
+        "vendor_font": "josefin_sans_n4",
+        "vendor_size": 0,
+        "vendor_size_mobile": 0,
+        "vendor_height": 50,
+        "vendor_mt": 0,
+        "vendor_mt_mobile": 0,
+        "button": "Show Now",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 0,
+        "button_size_mobile": 0,
+        "button_height": 50,
+        "button_padding_vertical": 0,
+        "button_padding_vertical_mobile": 0,
+        "button_padding_horizontal": 20,
+        "button_padding_horizontal_mobile": 12,
+        "button_radius": 6,
+        "button_border_thickness": 0,
+        "button_mt": 14,
+        "button_mt_mobile": 14,
+        "button_style": "link",
+        "use_price": false,
+        "price_custom": false,
+        "price_font": "josefin_sans_n4",
+        "price_size": 14,
+        "price_size_mobile": 12,
+        "price_height": 100,
+        "price_compare": false,
+        "navigation_mt": 20,
+        "navigation_mt_mobile": 32,
+        "arrow_size": 36,
+        "arrow_size_mobile": 36,
+        "arrow_icon_size": 7,
+        "arrow_icon_size_mobile": 7,
+        "arrow_border_thickness": 0.5,
+        "arrow_radius": 100,
+        "arrow_hover_effect": "color",
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "scrollbar_height": 3,
+        "scrollbar_show_desktop": true,
+        "scrollbar_show_mobile": true,
+        "image_border_color": "#000000",
+        "tag_color": "#3a3a3a",
+        "tag_bg_color": "#d8fdb0",
+        "tag_border_color": "#000000",
+        "title_color": "#000000",
+        "vendor_color": "#000000",
+        "price_color": "#ffffff",
+        "price_original_color": "#ffffff",
+        "button_color": "#ffffff",
+        "button_hover_color": "#ffffff",
+        "button_bg_color": "#000000",
+        "button_bg_hover_color": "#000000",
+        "button_bg_gradient": "linear-gradient(71deg, rgba(255, 130, 58, 1), rgba(255, 90, 97, 1) 37%, rgba(255, 130, 58, 1) 100%)",
+        "button_bg_hover_gradient": "linear-gradient(71deg, rgba(255, 130, 58, 1), rgba(255, 90, 97, 1) 37%, rgba(255, 130, 58, 1) 100%)",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "arrow_color": "#7b7b7b",
+        "arrow_hover_color": "#7b7b7b",
+        "arrow_bg_color": "#ebebeb",
+        "arrow_bg_hover_color": "#ffffff",
+        "arrow_border_color": "#c7c7c7",
+        "arrow_border_hover_color": "#c7c7c7",
+        "scrollbar_bg_color": "#dddddd",
+        "scrollbar_drag_bg_color": "#6e6e6e",
+        "all_color": "#000000",
+        "all_hover_color": "#000000",
+        "all_bg_color": "#ebebeb",
+        "heading_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
+    "section_divider_dq6fdd": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": false,
+        "width": "wrapper",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "section_banner_image_wecDj6",
+    "section_text_CMfipT",
+    "section_video_gWeUYn",
+    "cdb3be2a-9d5e-47f0-9431-04f739f3c7cc",
+    "text",
+    "section_image_mUEzTf",
+    "section_grid_PB49Ln",
+    "section_video_86LUEH",
+    "section_text_iJJFcW",
+    "section_grid_niDmki",
+    "section_divider_miXpNM",
+    "ss_video_grid_socials_3_Cj6QJy",
+    "f9132c5c-9f15-4676-8086-613d0304f488",
+    "main",
+    "section_grid_9A99Qw",
+    "section_collection_xkbhGL",
+    "section_divider_yirmJM",
+    "ss_featured_collection_7_eLhVwH",
+    "section_divider_dq6fdd"
+  ]
+}

@@ -1,0 +1,726 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "subheading": "none",
+            "padding_bottom": 8
+          }
+        },
+        "icon_8cwDEe": {
+          "type": "icon",
+          "disabled": true,
+          "settings": {
+            "icon_name": "none",
+            "icon_color": "",
+            "icon_width": 20,
+            "icon_text": "Price will display based on the options selected below.",
+            "text_size": 85,
+            "width": "full",
+            "text_alignment": "left",
+            "bg_color": "",
+            "padding_bottom": 20
+          }
+        },
+        "feature_HCK6Gk": {
+          "type": "feature",
+          "settings": {
+            "icon_name": "none",
+            "icon_width": 25,
+            "title": "",
+            "text": "<p><strong>BUNDLE SAVINGS 20% OFF</strong><br/></p>",
+            "bg_color": "#f7f9fa",
+            "text_color": "#000000",
+            "padding_bottom": 20
+          }
+        },
+        "divider_QHhPqq": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "show_labels": true,
+            "show_quantity": false,
+            "show_payment_button": false,
+            "enable_subscriptions_selectors": false,
+            "padding_bottom": 20
+          }
+        },
+        "divider_FyVUYe": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "popup_text_YbDMVf": {
+          "type": "popup_text",
+          "settings": {
+            "text": "Plush Bed Dimensions →",
+            "popup_page": "sizing-chart-flat-beds",
+            "padding_bottom": 20
+          }
+        },
+        "popup_text_Y7C4Mi": {
+          "type": "popup_text",
+          "settings": {
+            "text": "Marble Bowl Set Dimensions →",
+            "popup_page": "size-guide-marble-bowl-set",
+            "padding_bottom": 20
+          }
+        },
+        "divider_XRKXzz": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "padding_bottom": 20
+          }
+        },
+        "divider_zpLDrH": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "product_accordion": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "Materials",
+            "heading_style": "font-body",
+            "accordion_text": "<h6>Plush Bed</h6><p><strong>Bed Mattress</strong></p><ul><li>Supportive foam base with a cooling gel memory foam top layer</li><li>Waterproof liner</li></ul><p><strong>Bed Fabric Cover (2 Options)</strong></p><ul><li>Linen cover: Upholstery-grade natural linen and performance polyester blend. 480gsm</li><li>Boucle cover: Acrylic-Cotton blend. 600gsm</li><li>Both OEKO-TEX 100 Certified (no nasties)</li></ul><h6>New York Marble Bowl Set</h6><ul><li>100% natural New York Milas Marble</li><li>Lilac and white with purple veins</li><li>Non-slip base</li><li>Non-Toxic BPA free</li></ul>",
+            "accordion_page": "",
+            "padding_bottom": 18
+          }
+        },
+        "divider_eeTG3w": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "product_accordion_J3KYrh": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "Details",
+            "heading_style": "font-body",
+            "accordion_text": "<p><strong>Plush Bed</strong></p><ul><li>Orthopaedic foam base</li><li>Cooling gel memory foam </li><li>Upholstery fabric covers</li><li>Rounded corners to deter chewing</li><li>Low-profile mattress for easy access</li><li>waterproof liner</li><li>machine washable</li></ul><p><strong>Marble Bowl Set</strong></p><ul><li>100% natural New York Milas Marble</li><li>Two bowls in one set</li><li>Bowl Capacity: 900ml </li><li>Bowl Dimensions: 15cm diameter</li><li>Non-slip / non-spill marble tray</li><li>Chemical-free, BPA-free, and plastic-free</li><li>Total set weight: 6kg</li><li>Naturally sourced in Turkey</li></ul><p>Note: As this item is made from marble - colours may vary from the images. The variations in the natural marble add to the beauty and uniqueness of the product.</p>",
+            "accordion_page": "",
+            "padding_bottom": 18
+          }
+        },
+        "divider_a6eCrt": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "product_accordion_WxVdTE": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "Care",
+            "heading_style": "font-body",
+            "accordion_text": "<p><strong>Plush Bed</strong><br/>Koozi beds are built to last, and proper care ensures they stay looking great. Follow these simple tips to extend their life:</p><ul><li>Machine wash up to 30ºC on a gentle cycle</li><li>Wash separately</li><li>Use mild detergent</li><li>Line dry when possible</li><li>Spot clean stains promptly<br/></li></ul><p><strong>New York Marble Bowl Set<br/></strong>We recommend hand washing the marble bowls with warm water and mild dishwashing liquid. </p>",
+            "accordion_page": "",
+            "padding_bottom": 18
+          }
+        },
+        "divider_afECQH": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "product_accordion_eVp3gd": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "Delivery",
+            "heading_style": "font-body",
+            "accordion_text": "<p><strong>Enjoy Complimentary Standard Delivery - for a limited time.</strong></p><ul><li>Orders are dispatched from our Sydney warehouse within 1 - 2 business days.</li><li>Delivery time typically is between 2 - 10 business days, depending on your location.</li><li>We will send your tracking number once order is dispatched.</li></ul>",
+            "accordion_page": "",
+            "padding_bottom": 20
+          }
+        },
+        "divider_pMJtL9": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "feature_rVeP8c": {
+          "type": "feature",
+          "disabled": true,
+          "settings": {
+            "icon_name": "paw-heart",
+            "icon_width": 25,
+            "title": "The Benefit of our Linen Covers",
+            "text": "<p>Our linen covers called Muji Linen, is made from premium performance linen-blend fabric, are a gamechanger for dog parents who value style and function. With natural, earthy tones, they blend seamlessly with your soft furnishings, offering a relaxed, organic touch of luxury, while being easy to clean and maintain. The result is an effortlessly cool and elevated vibe.</p>",
+            "bg_color": "#f7f9fa",
+            "text_color": "#000000",
+            "padding_bottom": 20
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "icon_8cwDEe",
+        "feature_HCK6Gk",
+        "divider_QHhPqq",
+        "form",
+        "divider_FyVUYe",
+        "popup_text_YbDMVf",
+        "popup_text_Y7C4Mi",
+        "divider_XRKXzz",
+        "description",
+        "divider_zpLDrH",
+        "product_accordion",
+        "divider_eeTG3w",
+        "product_accordion_J3KYrh",
+        "divider_a6eCrt",
+        "product_accordion_WxVdTE",
+        "divider_afECQH",
+        "product_accordion_eVp3gd",
+        "divider_pMJtL9",
+        "feature_rVeP8c"
+      ],
+      "settings": {
+        "product_sticky_enable": true,
+        "image_layout": "grid",
+        "image_width": "large",
+        "product_image_aspect_ratio": true,
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "bg_color": "",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_text_AP6b94": {
+      "type": "section-text",
+      "blocks": {
+        "heading_9a3BN6": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Flat-out Comfort: The Plushest Sleep for Dogs who Love to Stretch Out</p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "text_DVXnzr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The flat bed design allows your dog to fully stretch out in their instinctual sleeping position, promoting comfortable rest and minimising joint pressure. It’s perfect as a beautifully simple standalone bed or can be easily fitted for crates, providing versatility for you and your dog's needs.</p>",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "heading_9a3BN6",
+        "text_DVXnzr"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 28,
+        "padding_bottom": 22
+      }
+    },
+    "38ff978b-66eb-4318-9ce0-94db8ff86311": {
+      "type": "section-columns",
+      "blocks": {
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-0": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Denim_Blue_Flat_Bed.jpg",
+            "title": "Orthopaedic Memory Foam - with Cooling Gel",
+            "text": "<p>Our foam is <a href=\"http://www.certipur.us/\" title=\"CertiPUR-US®\">CertiPUR-US®</a> certified, providing orthopaedic support that's just the right balance for smaller dogs. Topped with a cooling gel memory foam for a breathable, temperature regulating and contouring layer for ultimate comfort.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-1": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/flatbed3sizes_khaki_red_oatmeal.jpg",
+            "title": "Low-profile Mattress Perfect for Smaller Dogs",
+            "text": "<p>The low-profile mattress design makes it easy for smaller dogs to hop on and off. It's sleek, soft and supportive, ensuring comfort without the unnecessary height.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-2": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Light_khaki_plush_flat_linen_bed.jpg",
+            "title": "Premium Upholstery Fabric Covers",
+            "text": "<p>Our linen covers are crafted from heavyweight 480gsm linen-blend upholstery fabric, providing breathability, subtle elegance, and comfort. For a cosier feel, our bouclé covers are made from 600gsm upholstery fabric, adding warmth and a soft texture. Both fabrics use the same high-quality material found in fine furniture, ensuring lasting quality and style.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-0",
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-1",
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "columns": 3,
+        "columns_mobile": "1",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 1.1,
+        "mobile_aspect_ratio": 0.8,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color_secondary": false,
+        "color_borders": "#000000",
+        "layout_mobile": "carousel",
+        "width": "wrapper",
+        "padding_top": 40,
+        "padding_bottom": 22
+      }
+    },
+    "section_columns_nwfrNP": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_Yr4zm9": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/flat_bed_boucle.jpg",
+            "title": "Rounded Corners for Style and Reduce Chewing",
+            "text": "<p>The rounded corners deliver a sleek, refined look that also may help to deter chewing - as dogs are generally less tempted by rounded edges than sharp corners.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_Q3eqtY": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Flat_bed_Denim_blue.jpg",
+            "title": "Machine Washable Bed Covers",
+            "text": "<p>Both linen and boucle covers can be machine washed on a gentle low-temperature cycle, for easy fast care. Foam can be spot-cleaned.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_CbrgPF": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Buttercream_Boucle_Plush_flat_Bed_zip_detail.jpg",
+            "title": "YKK Zipps + Non-skid Base",
+            "text": "<p>Durable YKK zippers ensure long-lasting use, with a hidden tuck pouch to prevent chewing. The non-slip base adds stability, reducing accidents and making it easier for dogs to get in and out, especially on smooth surfaces.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_Yr4zm9",
+        "text_block_Q3eqtY",
+        "text_block_CbrgPF"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "columns": 3,
+        "columns_mobile": "1",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 1.1,
+        "mobile_aspect_ratio": 1,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color_secondary": false,
+        "color_borders": "#000000",
+        "layout_mobile": "carousel",
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "section_columns_tkLpY7": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_kzP9ca": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-STUDIO-332_1.jpg",
+            "title": "Boucle Fabric Cover",
+            "text": "<p>A cosy, thick, plush-textured fabric in a luxurious buttery warm neutral colour. It's made from heavyweight 600gsm upholstery-grade boucle fabric—the same premium material used for human sofas, ensuring both superior quality and is OEKO-TEX Standard 100 certified.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_9ie8ji": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/flat_bed_large_red_clay.jpg",
+            "title": "Linen Fabric Cover",
+            "text": "<p>Our exclusive linen covers are timeless in design, crafted from a premium performance upholstery linen blend. Breathable, natural, and durable fabrics in vibrant earthy tones, offering a perfect blend of effortless elegance and organic style. OEKO-TEX Standard 100 Certified.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_kzP9ca",
+        "text_block_9ie8ji"
+      ],
+      "settings": {
+        "title": "Choose Between Linen and Boucle Fabric Covers:",
+        "align_text": "text-left",
+        "columns": 2,
+        "columns_mobile": "1",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 1.1,
+        "mobile_aspect_ratio": 1,
+        "heading_size": 100,
+        "text_size": 100,
+        "bg_color_secondary": true,
+        "color_borders": "#000000",
+        "layout_mobile": "carousel",
+        "width": "wrapper",
+        "padding_top": 46,
+        "padding_bottom": 60
+      }
+    },
+    "section_columns_R3GwAD": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_HHMefK": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-343_1.jpg",
+            "title": "Two Marble Bowls in One Complete Pet Dining Set",
+            "text": "<p>In this you get not one, but two marble bowls, that both have a generous 900mL capacity for water and meals. They sit securely in precision - cut holes in a beautiful marble tray.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_xLnTXn": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Marble-bowl-set-placing-bowl-down.jpg",
+            "title": "The Marble Tray Prevents Spills and Scratching Floors",
+            "text": "<p>The stunning marble tray prevents your dog from tipping the marble bowls over, resists nibbling and is fitted with a soft non-scratch base.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_bMQPC4": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-341_1.jpg",
+            "title": "Timeless Style - Natural New York Marble with Lilac Hues and Purple Veins",
+            "text": "<p>The sleek two bowls and tray set, crafted from natural New York Milas Marble, beautifully complements your home with its unique and striking purple veins.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_HHMefK",
+        "text_block_xLnTXn",
+        "text_block_bMQPC4"
+      ],
+      "settings": {
+        "title": "Elevate Every Mealtime With a Pet Dining Set Made from 100% Natural New York Marble",
+        "align_text": "text-left",
+        "columns": 3,
+        "columns_mobile": "1",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 1.1,
+        "mobile_aspect_ratio": 1,
+        "heading_size": 100,
+        "text_size": 100,
+        "bg_color_secondary": false,
+        "color_borders": "#000000",
+        "layout_mobile": "carousel",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_divider_jQLwMj": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_accordions_TWLEK8": {
+      "type": "section-accordions",
+      "blocks": {
+        "text_b9jaCJ": {
+          "type": "text",
+          "settings": {
+            "title": "How do I care for my bed?",
+            "text": "<p>Caring for your Plush Bed is simple:</p><ol><li><strong>Bed Cover:</strong> The zip-off cover can be easily removed and machine washed on a cold, gentle cycle with mild detergent. For best results, lay flat to dry. </li><li><strong>Waterproof Liner:</strong> Wipe down the waterproof liner with a spray or soapy water for easy cleaning.</li><li><strong>Foam Core:</strong> If you need to clean the foam, wipe it down with warm, soapy water. Allow it to dry completely in a dry place to ensure all moisture is removed before reassembling the bed.</li></ol><p>By following these care instructions, you can keep your Plush Bed looking and feeling fresh!</p>"
+          }
+        },
+        "text_DLDpgj": {
+          "type": "text",
+          "settings": {
+            "title": "How do I assemble the bed?",
+            "text": "<p>No assembly is required. Once you unbox your dog's new bed, it will expand. Your dog can use it immediately, but it may take up to 24 hours for the mattress to completely expand.</p>"
+          }
+        },
+        "text_HgFCdJ": {
+          "type": "text",
+          "settings": {
+            "title": "What does OEKO-TEX Standard 100 mean?",
+            "text": "<p>OEKO-TEX Standard 100 is a certification that ensures our bed covers and foam mattresses are free from harmful substances and chemicals, making them safe for both pets and humans.<br/><br/>This certification guarantees that the fabric meets strict safety and environmental criteria, reflecting our commitment to quality and sustainability. By choosing OEKO-TEX certified covers, you can trust that you are providing a safe, durable, and sustainable option for your dog.</p>"
+          }
+        },
+        "text_jJ8VCM": {
+          "type": "text",
+          "settings": {
+            "title": "Warranty and returns",
+            "text": "<h5>Returns and Exchanges</h5><p><strong>Beds: Unopened & Unused Only</strong><br/>Unopened and unused beds can be returned within 7 days of receipt for a full refund or exchange. Please ensure you have not cut the vacuum seal. To check the size, carefully open the box and unroll the vacuum-sealed item without breaking the seal. If it’s not the right fit, re-roll the item, place it back in the box, and return it.</p><p>You are responsible for the cost and arrangement of return shipping.<br/><br/>Please be aware that opened beds (i.e., those with a cut vacuum seal) cannot be returned or exchanged due to handling difficulties and hygiene concerns.</p><h5>Warranty</h5><p>We offer a 12-month warranty covering manufacturing defects, including faulty workmanship or materials. This warranty does not cover normal wear and tear or damages caused by dog use, such as excessive scratching, biting, accidents, chewing, or other use.</p><p>For warranty issues, please contact us within 48 hours of opening the bed at <a>hello@koozipets.com.au</a>, including images of the defective or damaged item. Failure to provide this information within the specified timeframe may void your exchange or refund.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_b9jaCJ",
+        "text_DLDpgj",
+        "text_HgFCdJ",
+        "text_jJ8VCM"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "Frequently Asked Questions",
+        "subheading": "",
+        "text": "<h3>Plush Bed</h3>",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 18,
+        "padding_bottom": 24
+      }
+    },
+    "tabs": {
+      "type": "section-accordions",
+      "blocks": {
+        "acordion-0": {
+          "type": "text",
+          "settings": {
+            "title": "Is marble safe for dogs?",
+            "text": "<p>Natural marble stone is safe for dog use. It is non-toxic and non-porous, which helps reduce bacterial growth.</p>"
+          }
+        },
+        "acordion-1": {
+          "type": "text",
+          "settings": {
+            "title": "Where is the marble from?",
+            "text": "<p>New York Marble, or sometimes referred to as Milas Lilac Marble, is sourced from the Milas region in southern coastal Turkey near Bodrum. Known for its white background and distinctive lilac hues and purple veining, this marble is a premium choice for high-end interiors and design.</p>"
+          }
+        },
+        "acordion-2": {
+          "type": "text",
+          "settings": {
+            "title": "What is Included in the Set?",
+            "text": "<p>Two generously sized marble bowls and a large marble tray</p>"
+          }
+        },
+        "text_XbxMVH": {
+          "type": "text",
+          "settings": {
+            "title": "What is the capacity of each bowl?",
+            "text": "<p>Each bowl has a 900ML capacity, which is suitable for both small and large dogs and cats.</p>"
+          }
+        },
+        "text_j6QQfm": {
+          "type": "text",
+          "settings": {
+            "title": "How do I clean the marble bowls?",
+            "text": "<p>As the bowl set is 100% natural marble, we recommend hand wash with warm water and mild detergent. With a smooth surface, it wipes away dirt and cleans easily.</p><p>Clean the tray with mild spray and wipe.</p>"
+          }
+        },
+        "d0defd0d-94c3-403c-bd36-dc2f140a104f": {
+          "type": "text",
+          "settings": {
+            "title": "Warranty and Returns",
+            "text": "<p><strong>Returns</strong><br/>The New York Marble Bowl Set is a limited edition piece and sale is final. It cannot be returned for change of mind.<br/><br/><strong>Warranty<br/></strong>Warranty is offered for manufacturing defects including faulty workmanship or materials. This warranty does not cover normal wear and tear or damages caused by the customer or by dog use, such as excessive scratching, biting, accidents, chewing, or other use.</p><p>For warranty issues, please contact us within 48 hours of opening the bed at <a>hello@koozipets.com.au</a>, including images of the defective or damaged item. Failure to provide this information within the specified timeframe may void your exchange or refund.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "acordion-0",
+        "acordion-1",
+        "acordion-2",
+        "text_XbxMVH",
+        "text_j6QQfm",
+        "d0defd0d-94c3-403c-bd36-dc2f140a104f"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "",
+        "subheading": "",
+        "text": "<h3>New York Marble Bowl Set</h3>",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 4,
+        "padding_bottom": 32
+      }
+    },
+    "section_divider_gfmzk3": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "padding_top": 32,
+        "padding_bottom": 26
+      }
+    },
+    "related": {
+      "type": "related-products",
+      "blocks": {
+        "related": {
+          "type": "related",
+          "settings": {
+            "title": "You May Also Like",
+            "product_recommendations_limit": 4
+          }
+        },
+        "recent": {
+          "type": "recent",
+          "settings": {
+            "title": "Recently viewed",
+            "product_recently_limit": 4
+          }
+        }
+      },
+      "block_order": [
+        "related",
+        "recent"
+      ],
+      "disabled": true,
+      "settings": {
+        "enable_tabs": true,
+        "columns_mobile": "1",
+        "type_style": "subheading-text",
+        "tab_heading_size": 120,
+        "bg_color": "",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_text_AP6b94",
+    "38ff978b-66eb-4318-9ce0-94db8ff86311",
+    "section_columns_nwfrNP",
+    "section_columns_tkLpY7",
+    "section_columns_R3GwAD",
+    "section_divider_jQLwMj",
+    "section_accordions_TWLEK8",
+    "tabs",
+    "section_divider_gfmzk3",
+    "related"
+  ]
+}

@@ -1,0 +1,265 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "bg_color_secondary": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_text_EtKfhf": {
+      "type": "section-text",
+      "blocks": {
+        "heading_ejQx46": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Product Care</p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ejQx46"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_list_butttons_HLafXt": {
+      "type": "section-list-butttons",
+      "blocks": {
+        "button_ytPjgK": {
+          "type": "button",
+          "settings": {
+            "heading": "Bed Covers",
+            "button_link": "#fabrichupholsterycare",
+            "overlay_opacity": 100,
+            "block_text_color": "",
+            "bg_color": "",
+            "border_color": ""
+          }
+        },
+        "button_xMeJHM": {
+          "type": "button",
+          "settings": {
+            "heading": "Side Table Crate",
+            "button_link": "",
+            "overlay_opacity": 100,
+            "block_text_color": "",
+            "bg_color": "",
+            "border_color": ""
+          }
+        },
+        "button_gCVJqC": {
+          "type": "button",
+          "settings": {
+            "heading": "Sofa Toppers",
+            "button_link": "",
+            "overlay_opacity": 100,
+            "block_text_color": "",
+            "bg_color": "",
+            "border_color": ""
+          }
+        },
+        "button_k6qhXk": {
+          "type": "button",
+          "settings": {
+            "heading": "Marble Bowls",
+            "button_link": "",
+            "overlay_opacity": 100,
+            "block_text_color": "",
+            "bg_color": "",
+            "border_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "button_ytPjgK",
+        "button_xMeJHM",
+        "button_gCVJqC",
+        "button_k6qhXk"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Product Care",
+        "heading_size": 115,
+        "layout": "carousel",
+        "alignment": "center",
+        "collections_per_row": 6,
+        "columns_mobile": "2",
+        "type_style": "button-typography",
+        "button_style": "pill",
+        "text_size": 100,
+        "letter_spacing": 75,
+        "show_arrow": true,
+        "bg_color": "#ffffff",
+        "block_text_color": "#000000",
+        "border_color": "#000000",
+        "section_bg_color": "#f7f7f7",
+        "section_text_color": "",
+        "enable_slider_mobile": true,
+        "animations_enabled": true,
+        "width": "wrapper--full-padded",
+        "padding_top": 76,
+        "padding_bottom": 66
+      }
+    },
+    "section_accordions_jPmiQg": {
+      "type": "section-accordions",
+      "blocks": {
+        "text_zMbizz": {
+          "type": "text",
+          "settings": {
+            "title": "How do I clean my Koozi products?",
+            "text": "<p><strong>Bed Covers and Sofa Topper covers: </strong> Machine wash on low-temperature gentle cycle. Line dry</p><p><strong>Waterproof liners:</strong> Hand-wash with warm soapy water. Line dry. </p><p><strong>Marble Bowl Set:</strong> Hand-wash with warm soapy water. Be careful with handling when washing, as this is a delicate item made from natural marble. <br/><br/><strong>Mattress Foam: </strong>Spot clean<br/><br/><strong>The Side Table Crate: </strong>Mild multi-purpose spray and wipe. </p>"
+          }
+        },
+        "text_EnHxLW": {
+          "type": "text",
+          "settings": {
+            "title": "Do you offer warranty for your products?",
+            "text": "<p>All our products are subject to quality control.<br/><br/>Our warranty provides a guarantee against manufacturer defects.<br/><br/>The warranty covers any manufacturing, design, or material defect. <br/><br/>It does not cover blows, improper use, or other issues that are not attributable to a manufacturer defects.</p><p>Please read more <a href=\"/pages/warranty-and-returns\" title=\"Warranty & Returns\">here</a></p>"
+          }
+        },
+        "text_i6jthf": {
+          "type": "text",
+          "settings": {
+            "title": "How do I assemble my Koozi products?",
+            "text": "<p><strong>Side Table Crate:</strong> It will be delivered to you flat-packed, and will require a 15 minute assembly. <br/><br/><strong>Beds: </strong>Beds are compression packed for ease of delivery to you. Simply unbox the bed, and it will expand. no need for assembly. <br/><br/><strong>Sofa Topper: </strong>They also are delivered to you in a compression pack. Simply unseal the packaging and it will expand. </p>"
+          }
+        },
+        "text_638xg3": {
+          "type": "text",
+          "settings": {
+            "title": "What can I do to prevent my dog from chewing or damaging the product?",
+            "text": "<p>Our products are designed for durability, but they're not made to endure heavy chewing or destructive behaviour. Damage caused from faulty use or from dog behaviour, falls outside of our warranty coverage. <br/><br/>To help prolong the life of your product, we recommend supervising your dog during initial use. If you're concerned about chewing, we offer helpful tips on the product page, including suggestions for using anti-chew sprays, natural lemon and other preventative measures.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_zMbizz",
+        "text_EnHxLW",
+        "text_i6jthf",
+        "text_638xg3"
+      ],
+      "custom_css": [
+        "h2 {font-size: 24px;}"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "Frequently Asked Questions",
+        "subheading": "",
+        "text": "<p><a href=\"/pages/faqs\" title=\"FAQs\"><strong>View All FAQS</strong></a></p>",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 72,
+        "padding_bottom": 50
+      }
+    },
+    "section_custom_content_Tij86Q": {
+      "type": "section-custom-content",
+      "blocks": {
+        "image_fkVaDm": {
+          "type": "image",
+          "settings": {
+            "text_position": "middle-center",
+            "image": "shopify://shop_images/Opening_the_crate_side_table_in_bedromo-2.jpg",
+            "overlay_opacity": 10,
+            "text_color": "text-light",
+            "title": "",
+            "heading_size": 100,
+            "image_text": "",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--white",
+            "button_style": "btn--solid-border",
+            "button_size": "btn--small"
+          }
+        },
+        "text_qRPTpy": {
+          "type": "text",
+          "settings": {
+            "text_position": "center",
+            "top_image_width": 100,
+            "text_color": "text-dark",
+            "subheading": "Build Guide",
+            "title": "Watch our video demo on how to assemble your Koozi Side Table Crate",
+            "heading_size": 100,
+            "text": "<p>Our side table crates are simple to assemble in under 15 minutes when following the instructions. Follow along with our video demonstration. </p>",
+            "text_size": 100,
+            "button_text": "Learn More",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--white",
+            "button_2_style": "btn--solid-border",
+            "button_2_size": "btn--small",
+            "bg_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_fkVaDm",
+        "text_qRPTpy"
+      ],
+      "settings": {
+        "height": "six-fifty-height",
+        "bg_color": "",
+        "reverse_blocks": false,
+        "width": "wrapper",
+        "add_gutter": false,
+        "padding_top": 46,
+        "padding_bottom": 60
+      }
+    },
+    "section_image_q6XiD3": {
+      "type": "section-image",
+      "settings": {
+        "image": "shopify://shop_images/livingroom_copy.jpg",
+        "height": "five-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "four-fifty-height-mobile",
+        "enable_stretch": true,
+        "image_position": "center",
+        "bg_color_secondary": false,
+        "width": "wrapper--full",
+        "padding_top": 70,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_text_EtKfhf",
+    "section_list_butttons_HLafXt",
+    "section_accordions_jPmiQg",
+    "section_custom_content_Tij86Q",
+    "section_image_q6XiD3"
+  ]
+}

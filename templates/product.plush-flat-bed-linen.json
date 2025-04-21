@@ -1,0 +1,1138 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "subheading": "none",
+            "padding_bottom": 14
+          }
+        },
+        "judge_me_reviews_preview_badge_wp8EwK": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider_3aFgLm": {
+          "type": "divider",
+          "settings": {
+            "show_line": false,
+            "padding_bottom": 16
+          }
+        },
+        "inventory_countdown_QeegM3": {
+          "type": "inventory_countdown",
+          "settings": {
+            "max_inventory": 20,
+            "hide_inventory_count": false,
+            "padding_bottom": 26
+          }
+        },
+        "description_7yNzgG": {
+          "type": "description",
+          "settings": {
+            "padding_bottom": 20
+          }
+        },
+        "divider_AmMVew": {
+          "type": "divider",
+          "settings": {
+            "show_line": false,
+            "padding_bottom": 18
+          }
+        },
+        "feature_iGrTGE": {
+          "type": "feature",
+          "disabled": true,
+          "settings": {
+            "icon_name": "none",
+            "icon_width": 25,
+            "title": "",
+            "text": "<p><strong>Join the Koozi Community to enjoy 10% off your first order | </strong><a href=\"https://koozipets.com.au/pages/koozi-community-sign-up\" target=\"_blank\" title=\"https://koozipets.com.au/pages/koozi-community-sign-up\"><strong>JOIN HERE</strong></a></p>",
+            "bg_color": "#f7f9fa",
+            "text_color": "#000000",
+            "padding_bottom": 20
+          }
+        },
+        "feature_y7xU98": {
+          "type": "feature",
+          "disabled": true,
+          "settings": {
+            "icon_name": "none",
+            "icon_width": 25,
+            "title": "",
+            "text": "<p><strong>Save 20% When You Buy 2 or More Items — Automatically Applied</strong></p>",
+            "bg_color": "#f7f9fa",
+            "text_color": "#000000",
+            "padding_bottom": 20
+          }
+        },
+        "siblings_3w8xtd": {
+          "type": "siblings",
+          "settings": {
+            "text": "FABRIC & COLOUR",
+            "siblings_product_list": [
+              "plush-flat-dog-bed-buttercream-boucle",
+              "plush-flat-dog-bed-denim-blue-linen",
+              "plush-flat-dog-bed-light-khaki-linen",
+              "plush-flat-dog-bed-oatmeal-linen",
+              "plush-flat-dog-bed-red-clay-linen"
+            ],
+            "show_siblings_images": false,
+            "padding_bottom": 48
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "show_labels": true,
+            "show_quantity": true,
+            "show_payment_button": false,
+            "enable_subscriptions_selectors": false,
+            "padding_bottom": 38
+          }
+        },
+        "divider_YWQwBQ": {
+          "type": "divider",
+          "disabled": true,
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "a42f4e7d-6a8d-42a4-80af-29ec3b3b52d9": {
+          "type": "feature",
+          "disabled": true,
+          "settings": {
+            "icon_name": "eco-friendly",
+            "icon_width": 25,
+            "title": "The Advantage of our Linen Covers",
+            "text": "<p>Our linen covers are machine washable and timeless in design. Crafted from a premium performance upholstery linen blend, they're a game-changer for dog parents. Available in natural, earthy tones, they blend seamlessly with your soft furnishings, adding a relaxed, organic touch of luxury to your home. </p>",
+            "bg_color": "#f7f9fa",
+            "text_color": "#000000",
+            "padding_bottom": 20
+          }
+        },
+        "product_accordion_cAaQQe": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "OVERVIEW",
+            "heading_style": "font-body",
+            "accordion_text": "<p>Designed for small to medium dogs, this versatile flat bed works beautifully as a stand-alone piece or a crate bed. Its sleek, minimalist shape with rounded corners reduces chewing temptation, while the low-profile memory foam provides gentle joint support and easy for small dogs to get on and off.</p><p>Made from a soft, breathable linen blend in a warm red clay colour, it complements your home and fits perfectly inside the Koozi Side Table Dog Crate or other crates.</p>",
+            "accordion_page": "",
+            "padding_bottom": 8
+          }
+        },
+        "divider_xTWYRA": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 24
+          }
+        },
+        "product_accordion": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "MATERIALS & CARE",
+            "heading_style": "font-body",
+            "accordion_text": "<p><strong>Flat Bed Mattress</strong></p><ul><li>Supportive foam with a cooling gel memory foam top layer </li><li>Waterproof inner liner</li></ul><p><strong>Fabric Cover</strong></p><ul><li>Exclusive linen fabric: An upholstery-grade natural linen and performance polyester blend.  </li><li>GSM: 480gsm</li><li>OEKO-TEX Certified (no nasties) </li></ul><p><strong>Care</strong></p><ul><li>Machine wash on a low temperature, using a gentle spin cycle</li><li>Wash separately</li><li>Use mild detergent</li><li>Line dry when possible</li><li>Spot clean stains promptly</li></ul>",
+            "accordion_page": "",
+            "padding_bottom": 8
+          }
+        },
+        "divider_FAcgiq": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 24
+          }
+        },
+        "9927e90d-2ecb-4104-af67-0dadf75b2a0a": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "FEATURES",
+            "heading_style": "font-body",
+            "accordion_text": "<ul><li>CertiPUR-US certified cooling gel memory foam</li><li>Upholstery linen fabric cover</li><li>Waterproof liner</li><li>Machine washable cover</li><li>Rounded corners to discourage chewing </li><li>Hidden YKK zips</li><li>OEKO-TEX Standard 100 certified</li></ul>",
+            "accordion_page": "",
+            "padding_bottom": 8
+          }
+        },
+        "divider_K7AbpJ": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 24
+          }
+        },
+        "product_accordion_yfrn96": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "DELIVERY & WARRANTY",
+            "heading_style": "font-body",
+            "accordion_text": "<p><strong>Enjoy Free Standard Delivery - for a limited time.</strong></p><ul><li>Orders are dispatched from our Sydney warehouse within 1 - 2 business days.</li><li>Delivery time typically is between 2 - 10 business days, depending on your location.</li><li>We will send your tracking number once order is dispatched.</li></ul><p><strong>Warranty Guarantee<br/></strong>Shop with peace of mind - we offer a 12 month warranty on manufacturing defects.</p>",
+            "accordion_page": "",
+            "padding_bottom": 8
+          }
+        },
+        "divider_WMn4BU": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 6
+          }
+        },
+        "icon_row_FftLgy": {
+          "type": "icon_row",
+          "settings": {
+            "icon_name_1": "truck",
+            "icon_color_1": "",
+            "icon_width_1": 20,
+            "icon_text_1": "Free & Reliable Delivery",
+            "icon_name_2": "map-pin",
+            "icon_color_2": "",
+            "icon_width_2": 20,
+            "icon_text_2": "Based in Sydney Australia",
+            "icon_name_3": "check",
+            "icon_color_3": "",
+            "icon_width_3": 20,
+            "icon_text_3": "12 Month Warranty Guarantee",
+            "icon_name_4": "star",
+            "icon_color_4": "",
+            "icon_width_4": 20,
+            "icon_text_4": "Top Rated 5 Star Reviews",
+            "alignment": "left",
+            "bg_color": "#ffffff",
+            "padding_bottom": 20
+          }
+        },
+        "feature_ryXVkq": {
+          "type": "feature",
+          "settings": {
+            "icon_name": "support",
+            "icon_width": 25,
+            "title": "Have a question? Chat with us!",
+            "text": "<p>Click the chat bubble icon to connect instantly with our team, or email us anytime at <a href=\"mailto:hello@koozipets.com.au&quot;>hello@koozipets.com.au\" title=\"mailto:hello@koozipets.com.au&quot;>hello@koozipets.com.au\">hello@koozipets.com.au</a>.</p>",
+            "bg_color": "#ffffff",
+            "text_color": "#000000",
+            "padding_bottom": 20
+          }
+        },
+        "divider_nEYtVB": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "judge_me_reviews_preview_badge_wp8EwK",
+        "divider_3aFgLm",
+        "inventory_countdown_QeegM3",
+        "description_7yNzgG",
+        "divider_AmMVew",
+        "feature_iGrTGE",
+        "feature_y7xU98",
+        "siblings_3w8xtd",
+        "form",
+        "divider_YWQwBQ",
+        "a42f4e7d-6a8d-42a4-80af-29ec3b3b52d9",
+        "product_accordion_cAaQQe",
+        "divider_xTWYRA",
+        "product_accordion",
+        "divider_FAcgiq",
+        "9927e90d-2ecb-4104-af67-0dadf75b2a0a",
+        "divider_K7AbpJ",
+        "product_accordion_yfrn96",
+        "divider_WMn4BU",
+        "icon_row_FftLgy",
+        "feature_ryXVkq",
+        "divider_nEYtVB"
+      ],
+      "custom_css": [
+        "h4 {font-size: 16px;}",
+        "h1 {font-size: 20px;}",
+        ".radio__fieldset .radio__input:checked ~ .radio__label {border-width: 2px;}"
+      ],
+      "settings": {
+        "product_sticky_enable": true,
+        "image_layout": "grid",
+        "image_width": "large",
+        "product_image_aspect_ratio": true,
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "bg_color": "",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 34
+      }
+    },
+    "section_text_iMUBt8": {
+      "type": "section-text",
+      "blocks": {
+        "subheading_hVCCFt": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p>Details you'll love</p>",
+            "size": 100,
+            "margin_bottom": 16
+          }
+        },
+        "heading_hYJCj9": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>The Koozi Flat Bed Difference</p>",
+            "size": 115,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "text_Hyn7Fg": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "size": 100
+          }
+        },
+        "button_j3nKpy": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_text": "Read More",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_hVCCFt",
+        "heading_hYJCj9",
+        "text_Hyn7Fg",
+        "button_j3nKpy"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 44,
+        "padding_bottom": 22
+      }
+    },
+    "section_icons_row_xyLgka": {
+      "type": "section-icons-row",
+      "blocks": {
+        "text_iDrnHH": {
+          "type": "text",
+          "settings": {
+            "icon_name": "eco-friendly",
+            "icon_image": "shopify://shop_images/dfsvd.png",
+            "title": "Durable Linen Cover",
+            "text": "<p>Scratch-resistant, breathable & elegant</p>"
+          }
+        },
+        "text_zztzNW": {
+          "type": "text",
+          "settings": {
+            "icon_name": "truck",
+            "icon_image": "shopify://shop_images/mattress-pad-bed-12-512.webp",
+            "title": "Cooling Mattress",
+            "text": "<p>Temperature-regulating & joint supportive</p>"
+          }
+        },
+        "text_FYnRMd": {
+          "type": "text",
+          "settings": {
+            "icon_name": "dishwasher-safe",
+            "title": "Machine Washable",
+            "text": "<p>Easy care with machine washable covers</p><p></p>"
+          }
+        },
+        "text_7DLW36": {
+          "type": "text",
+          "settings": {
+            "icon_name": "paw-heart",
+            "title": "Crate Compatible",
+            "text": "<p>Use as a standalone bed or in your dog's crate</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_iDrnHH",
+        "text_zztzNW",
+        "text_FYnRMd",
+        "text_7DLW36"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "alignment": "center",
+        "columns": 4,
+        "icons_width": 30,
+        "show_vertical_borders": false,
+        "show_horizontal_borders": false,
+        "heading_size": 100,
+        "text_size": 90,
+        "bg_color": "",
+        "text_color": "#333333",
+        "box_color": "#ffffff",
+        "color_border": "#333333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "layout_mobile": "stacked",
+        "width": "wrapper",
+        "padding_top": 20,
+        "padding_bottom": 60
+      }
+    },
+    "section_image_K8pfb6": {
+      "type": "section-image",
+      "settings": {
+        "image": "shopify://shop_images/Plush_Flat_bed_linen_covers_stacked_-_oatmeal_red_clay_khaki_linen.jpg",
+        "height": "original-height",
+        "enable_mobile_height": true,
+        "mobile_height": "one-fifth-height-mobile",
+        "enable_stretch": true,
+        "image_position": "center",
+        "bg_color_secondary": false,
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_text_Q4YrFA": {
+      "type": "section-text",
+      "blocks": {
+        "heading_pt8te7": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>A Modern Twist on a Classic,<br/>Simple, Flat Dog Bed</p>",
+            "size": 105,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "heading_pt8te7"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 80,
+        "padding_bottom": 22
+      }
+    },
+    "section_columns_L4wJ3W": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_AT9GKz": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/flat_bed_3_sizes_khaki_red_oatmeal_copy.jpg",
+            "title": "Premium Upholstery Linen Fabric",
+            "text": "<p>Our linen covers are made from luxurious heavyweight upholstery linen-blend fabric, that's OEKO-TEX Standard 100 certified. The range  features 4 natural earthy colours, providing a refined aesthetic that's soft, stylish and scratch-resistant.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_fgVdtH": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Denim_Blue_Flat_Bed.jpg",
+            "title": "Cooling Gel Memory Foam",
+            "text": "<p>The mattress features two layers of CertiPUR-US® certified foam and cooling gel memory foam, providing multi-layered support, cloud-like comfort, and enhanced breathability - ideal for small to medium dogs.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_Mxa9Xt": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-186_2.jpg",
+            "title": "Sleek, Versatile Design",
+            "text": "<p>A minimalist, simple flat dog bed that offers versatility. Use it as a standalone bed, a cosy additional bed, or a travel bed. It fits perfectly inside the Koozi Side Table Crate or any crate of your choice.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_AT9GKz",
+        "text_block_fgVdtH",
+        "text_block_Mxa9Xt"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "columns": 3,
+        "columns_mobile": "1",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 1.1,
+        "mobile_aspect_ratio": 1.1,
+        "heading_size": 140,
+        "text_size": 100,
+        "bg_color_secondary": false,
+        "color_borders": "#000000",
+        "layout_mobile": "stacked",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_columns_6VVq3i": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_wxxJ6B": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Denim_Blue_Plush_Flat_Bed_-_Bailey.jpg",
+            "title": "Low-profile Mattress Perfect for Small Dogs",
+            "text": "<p>The low-profile mattress design, making it easier for smaller dogs to hop on and off with ease. It remains supportive and provides optimal comfort without extra height.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_G6hHGi": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/flat_bed_flat_lay_oatmeal_blue_khaki.jpg",
+            "title": "Rounded Corners to Reduce Chewing",
+            "text": "<p>The rounded corners deliver a sleek, refined look that also may help to deter chewing - as dogs are generally less tempted by rounded edges than sharp corners.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_c3wYHM": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Red_Clay_Linen_-_Zip.jpg",
+            "title": "Liquid Protection: Inner Waterproof Liner",
+            "text": "<p>The interior features a waterproof liner to protect the foam mattress against liquid spills, accidents and wet paws.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_wxxJ6B",
+        "text_block_G6hHGi",
+        "text_block_c3wYHM"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "columns": 3,
+        "columns_mobile": "2",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 1.1,
+        "mobile_aspect_ratio": 1.1,
+        "heading_size": 140,
+        "text_size": 100,
+        "bg_color_secondary": false,
+        "color_borders": "#000000",
+        "layout_mobile": "stacked",
+        "width": "wrapper",
+        "padding_top": 30,
+        "padding_bottom": 60
+      }
+    },
+    "section_divider_qkHeVp": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper--full",
+        "padding_top": 30,
+        "padding_bottom": 0
+      }
+    },
+    "section_image_with_text_jFx8HJ": {
+      "type": "section-image-with-text",
+      "settings": {
+        "section_height": "six-fifty-height",
+        "layout": "inline",
+        "image_location": "left",
+        "image_width": "standard",
+        "image": "shopify://shop_images/Plush_Flat_Beds_Stacked.jpg",
+        "subheading": "",
+        "title": "<h2>Why Choose our Premium Linen Fabric Covers</h2>",
+        "heading_highlight_type": "circle",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "heading_size": 100,
+        "content": "<p>Our exclusive linen fabric combines the elegance of natural linen with durability of performance materials for everyday dog use. This perfect balance of timeless luxury and practicality offers a soft, breathable feel while being resilient and long-lasting.</p><p><br/></p><ul><li><h5>Effortlessly Stylish & Practical</h5></li><li><h5>Breathable + Temperature Regulating</h5></li><li><h5>Thick, Durable & Scratch-resistant</h5></li><li><h5>Stays Naturally Fresh</h5></li></ul>",
+        "text_alignment": "left",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "video_link": "",
+        "text_color": "text-dark",
+        "bg_color": "",
+        "gradient": "",
+        "section_width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_icons_row_VzcmJc": {
+      "type": "section-icons-row",
+      "blocks": {
+        "text_R4GRYN": {
+          "type": "text",
+          "settings": {
+            "icon_name": "gem",
+            "title": "Effortlessly Stylish & Practical",
+            "text": "<p>The inherent texture of linen provides a casual yet sophisticated appearance, creating a relaxed vibe that complements various decor styles. When combined with performance fabric, our covers deliver understated elegance while ensuring durability and practicality.</p>"
+          }
+        },
+        "text_dDJ9hE": {
+          "type": "text",
+          "settings": {
+            "icon_name": "paw-heart",
+            "title": "Breathable + Temperature Regulating",
+            "text": "<p>Linen is naturally breathable, promoting air circulation and moisture evaporation to keep your dog cool in warm weather, while also offering insulation in cooler weather.</p>"
+          }
+        },
+        "text_ze4YCR": {
+          "type": "text",
+          "settings": {
+            "icon_name": "check",
+            "title": "Thick and Durable",
+            "text": "<p>Linen is naturally strong, and when blended with upholstery-grade polyester, it becomes even more durable and resistant to wear and tear, extending the lifespan of your dog's bed cover.</p>"
+          }
+        },
+        "text_TnTwKU": {
+          "type": "text",
+          "settings": {
+            "icon_name": "eco-friendly",
+            "title": "Stays Naturally Fresh",
+            "text": "<p>Linen's natural hypoallergenic properties help reduce irritants, making it a safer choice for sensitive dogs. Its antibacterial qualities may inhibit bacterial growth, keeping the bed cleaner and fresher. The texture also reduces pet hair from static sticking.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_R4GRYN",
+        "text_dDJ9hE",
+        "text_ze4YCR",
+        "text_TnTwKU"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Why Choose our Premium Linen Fabric Covers",
+        "subheading": "<p>Our exclusive linen fabric covers are a premium, upholstery-grade blend that combines the natural elegance of linen with durability and performance for everyday dog use. This perfect balance of timeless luxury and practicality offers a soft, breathable feel while being resilient enough to withstand daily use and claw scratching. </p>",
+        "alignment": "center",
+        "columns": 4,
+        "icons_width": 20,
+        "show_vertical_borders": true,
+        "show_horizontal_borders": true,
+        "heading_size": 110,
+        "text_size": 100,
+        "bg_color": "#f5f4f1",
+        "text_color": "#333333",
+        "box_color": "",
+        "color_border": "#333333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "layout_mobile": "grid",
+        "width": "wrapper",
+        "padding_top": 50,
+        "padding_bottom": 48
+      }
+    },
+    "section_sticky_image_cards_NRAkfN": {
+      "type": "section-sticky-image-cards",
+      "blocks": {
+        "card_TLyXhf": {
+          "type": "card",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/flatbed3sizes_khaki_red_oatmeal.jpg",
+            "image_mobile": "shopify://shop_images/KOOZI-CAMPAIGN-57_1.jpg",
+            "subheading": "",
+            "title": "<p>Our Linen Plush Flat Bed range offers seamless integration into your home interiors, featuring a natural earthy colour palette, a soft luxurious feel, and timeless appeal.</p>",
+            "heading_size": 60,
+            "truncate_text": false,
+            "heading_length": 15,
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small"
+          }
+        },
+        "card_pNeXBt": {
+          "type": "card",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-273_1_6a74c585-507c-4f04-938d-f9758564104f.jpg",
+            "subheading": "",
+            "title": "<h1><strong>Free</strong> For a Limited Time: Get the Plush Flat Bed free with the Side Table Crate Bundle  </h1>",
+            "heading_size": 60,
+            "truncate_text": false,
+            "heading_length": 15,
+            "button_text": "Shop the Retreat Bundle - Free Plush Flat bed",
+            "button_link": "shopify://products/retreat-set-linen",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "card_TLyXhf",
+        "card_pNeXBt"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_alignment": "left",
+        "image_position": "",
+        "increase_border_radius": true,
+        "aspect_ratio_desktop": 1.1,
+        "aspect_ratio_mobile": 1.1,
+        "layout_mobile": "stacked",
+        "text_color": "text-dark",
+        "bg_color": "#ffffff",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_divider_yPww7F": {
+      "type": "section-divider",
+      "disabled": true,
+      "settings": {
+        "show_line": true,
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 32
+      }
+    },
+    "section_icons_row_yadb8t": {
+      "type": "section-icons-row",
+      "blocks": {
+        "text_Fb4TGj": {
+          "type": "text",
+          "settings": {
+            "icon_name": "package",
+            "title": "Fast, Easy, No-Fuss Assembly",
+            "text": ""
+          }
+        },
+        "text_Fgrp8j": {
+          "type": "text",
+          "settings": {
+            "icon_name": "award",
+            "title": "Quality Guaranteed",
+            "text": ""
+          }
+        },
+        "text_Rtx9dN": {
+          "type": "text",
+          "settings": {
+            "icon_name": "scientific",
+            "title": "Non-skid Grip Base",
+            "text": ""
+          }
+        },
+        "text_ga8qdA": {
+          "type": "text",
+          "settings": {
+            "icon_name": "shield",
+            "title": "Fitted with YKK Zippers & Hidden Tuck Pouch",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_Fb4TGj",
+        "text_Fgrp8j",
+        "text_Rtx9dN",
+        "text_ga8qdA"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "alignment": "center",
+        "columns": 4,
+        "icons_width": 35,
+        "show_vertical_borders": false,
+        "show_horizontal_borders": true,
+        "heading_size": 80,
+        "text_size": 90,
+        "bg_color": "#ffffff",
+        "text_color": "#0b0b0b",
+        "box_color": "#ecebe7",
+        "color_border": "#333333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "layout_mobile": "stacked",
+        "width": "wrapper",
+        "padding_top": 26,
+        "padding_bottom": 26
+      }
+    },
+    "tabs": {
+      "type": "section-accordions",
+      "blocks": {
+        "acordion-0": {
+          "type": "text",
+          "settings": {
+            "title": "How do I care for the Flat Dog Bed?",
+            "text": "<p>Caring for your Flat Dog Bed is simple!</p><ol><li><strong>Linen Cover:</strong> The zip-off linen cover can be easily removed and machine washed on a cold, gentle cycle with mild detergent. For best results, lay flat to dry.</li><li><strong>Waterproof Liner:</strong> Wipe down the waterproof liner with a spray or soapy water for easy cleaning.</li><li><strong>Foam Core:</strong> If you need to clean the foam, wipe it down with warm, soapy water. Allow it to dry completely in a dry place to ensure all moisture is removed before reassembling the bed.</li></ol><p>By following these care instructions, you can keep your bed looking and feeling fresh!</p>"
+          }
+        },
+        "acordion-1": {
+          "type": "text",
+          "settings": {
+            "title": "Warranty and Returns",
+            "text": "<h5>Returns and Exchanges</h5><p><strong>For Unopened & Unused Items Only</strong><br/>Unopened and unused beds can be returned within 7 days of receipt for a full refund or exchange. Please ensure you have not cut the vacuum seal. To check the size, carefully open the box and unroll the vacuum-sealed item without breaking the seal. If it’s not the right fit, re-roll the item, place it back in the box, and return it.</p><p>You are responsible for the cost and arrangement of return shipping. <br/><br/>Please be aware that opened beds (i.e., those with a cut vacuum seal) cannot be returned or exchanged due to handling difficulties and hygiene concerns.<br/></p><h5>Warranty</h5><p>We offer a 12-month warranty covering manufacturing defects, including faulty workmanship or materials. This warranty does not cover normal wear and tear or damages caused by dog use, such as excessive scratching, biting, accidents, chewing, or other use.</p><p>For warranty issues, please contact us within 48 hours of opening the bed at <a>hello@koozipets.com.au</a>, including images of the defective or damaged item. Failure to provide this information within the specified timeframe may void your exchange or refund.</p>"
+          }
+        },
+        "d0defd0d-94c3-403c-bd36-dc2f140a104f": {
+          "type": "text",
+          "settings": {
+            "title": "What does OEKO-TEX Standard 100 mean?",
+            "text": "<p>OEKO-TEX Standard 100 is a certification that ensures our linen covers and foam mattresses are free from harmful substances and chemicals, making them safe for both pets and humans. <br/><br/>This certification guarantees that the fabric meets strict safety and environmental criteria, reflecting our commitment to quality and sustainability. By choosing OEKO-TEX certified covers, you can trust that you are providing a safe, durable, and eco-friendly option for your dog.</p>"
+          }
+        },
+        "text_wBnGmM": {
+          "type": "text",
+          "settings": {
+            "title": "Why is CertiPUR-US® Certification important for foam beds?",
+            "text": "<p>CertiPUR-US® certified foam ensures that the foam is free from harmful chemicals and substances. Specifically, it means the foam is made without:</p><ul><li>Ozone depleters</li><li>PBDEs (Polybrominated diphenyl ethers) and certain Tris flame retardants (TCEP, TDBPP, TDCPP, TEPA)</li><li>Mercury, lead, and other heavy metals</li><li>Formaldehyde</li><li>Phthalates</li></ul><p>Additionally, CertiPUR-US® foam undergoes rigorous testing to ensure its performance, durability, emissions, and content, with analysis conducted by independent accredited laboratories. This certification helps guarantee a safer and more environmentally friendly foam product.</p>"
+          }
+        },
+        "text_89rCVW": {
+          "type": "text",
+          "settings": {
+            "title": "How do I assemble the Flat Dog Bed?",
+            "text": "<p>No assembly is required. Once you unbox your dog's new bed, it will begin to expand. Your dog can use it immediately, but it may take a few hours, and up to 24 hours for the mattress to completely expand.</p>"
+          }
+        },
+        "text_fbyNCm": {
+          "type": "text",
+          "settings": {
+            "title": "Is the Flat Dog Bed suitable for all dog breeds?",
+            "text": "<p>The Flat Dog Bed is designed to accommodate most dog breeds, from extra small to larger medium breeds. With its softer memory foam and low-profile design, it provides a cushioned yet supportive feel, making it ideal for dogs that prefer a softer bed. For the best fit, we recommend reviewing our size guide and considering your dog's individual preferences.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "acordion-0",
+        "acordion-1",
+        "d0defd0d-94c3-403c-bd36-dc2f140a104f",
+        "text_wBnGmM",
+        "text_89rCVW",
+        "text_fbyNCm"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "Frequently Asked Questions",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 60
+      }
+    },
+    "section_text_7LaCgn": {
+      "type": "section-text",
+      "blocks": {
+        "heading_JLdrf8": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Real Dog Parents,<br/>Real Moments with Koozi</p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "subheading_cbdQEK": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p>Tag and follow us to be featured @koozipets</p>",
+            "size": 95,
+            "margin_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "heading_JLdrf8",
+        "subheading_cbdQEK"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": true,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 70,
+        "padding_bottom": 20
+      }
+    },
+    "section_testimonials_with_images_piNEY6": {
+      "type": "section-testimonials-with-images",
+      "blocks": {
+        "image_KR8VNd": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/IMG_0434_1.jpg",
+            "aspect_ratio": 1,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_ELwPzn": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/IMG_1004.jpg",
+            "aspect_ratio": 1,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_htag4t": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/099A1279_1.jpg",
+            "aspect_ratio": 1,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_ATBLcM": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/IMG_0316_1.jpg",
+            "aspect_ratio": 1,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_9mfJtb": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/IMG_0252.jpg",
+            "aspect_ratio": 1,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_MF44KL": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/IMG_9159.jpg",
+            "aspect_ratio": 1,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_YVG3ng": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/IMG_0765.jpg",
+            "aspect_ratio": 1,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "image_KR8VNd",
+        "image_ELwPzn",
+        "image_htag4t",
+        "image_ATBLcM",
+        "image_9mfJtb",
+        "image_MF44KL",
+        "image_YVG3ng"
+      ],
+      "settings": {
+        "subheading": "",
+        "subheading_size": 100,
+        "title": "",
+        "heading_size": 100,
+        "text_alignment": "text-left",
+        "bg_color": "#ecebe7",
+        "testimonial_block_color": "",
+        "star_color": "",
+        "testimonial_text_color": "text-dark",
+        "width": "wrapper--full-padded",
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "173136711721cf8d1f": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_WdfYTP": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_WdfYTP"
+      ],
+      "settings": {
+        "bg_color": "#ecebe7",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "related": {
+      "type": "related-products",
+      "blocks": {
+        "related": {
+          "type": "related",
+          "settings": {
+            "title": "You May Also Like",
+            "product_recommendations_limit": 4
+          }
+        },
+        "recent": {
+          "type": "recent",
+          "settings": {
+            "title": "Recently viewed",
+            "product_recently_limit": 4
+          }
+        }
+      },
+      "block_order": [
+        "related",
+        "recent"
+      ],
+      "disabled": true,
+      "settings": {
+        "enable_tabs": true,
+        "columns_mobile": "1",
+        "type_style": "subheading-text",
+        "tab_heading_size": 120,
+        "bg_color": "",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_text_iMUBt8",
+    "section_icons_row_xyLgka",
+    "section_image_K8pfb6",
+    "section_text_Q4YrFA",
+    "section_columns_L4wJ3W",
+    "section_columns_6VVq3i",
+    "section_divider_qkHeVp",
+    "section_image_with_text_jFx8HJ",
+    "section_icons_row_VzcmJc",
+    "section_sticky_image_cards_NRAkfN",
+    "section_divider_yPww7F",
+    "section_icons_row_yadb8t",
+    "tabs",
+    "section_text_7LaCgn",
+    "section_testimonials_with_images_piNEY6",
+    "173136711721cf8d1f",
+    "related"
+  ]
+}

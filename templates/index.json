@@ -1,0 +1,1807 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "ss_hero_14_DzCdTC": {
+      "type": "ss-hero-14",
+      "blocks": {
+        "heading_xw9GGc": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h4><strong>20% Off Sitewide</strong></h4><h4><em><strong>+ Free Shipping</strong></em></h4><h4>Autumn Sale</h4>",
+            "heading_custom": true,
+            "heading_font": "fahkwang_n4",
+            "heading_size": 36,
+            "heading_size_mobile": 26,
+            "heading_height": 120,
+            "heading_mt": 36,
+            "heading_mt_mobile": 6,
+            "heading_color": "#ffffff"
+          }
+        },
+        "text_DPgxAW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Create a sanctuary for you and your pooch, with pet essentials designed to be <em>seen</em> in your home.</p>",
+            "text_custom": false,
+            "text_font": "josefin_sans_n4",
+            "text_size": 18,
+            "text_size_mobile": 14,
+            "text_height": 110,
+            "text_mt": 22,
+            "text_mt_mobile": 18,
+            "text_color": "#ffffff"
+          }
+        },
+        "button_X7r8cp": {
+          "type": "button",
+          "settings": {
+            "button": "SHOP NOW",
+            "button_url": "shopify://pages/end-of-year-sale",
+            "button_custom": true,
+            "button_font": "sans-serif",
+            "button_size": 14,
+            "button_size_mobile": 12,
+            "button_height": 70,
+            "button_mt": 32,
+            "button_mt_mobile": 28,
+            "button_padding_vertical": 16,
+            "button_padding_vertical_mobile": 14,
+            "button_padding_horizontal": 44,
+            "button_padding_horizontal_mobile": 28,
+            "button_radius": 0,
+            "button_border_thickness": 0,
+            "button_style": "non_outline",
+            "button_color": "#161515",
+            "button_hover_color": "#ffffff",
+            "button_bg_color": "#ffffff",
+            "button_bg_hover_color": "#555555",
+            "button_border_color": "#b5b5b5",
+            "button_border_hover_color": "#555555"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xw9GGc",
+        "text_DPgxAW",
+        "button_X7r8cp"
+      ],
+      "settings": {
+        "hero_height": "fixed_height",
+        "hero_fixed_height": 540,
+        "content_use_fixed_height": true,
+        "content_fixed_height": 280,
+        "body_gap": 0,
+        "body_gap_mobile": 0,
+        "content_image": "shopify://shop_images/ad2_h.png",
+        "content_vertical_align": "center",
+        "content_vertical_align_mobile": "start",
+        "content_horizontal_align": "center",
+        "content_horizontal_align_mobile": "center",
+        "content_padding_vertical": 98,
+        "content_padding_vertical_mobile": 40,
+        "content_padding_horizontal": 56,
+        "content_padding_horizontal_mobile": 28,
+        "content_overlay": 0.1,
+        "video": "shopify://files/videos/WEB HERO 1x1.mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_ratio_mobile": "square",
+        "video_bottom_mobile": false,
+        "video_hide_mobile": false,
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 90,
+        "border_thickness": 0,
+        "section_radius": 0
+      }
+    },
+    "section_banner_image_gzJVmf": {
+      "type": "section-banner-image",
+      "blocks": {
+        "heading_RrKN9L": {
+          "type": "heading",
+          "settings": {
+            "text": "<h1>Design <em>forward</em> pet <br/>essentials, made<br/>to be <em>seen. </em></h1>",
+            "size": 90,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#7e93be",
+            "highlight_text_color": "#ffffff"
+          }
+        },
+        "button_rk8CRA": {
+          "type": "button",
+          "settings": {
+            "stacked_button": false,
+            "button_1_text": "Shop All",
+            "button_1_link": "shopify://collections/launch-collection-a-shared-sanctuary",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--text",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RrKN9L",
+        "button_rk8CRA"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "original-height",
+        "enable_mobile_height": true,
+        "mobile_height": "original-height-mobile",
+        "image": "shopify://shop_images/xcfade_2x_268a05c6-d6f3-4333-8460-2ee5703c145a.jpg",
+        "image_mobile": "shopify://shop_images/vd.png",
+        "overlay_opacity": 5,
+        "transition": "slide",
+        "enable_zoom_animation": false,
+        "enable_card_scrolling": false,
+        "increase_border_radius": false,
+        "text_width": "normal",
+        "text_position": "top-left",
+        "text_alignment": "text-left",
+        "text_color": "text-light"
+      }
+    },
+    "section_text_JfKbFJ": {
+      "type": "section-text",
+      "blocks": {
+        "text_8MCape": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>Premium Dog Furniture & Essentials <br/>for Modern Dog Parents</h1><p></p>",
+            "size": 120
+          }
+        },
+        "button_WXU3gM": {
+          "type": "button",
+          "settings": {
+            "button_text": "Shop now",
+            "button_link": "shopify://collections/launch-collection-a-shared-sanctuary",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--large"
+          }
+        }
+      },
+      "block_order": [
+        "text_8MCape",
+        "button_WXU3gM"
+      ],
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": true,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 68,
+        "padding_bottom": 58
+      }
+    },
+    "section_text_YNLGYq": {
+      "type": "section-text",
+      "blocks": {
+        "subheading_P98yF8": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "<p>REDEFINING  PET-FRIENDLY LIVING</p>",
+            "size": 80,
+            "margin_bottom": 16
+          }
+        },
+        "heading_RDHtFp": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "size": 90,
+            "heading_highlight_type": "underline",
+            "highlight_color": "#3a5b9e",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "text_xKT8Pw": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>For the pets you love and the home you cherish. </strong><br/>Koozi combines design, comfort and quality to help you create a home sanctuary.</p>",
+            "size": 90
+          }
+        }
+      },
+      "block_order": [
+        "subheading_P98yF8",
+        "heading_RDHtFp",
+        "text_xKT8Pw"
+      ],
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 62,
+        "padding_bottom": 34
+      }
+    },
+    "section_text_pc7V6D": {
+      "type": "section-text",
+      "blocks": {
+        "heading_hgra4D": {
+          "type": "heading",
+          "settings": {
+            "text": "<h4>Shop Sale Favourites</h4>",
+            "size": 90,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "text_zRMgdM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our most popular items are now 20% off</p>",
+            "size": 95
+          }
+        },
+        "text_iJE3Az": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p><em><strong>BY ANY 2 ITEMS SAVE 20%</strong></em></p>",
+            "size": 80
+          }
+        }
+      },
+      "block_order": [
+        "heading_hgra4D",
+        "text_zRMgdM",
+        "text_iJE3Az"
+      ],
+      "settings": {
+        "text_position": "left",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--full-padded",
+        "padding_top": 48,
+        "padding_bottom": 14
+      }
+    },
+    "section_collection_d6iFbP": {
+      "type": "section-collection",
+      "disabled": true,
+      "settings": {
+        "collection": "launch-collection-a-shared-sanctuary",
+        "products_layout": "grid",
+        "number_of_products": 6,
+        "products_per_row_on_desktop": 4,
+        "columns_mobile": "2",
+        "text_alignment": "text-left",
+        "title": "<p>BOXING DAY SALE</p>",
+        "heading_highlight_type": "circle",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "heading_size": 100,
+        "text": "<p>Use this text to share information about your collection with your customers.</p>",
+        "text_size": 100,
+        "button_text": "Shop All",
+        "button_color": "btn--black",
+        "button_style": "btn--text",
+        "button_size": "btn--large",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": false,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "ss_featured_collection_7_kGhDN9": {
+      "type": "ss-featured-collection-7",
+      "blocks": {
+        "slide_AnHWg9": {
+          "type": "slide",
+          "settings": {
+            "product": "dog-crate-side-table",
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-17.jpg",
+            "second_image": "shopify://shop_images/KOOZI-CAMPAIGN-190_2.jpg",
+            "tag": "",
+            "url": ""
+          }
+        },
+        "slide_Y7Ttar": {
+          "type": "slide",
+          "settings": {
+            "product": "cloud-sofa-dog-bed-oatmeal-linen",
+            "image": "shopify://shop_images/ghjkl.jpg",
+            "second_image": "shopify://shop_images/Oatmeal-linen-cloud-dog-bed-close-up.jpg",
+            "tag": "Best Seller",
+            "url": ""
+          }
+        },
+        "slide_BC4nGT": {
+          "type": "slide",
+          "settings": {
+            "product": "soft-topper-milk-white",
+            "tag": "Selling Fast",
+            "url": ""
+          }
+        },
+        "slide_h6VAGU": {
+          "type": "slide",
+          "settings": {
+            "product": "cloud-sofa-dog-bed-light-khaki-linen",
+            "image": "shopify://shop_images/gg.jpg",
+            "second_image": "shopify://shop_images/Cloud_bed_khaki_linen.jpg",
+            "tag": "",
+            "url": ""
+          }
+        },
+        "slide_jUD6e3": {
+          "type": "slide",
+          "settings": {
+            "product": "plush-flat-dog-bed-denim-blue-linen",
+            "image": "shopify://shop_images/Denim_Blue_Flat_Bed.jpg",
+            "second_image": "shopify://shop_images/KOOZI-STUDIO-149_copy.jpg",
+            "tag": "Best Seller",
+            "url": ""
+          }
+        },
+        "slide_zPVAam": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "product": "marble-dog-bowl-set",
+            "tag": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_AnHWg9",
+        "slide_Y7Ttar",
+        "slide_BC4nGT",
+        "slide_h6VAGU",
+        "slide_jUD6e3",
+        "slide_zPVAam"
+      ],
+      "custom_css": [],
+      "settings": {
+        "collection": "launch-collection-a-shared-sanctuary",
+        "collection_show": 6,
+        "heading": "",
+        "heading_custom": true,
+        "heading_font": "helvetica_n4",
+        "heading_size": 16,
+        "heading_size_mobile": 16,
+        "heading_height": 100,
+        "heading_align": "left",
+        "heading_align_mobile": "left",
+        "use_all": false,
+        "all": "Shop All",
+        "all_url": "shopify://collections/launch-collection-a-shared-sanctuary",
+        "all_custom": true,
+        "all_font": "mono",
+        "all_size": 12,
+        "all_size_mobile": 10,
+        "all_height": 130,
+        "all_arrow": false,
+        "slider_view": 3.4,
+        "slider_view_mobile": 1.5,
+        "slider_gap": 10,
+        "slider_gap_mobile": 6,
+        "slider_mt": 34,
+        "slider_mt_mobile": 14,
+        "image_radius": 0,
+        "image_border_thickness": 0,
+        "image_ratio": "portrait",
+        "image_ratio_mobile": "portrait",
+        "tag_custom": true,
+        "tag_font": "helvetica_n4",
+        "tag_size": 11,
+        "tag_size_mobile": 11,
+        "tag_height": 100,
+        "tag_padding_vertical": 5,
+        "tag_padding_vertical_mobile": 5,
+        "tag_padding_horizontal": 15,
+        "tag_padding_horizontal_mobile": 15,
+        "tag_radius": 2,
+        "tag_border_thickness": 0,
+        "title_custom": true,
+        "title_font": "helvetica_n3",
+        "title_size": 14,
+        "title_size_mobile": 13,
+        "title_height": 100,
+        "title_mt": 22,
+        "title_mt_mobile": 20,
+        "vendor_custom": false,
+        "vendor_font": "josefin_sans_n4",
+        "vendor_size": 0,
+        "vendor_size_mobile": 0,
+        "vendor_height": 50,
+        "vendor_mt": 0,
+        "vendor_mt_mobile": 0,
+        "button": "",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 14,
+        "button_size_mobile": 14,
+        "button_height": 100,
+        "button_padding_vertical": 12,
+        "button_padding_vertical_mobile": 12,
+        "button_padding_horizontal": 20,
+        "button_padding_horizontal_mobile": 12,
+        "button_radius": 6,
+        "button_border_thickness": 0,
+        "button_mt": 14,
+        "button_mt_mobile": 14,
+        "button_style": "link",
+        "use_price": false,
+        "price_custom": true,
+        "price_font": "josefin_sans_n4",
+        "price_size": 14,
+        "price_size_mobile": 12,
+        "price_height": 100,
+        "price_compare": true,
+        "navigation_mt": 20,
+        "navigation_mt_mobile": 32,
+        "arrow_size": 36,
+        "arrow_size_mobile": 36,
+        "arrow_icon_size": 7,
+        "arrow_icon_size_mobile": 7,
+        "arrow_border_thickness": 0.5,
+        "arrow_radius": 0,
+        "arrow_hover_effect": "color",
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "scrollbar_height": 3,
+        "scrollbar_show_desktop": false,
+        "scrollbar_show_mobile": false,
+        "image_border_color": "#000000",
+        "tag_color": "#3a3a3a",
+        "tag_bg_color": "#ffffff",
+        "tag_border_color": "#000000",
+        "title_color": "#000000",
+        "vendor_color": "#000000",
+        "price_color": "#ffffff",
+        "price_original_color": "#ffffff",
+        "button_color": "#312f2f",
+        "button_hover_color": "#ffffff",
+        "button_bg_color": "#000000",
+        "button_bg_hover_color": "#000000",
+        "button_bg_gradient": "linear-gradient(71deg, rgba(255, 130, 58, 1), rgba(255, 90, 97, 1) 37%, rgba(255, 130, 58, 1) 100%)",
+        "button_bg_hover_gradient": "linear-gradient(71deg, rgba(255, 130, 58, 1), rgba(255, 90, 97, 1) 37%, rgba(255, 130, 58, 1) 100%)",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "arrow_color": "#7b7b7b",
+        "arrow_hover_color": "#ffffff",
+        "arrow_bg_color": "#ffffff",
+        "arrow_bg_hover_color": "#ffffff",
+        "arrow_border_color": "#ffffff",
+        "arrow_border_hover_color": "#ffffff",
+        "scrollbar_bg_color": "#dddddd",
+        "scrollbar_drag_bg_color": "#6e6e6e",
+        "all_color": "#000000",
+        "all_hover_color": "#000000",
+        "all_bg_color": "#ffffff",
+        "heading_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 8,
+        "padding_bottom": 40,
+        "padding_horizontal": 3,
+        "padding_horizontal_mobile": 1,
+        "full_width": true,
+        "content_width": 280,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
+    "section_icons_row_QigreQ": {
+      "type": "section-icons-row",
+      "blocks": {
+        "text_MeLF6y": {
+          "type": "text",
+          "settings": {
+            "icon_name": "truck",
+            "title": "Free Delivery & Easy Returns",
+            "text": ""
+          }
+        },
+        "text_7rbt7J": {
+          "type": "text",
+          "settings": {
+            "icon_name": "star",
+            "title": "Loved by Aussie Dog Parents",
+            "text": ""
+          }
+        },
+        "text_rH7nke": {
+          "type": "text",
+          "settings": {
+            "icon_name": "dollar-sign",
+            "title": "Buy Now Pay Later Now Available",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_MeLF6y",
+        "text_7rbt7J",
+        "text_rH7nke"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "alignment": "center",
+        "columns": 3,
+        "icons_width": 25,
+        "show_vertical_borders": true,
+        "show_horizontal_borders": true,
+        "heading_size": 80,
+        "text_size": 100,
+        "bg_color": "#ecebe7",
+        "text_color": "#333333",
+        "box_color": "",
+        "color_border": "#333333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "layout_mobile": "stacked",
+        "width": "wrapper--full",
+        "padding_top": 10,
+        "padding_bottom": 8
+      }
+    },
+    "section_accordions_3n9bMt": {
+      "type": "section-accordions",
+      "blocks": {
+        "text_Rgp9rm": {
+          "type": "text",
+          "settings": {
+            "title": "Australian Owned & Quality Designed",
+            "text": "<p>Koozi is Sydney-based, and designs each product in-house, drawing inspiration from modern Australian style and shaped by the experiences of being dog parents.</p>"
+          }
+        },
+        "text_7B6ahT": {
+          "type": "text",
+          "settings": {
+            "title": "Your Dog’s Comfort, Our Priority",
+            "text": "<p>Your dog's comfort comes first. Our products have purposeful design that solves real problems, tailored to  meet the needs of both you and your dog. </p>"
+          }
+        },
+        "text_4wfCWE": {
+          "type": "text",
+          "settings": {
+            "title": "Complimentary Shipping",
+            "text": "<p>Enjoy free, reliable shipping on all items, delivered straight to your door. </p>"
+          }
+        },
+        "text_HTi4dk": {
+          "type": "text",
+          "settings": {
+            "title": "Full Warranty & Easy Returns",
+            "text": "<p>Shop with confidence. Our products are backed by a 1-year manufacturer’s warranty. We offer easy returns within 14 days, along with a money-back guarantee.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_Rgp9rm",
+        "text_7B6ahT",
+        "text_4wfCWE",
+        "text_HTi4dk"
+      ],
+      "custom_css": [
+        "h4 {font-size: 15px;}"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": true,
+        "title": "Why Choose Koozi",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "rgba(0,0,0,0)",
+        "bg_color_secondary": true,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 48,
+        "padding_bottom": 96
+      }
+    },
+    "section_slideshow_qVf6wt": {
+      "type": "section-slideshow",
+      "blocks": {
+        "image_3EiWHk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/dszx.jpg",
+            "image_mobile": "shopify://shop_images/KOOZI-CAMPAIGN-167_1.jpg",
+            "overlay_opacity": 10,
+            "text_width": "wide",
+            "text_position": "center",
+            "text_alignment": "text-center",
+            "text_color": "text-light",
+            "subheading": "Dog beds like no other",
+            "title": "<h4>Cloud Bed Collection</h4>",
+            "heading_highlight_type": "circle",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000",
+            "text": "",
+            "stacked_button": false,
+            "button_1_text": "Shop All",
+            "button_1_link": "shopify://collections/all",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--text",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--large",
+            "video_text": "",
+            "video_link": ""
+          }
+        },
+        "image_PAUHGn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/waefsd.jpg",
+            "image_mobile": "shopify://shop_images/KOOZI-CAMPAIGN-190_copy.jpg",
+            "overlay_opacity": 20,
+            "text_width": "normal",
+            "text_position": "center",
+            "text_alignment": "text-center",
+            "text_color": "text-light",
+            "subheading": "The internet's most aesthetic dog crate",
+            "title": "<h4>2-in-1 Crate & Side Table</h4>",
+            "heading_highlight_type": "circle",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000",
+            "text": "",
+            "stacked_button": false,
+            "button_1_text": "Shop now",
+            "button_1_link": "shopify://collections/all",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--text",
+            "button_1_size": "btn--large",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--large",
+            "video_text": "",
+            "video_link": ""
+          }
+        },
+        "image_cRWDKG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ff.jpg",
+            "image_mobile": "shopify://shop_images/KOOZI-CAMPAIGN-256_0d6c26a8-4bf5-4038-9702-ad8385e14e76.jpg",
+            "overlay_opacity": 15,
+            "text_width": "wide",
+            "text_position": "top-left",
+            "text_alignment": "text-left",
+            "text_color": "text-light",
+            "subheading": "Stylish alternative to couch covers",
+            "title": "<h4>Sofa Toppers </h4>",
+            "heading_highlight_type": "circle",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000",
+            "text": "",
+            "stacked_button": false,
+            "button_1_text": "Shop All",
+            "button_1_link": "shopify://collections/sofa-toppers",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--text",
+            "button_1_size": "btn--medium",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--large",
+            "video_text": "",
+            "video_link": ""
+          }
+        },
+        "image_kGaFQD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-343_ce43ea20-296e-4d0d-911d-efd544f0930d.jpg",
+            "image_mobile": "shopify://shop_images/KOOZI-CAMPAIGN-343.jpg",
+            "overlay_opacity": 10,
+            "text_width": "normal",
+            "text_position": "center",
+            "text_alignment": "text-center",
+            "text_color": "text-light",
+            "subheading": "The New York Marble Bowl Set",
+            "title": "<h4>Elevated Dining </h4>",
+            "heading_highlight_type": "circle",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000",
+            "text": "",
+            "stacked_button": false,
+            "button_1_text": "Shop Now",
+            "button_1_link": "shopify://products/marble-dog-bowl-set",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--text",
+            "button_1_size": "btn--large",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--large",
+            "video_text": "",
+            "video_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_3EiWHk",
+        "image_PAUHGn",
+        "image_cRWDKG",
+        "image_kGaFQD"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h4 {font-size: 26px;}"
+      ],
+      "settings": {
+        "slide_height": "original-height",
+        "enable_mobile_height": true,
+        "mobile_slide_height": "original-height-mobile",
+        "show_nav_dots": true,
+        "show_nav_arrows": true,
+        "show_arrow_down": false,
+        "autoplay": true,
+        "duration": 3,
+        "transition": "zoom-out",
+        "enable_zoom_animation": true,
+        "enable_card_scrolling": false,
+        "increase_border_radius": true,
+        "heading_size": 150
+      }
+    },
+    "section_sticky_images_and_text_pkiGhr": {
+      "type": "section-sticky-images-and-text",
+      "blocks": {
+        "slide_VmYcUh": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-190_2.jpg",
+            "image_mobile": "shopify://shop_images/KOOZI-CAMPAIGN-190_2.jpg",
+            "truncate_text": false,
+            "title_length": 10,
+            "content_length": 15,
+            "subheading": "FREE BED INCLUDED - LIMITED TIME OFFER",
+            "title": "<p>2-in-1 Side Table Dog Crate</p>",
+            "heading_size": 100,
+            "content": "<p>Your dog’s forever den - built to last their lifetime and blends seamlessly in your home as a side table. Because your dog deserves a cosy retreat, and you deserve it to be beautiful.</p>",
+            "text_size": 90,
+            "button_text": "Shop now →",
+            "button_link": "shopify://products/dog-crate-side-table",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link": "https://cdn.shopify.com/videos/c/o/v/99ae72363c2e4fe6ad8d3a0c410e690a.mp4",
+            "video_text": "Play video"
+          }
+        },
+        "slide_VJbBpN": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-283.jpg",
+            "image_mobile": "shopify://shop_images/KOOZI-CAMPAIGN-283.jpg",
+            "truncate_text": false,
+            "title_length": 10,
+            "content_length": 15,
+            "subheading": "",
+            "title": "<p>Matching Linen bed included - Limited time</p>",
+            "heading_size": 110,
+            "content": "<p>Your dog’s forever den — built to last a lifetime and blend effortlessly into your home. Because your dog deserves a cosy retreat, and you deserve it to be beautiful.</p>",
+            "text_size": 100,
+            "button_text": "Shop Now",
+            "button_link": "shopify://products/dog-crate-side-table",
+            "button_color": "btn--black",
+            "button_style": "btn--outline",
+            "button_size": "btn--small",
+            "video_link": "https://cdn.shopify.com/videos/c/o/v/ac54d71bb52d467d819b947d88d2b4d1.mp4",
+            "video_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_VmYcUh",
+        "slide_VJbBpN"
+      ],
+      "settings": {
+        "scroll_direction": "horizontal",
+        "text_alignment": "left",
+        "image_position": "",
+        "space_around_images": false,
+        "image_width": "standard",
+        "aspect_ratio_desktop": 1.8,
+        "aspect_ratio_mobile": 1.7,
+        "show_single_text": false,
+        "text_color": "text-dark",
+        "bg_color": "#f4f3ef",
+        "gradient": "",
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_image_with_text_8w3q3i": {
+      "type": "section-image-with-text",
+      "disabled": true,
+      "settings": {
+        "section_height": "six-fifty-height",
+        "layout": "inline",
+        "image_location": "left",
+        "image_width": "standard",
+        "image": "shopify://shop_images/KOOZI-CAMPAIGN-190_copy_8626f9b9-3c16-4943-8718-e67c559fb4be.jpg",
+        "subheading": "The most aesthetic dog crate",
+        "title": "<p>2-in-1 Side Table Dog Crate</p>",
+        "heading_highlight_type": "circle",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "heading_size": 120,
+        "content": "<p>Your dog’s forever den — built to last a lifetime and blend effortlessly into your home. Because your dog deserves a cosy retreat, and you deserve it to be beautiful.</p>",
+        "text_alignment": "left",
+        "button_text": "Discover now",
+        "button_link": "shopify://products/dog-crate-side-table",
+        "button_color": "btn--black",
+        "button_style": "btn--text",
+        "button_size": "btn--small",
+        "video_link": "",
+        "text_color": "text-dark",
+        "bg_color": "#ecebe7",
+        "gradient": "linear-gradient(133deg, rgba(236, 235, 231, 1) 8%, rgba(255, 255, 255, 1) 49%, rgba(236, 235, 231, 1) 87%)",
+        "section_width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_image_with_text_q3Dgga": {
+      "type": "section-image-with-text",
+      "custom_css": [
+        "p {font-size: 12px;}",
+        "h3 {font-size: 22px;}"
+      ],
+      "settings": {
+        "section_height": "six-fifty-height",
+        "layout": "inline",
+        "image_location": "left",
+        "image_width": "standard",
+        "image": "shopify://shop_images/099A1162-2_copy.jpg",
+        "subheading": "",
+        "title": "<h3>Linen & Boucle Cloud Beds</h3>",
+        "heading_highlight_type": "circle",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "heading_size": 100,
+        "content": "<p>Softer comfort, easier access, and a sleek design - the Cloud Bed is made for style-driven dog parents and their small to medium dogs. A refined alternative to bulky bolster beds.</p>",
+        "text_alignment": "left",
+        "button_text": "Shop now →",
+        "button_link": "shopify://collections/cloud-dog-beds",
+        "button_color": "btn--black",
+        "button_style": "btn--text",
+        "button_size": "btn--small",
+        "video_link": "",
+        "text_color": "text-dark",
+        "bg_color": "#f4f3ef",
+        "gradient": "",
+        "section_width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_image_with_text_jW3Xpy": {
+      "type": "section-image-with-text",
+      "custom_css": [
+        "p {font-size: 12px;}",
+        "h3 {font-size: 22px;}"
+      ],
+      "settings": {
+        "section_height": "six-fifty-height",
+        "layout": "inline",
+        "image_location": "right",
+        "image_width": "standard",
+        "image": "shopify://shop_images/KOOZI-CAMPAIGN-327_1.jpg",
+        "subheading": "",
+        "title": "<h3>Linen-Cotton Sofa Toppers</h3>",
+        "heading_highlight_type": "circle",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "heading_size": 110,
+        "content": "<p>Our premium linen-cotton Sofa Toppers are waterproof, scratch-proof stylish alternatives to bulky couch covers that can be used over sofas, furniture and for travel.</p>",
+        "text_alignment": "left",
+        "button_text": "Shop Now →",
+        "button_link": "shopify://collections/sofa-toppers",
+        "button_color": "btn--black",
+        "button_style": "btn--text",
+        "button_size": "btn--small",
+        "video_link": "",
+        "text_color": "text-dark",
+        "bg_color": "#f4f3ef",
+        "gradient": "",
+        "section_width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_grid_raL7RL": {
+      "type": "section-grid",
+      "blocks": {
+        "image_Mjk6hp": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-343.jpg",
+            "overlay_opacity": 10,
+            "text_position": "bottom-left",
+            "subheading": "",
+            "title": "Shop the Marble Bowl Set",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "shopify://collections/cloud-dog-beds",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        },
+        "image_9EKTbW": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify://shop_images/Light_khaki_plush_flat_linen_bed.jpg",
+            "overlay_opacity": 10,
+            "text_position": "bottom-left",
+            "subheading": "",
+            "title": "Shop Plush Flat Beds",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "shopify://collections/plush-flat-dog-beds",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        }
+      },
+      "block_order": [
+        "image_Mjk6hp",
+        "image_9EKTbW"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "header {font-size: 50px;}"
+      ],
+      "settings": {
+        "desktop_height": "five-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "four-fifty-height-mobile",
+        "heading_size": 100,
+        "button_1_color": "btn--white",
+        "button_1_style": "btn--text",
+        "button_1_size": "btn--large",
+        "button_2_color": "btn--black",
+        "button_2_style": "btn--solid-border",
+        "button_2_size": "btn--small",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": false,
+        "columns_mobile": "1",
+        "overlay_text": false,
+        "width": "wrapper--full",
+        "add_gutter": false,
+        "padding_top": 0,
+        "padding_bottom": 4
+      }
+    },
+    "section_sticky_images_and_text_AggBWp": {
+      "type": "section-sticky-images-and-text",
+      "blocks": {
+        "slide_YgGMiD": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Plush_Flat_Bed_Stacked.jpg",
+            "image_mobile": "shopify://shop_images/Plush_Flat_Beds_Stacked.jpg",
+            "truncate_text": true,
+            "title_length": 10,
+            "content_length": 15,
+            "subheading": "Flat Dog Beds",
+            "title": "<p>Linen Covers you'll love</p>",
+            "heading_size": 110,
+            "content": "<p>Breathable & timeless, with a sleek modern design.</p>",
+            "text_size": 95,
+            "button_text": "Shop Now",
+            "button_link": "shopify://collections/plush-flat-dog-beds",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link": "",
+            "video_text": ""
+          }
+        },
+        "slide_MgVWmf": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-343.jpg",
+            "image_mobile": "shopify://shop_images/KOOZI-CAMPAIGN-343_ce43ea20-296e-4d0d-911d-efd544f0930d.jpg",
+            "truncate_text": false,
+            "title_length": 10,
+            "content_length": 15,
+            "subheading": "Limited Edition",
+            "title": "<p>New York Marble Bowl Set </p>",
+            "heading_size": 110,
+            "content": "<p>A striking, elegant statement piece with the timeless beauty of natural marble. Each set is unique. </p><p></p>",
+            "text_size": 95,
+            "button_text": "Shop now",
+            "button_link": "shopify://products/marble-dog-bowl-set",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link": "",
+            "video_text": "Play video"
+          }
+        }
+      },
+      "block_order": [
+        "slide_YgGMiD",
+        "slide_MgVWmf"
+      ],
+      "disabled": true,
+      "settings": {
+        "scroll_direction": "vertical",
+        "text_alignment": "left",
+        "image_position": "",
+        "space_around_images": false,
+        "image_width": "standard",
+        "aspect_ratio_desktop": 1.2,
+        "aspect_ratio_mobile": 1.2,
+        "show_single_text": false,
+        "text_color": "text-dark",
+        "bg_color": "",
+        "gradient": "",
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_divider_LqxPmy": {
+      "type": "section-divider",
+      "disabled": true,
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "padding_top": 26,
+        "padding_bottom": 16
+      }
+    },
+    "ss_featured_collection_7_t3qE8C": {
+      "type": "ss-featured-collection-7",
+      "blocks": {
+        "slide_FALwxC": {
+          "type": "slide",
+          "settings": {
+            "product": "dog-crate-side-table",
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-17.jpg",
+            "tag": "Best Seller",
+            "url": ""
+          }
+        },
+        "slide_aqPiPL": {
+          "type": "slide",
+          "settings": {
+            "product": "",
+            "tag": "Best Seller",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_FALwxC",
+        "slide_aqPiPL"
+      ],
+      "disabled": true,
+      "settings": {
+        "collection": "all-dog-beds",
+        "collection_show": 10,
+        "heading": "<h2>Linen & Boucle Dog Beds</h2>",
+        "heading_custom": true,
+        "heading_font": "mono",
+        "heading_size": 18,
+        "heading_size_mobile": 14,
+        "heading_height": 130,
+        "heading_align": "left",
+        "heading_align_mobile": "left",
+        "use_all": true,
+        "all": "View All",
+        "all_url": "shopify://collections/all-dog-beds",
+        "all_custom": true,
+        "all_font": "mono",
+        "all_size": 14,
+        "all_size_mobile": 12,
+        "all_height": 130,
+        "all_arrow": false,
+        "slider_view": 3.8,
+        "slider_view_mobile": 1.2,
+        "slider_gap": 12,
+        "slider_gap_mobile": 6,
+        "slider_mt": 24,
+        "slider_mt_mobile": 28,
+        "image_radius": 0,
+        "image_border_thickness": 0,
+        "image_ratio": "portrait",
+        "image_ratio_mobile": "portrait",
+        "tag_custom": true,
+        "tag_font": "mono",
+        "tag_size": 11,
+        "tag_size_mobile": 11,
+        "tag_height": 100,
+        "tag_padding_vertical": 5,
+        "tag_padding_vertical_mobile": 5,
+        "tag_padding_horizontal": 15,
+        "tag_padding_horizontal_mobile": 15,
+        "tag_radius": 2,
+        "tag_border_thickness": 0,
+        "title_custom": true,
+        "title_font": "sans-serif",
+        "title_size": 16,
+        "title_size_mobile": 14,
+        "title_height": 160,
+        "title_mt": 12,
+        "title_mt_mobile": 10,
+        "vendor_custom": false,
+        "vendor_font": "josefin_sans_n4",
+        "vendor_size": 0,
+        "vendor_size_mobile": 0,
+        "vendor_height": 50,
+        "vendor_mt": 0,
+        "vendor_mt_mobile": 0,
+        "button": "",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 14,
+        "button_size_mobile": 14,
+        "button_height": 100,
+        "button_padding_vertical": 12,
+        "button_padding_vertical_mobile": 12,
+        "button_padding_horizontal": 20,
+        "button_padding_horizontal_mobile": 12,
+        "button_radius": 6,
+        "button_border_thickness": 0,
+        "button_mt": 14,
+        "button_mt_mobile": 14,
+        "button_style": "non_outline",
+        "use_price": true,
+        "price_custom": false,
+        "price_font": "josefin_sans_n4",
+        "price_size": 14,
+        "price_size_mobile": 12,
+        "price_height": 100,
+        "price_compare": false,
+        "navigation_mt": 20,
+        "navigation_mt_mobile": 32,
+        "arrow_size": 36,
+        "arrow_size_mobile": 36,
+        "arrow_icon_size": 7,
+        "arrow_icon_size_mobile": 7,
+        "arrow_border_thickness": 0.5,
+        "arrow_radius": 100,
+        "arrow_hover_effect": "color",
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "scrollbar_height": 3,
+        "scrollbar_show_desktop": true,
+        "scrollbar_show_mobile": true,
+        "image_border_color": "#000000",
+        "tag_color": "#3a3a3a",
+        "tag_bg_color": "#d8fdb0",
+        "tag_border_color": "#000000",
+        "title_color": "#000000",
+        "vendor_color": "#000000",
+        "price_color": "#ffffff",
+        "price_original_color": "#ffffff",
+        "button_color": "#ffffff",
+        "button_hover_color": "#ffffff",
+        "button_bg_color": "#000000",
+        "button_bg_hover_color": "#000000",
+        "button_bg_gradient": "linear-gradient(71deg, rgba(255, 130, 58, 1), rgba(255, 90, 97, 1) 37%, rgba(255, 130, 58, 1) 100%)",
+        "button_bg_hover_gradient": "linear-gradient(71deg, rgba(255, 130, 58, 1), rgba(255, 90, 97, 1) 37%, rgba(255, 130, 58, 1) 100%)",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "arrow_color": "#7b7b7b",
+        "arrow_hover_color": "#7b7b7b",
+        "arrow_bg_color": "#ebebeb",
+        "arrow_bg_hover_color": "#ffffff",
+        "arrow_border_color": "#c7c7c7",
+        "arrow_border_hover_color": "#c7c7c7",
+        "scrollbar_bg_color": "#dddddd",
+        "scrollbar_drag_bg_color": "#6e6e6e",
+        "all_color": "#000000",
+        "all_hover_color": "#000000",
+        "all_bg_color": "#ebebeb",
+        "heading_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 48,
+        "padding_bottom": 56,
+        "padding_horizontal": 3,
+        "padding_horizontal_mobile": 1,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
+    "section_text_qXJjbr": {
+      "type": "section-text",
+      "blocks": {
+        "heading_VBRQzE": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Real Dog Parents, <br/>Real Moments with Koozi</p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "subheading_U64rFH": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p>Follow and tag us @koozipets to be featured<br/><a href=\"/pages/testimonials\" title=\"Dog Parent Reviews and Photos\">Read More Reviews</a></p>",
+            "size": 100,
+            "margin_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "heading_VBRQzE",
+        "subheading_U64rFH"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": true,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 94,
+        "padding_bottom": 8
+      }
+    },
+    "section_testimonials_with_images_grRdJW": {
+      "type": "section-testimonials-with-images",
+      "blocks": {
+        "image_eiVDRz": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/1737847627__1737847613429-pxl_20250125_2308551053__huge.jpg",
+            "aspect_ratio": 1,
+            "heading": "Beautiful Addition to our Living Room. The Side Table Dog Crate has been an incredible investment in both our puppy’s training and the interior design of our living room. It blends seamlessly with our furniture, adding charm to the space. Our 12-week-old Pug x Foxy loves relaxing inside his crate.",
+            "text_size": 125,
+            "customer_name": "Georgia",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_tQqztU": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/Crate_review.jpg",
+            "aspect_ratio": 1,
+            "heading": "I've been trying to find a stylish crate for Luna, since she was a puppy - her wire one was so out of place, even with blankets over it. The Koozi Side Table is exactly what I was looking for. It looks amazing in our living room, and so good that its a table too!",
+            "text_size": 125,
+            "customer_name": "Jodie L.",
+            "block_color": "#f5f4f1",
+            "text_color": "text-dark"
+          }
+        },
+        "image_4TWjwr": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/luna_review.png",
+            "aspect_ratio": 1,
+            "heading": "My frenchie is loving the medium Koozi cloud bed, and the boucle cover it comes with is super cosy and beautiful! Its the perfect size for her, while not taking up too much space in our bedroom.",
+            "text_size": 100,
+            "customer_name": "Chloe R.",
+            "block_color": "#f5f4f1",
+            "text_color": "text-dark"
+          }
+        },
+        "image_F9hMJG": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/side_table_crate_-_testimonial_raffy.jpg",
+            "aspect_ratio": 1,
+            "heading": "We just got the Koozi crate, and I can't believe how much better it looks than Raffy's old metal one! He loves it, and I love that it actually matches our apartment furniture.",
+            "text_size": 125,
+            "customer_name": "Anna K.",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_AKhDDU": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/IMG_0470.jpg",
+            "aspect_ratio": 1,
+            "heading": "Sunny absolutely loves her cloud bed, and I’m obsessed with the blue colour! The linen cover is really nice, beautifully made and has a soft breathable feel.",
+            "text_size": 100,
+            "customer_name": "Tina P.",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_teGJMR": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/puppy_boucle_cloud_bed.jpg",
+            "aspect_ratio": 1,
+            "heading": "Obsessed with the boucle bed for our little girl Milly. The bed is a great size and easy for her to get on and off and curl up next to the pillow.",
+            "text_size": 125,
+            "customer_name": "Emily S.",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_8XTFfe": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/border_collie_side_table_crate_review_photo.heic",
+            "aspect_ratio": 1,
+            "heading": "Koozi's side table crate looks amazing as a bedside table, and my border collie absolutely loves hanging out in his den next to me - especially for naps! I’m already planning to get another one to match the other side of the bed when I adopt a second dog.",
+            "text_size": 100,
+            "customer_name": "Emma S.",
+            "block_color": "rgba(0,0,0,0)",
+            "text_color": "text-dark"
+          }
+        },
+        "image_NpgJn3": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "star_rating": 5,
+            "enable_border": false,
+            "image": "shopify://shop_images/IMG_0445.jpg",
+            "aspect_ratio": 1.3,
+            "heading": "I just got my puppy Roo, and didn't want to have the ugly caged crate next to my bed. The Koozi side Table Crate is perfect as a 2-in-1 for my bedside. Roo sleeps close to me, but in her own dedicated space.",
+            "text_size": 100,
+            "customer_name": "Bec F.",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_p4pzHA": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/Bailey_Side_Table_Crate_review.jpg",
+            "aspect_ratio": 1,
+            "heading": "The Koozi Crate is an absolute dream if you love interior design. We wanted to find a crate that would match our living space, and this does just that. We mostly use it as a den for Bailey to wander in and out of, and she absolutely loves it! It’s her favorite spot to sleep in the house.",
+            "text_size": 100,
+            "customer_name": "Zoe H.",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_BWkFfH": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/IMG_0840.png",
+            "aspect_ratio": 1,
+            "heading": "This topper is exactly what I needed! It’s the perfect length, soft and breathable, and fits beautifully over our sofa.",
+            "text_size": 100,
+            "customer_name": "Rebecca S.",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_C4E4QE": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "star_rating": 5,
+            "enable_border": false,
+            "image": "shopify://shop_images/IMG_9951_344d1900-8d8c-4bca-82eb-385960cb3e53.jpg",
+            "aspect_ratio": 1.3,
+            "heading": "Can’t believe I was just using blankets before! The Topper is super comfy, protects the seating area without fully covering the couch up. Love that it's waterproof.",
+            "text_size": 100,
+            "customer_name": "Rachel Mines | Frenchie",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_KBMGE6": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/IMG_9353_accd5441-0b7f-41a1-96c0-98ba06d8ee9e.jpg",
+            "aspect_ratio": 1,
+            "heading": "The Red Linen Cloud bed is beautiful! And the bolsters are sooo soft, it's the perfect bed.",
+            "text_size": 125,
+            "customer_name": "Jodie L.",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_hQCqVC": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/IMG_0273.jpg",
+            "aspect_ratio": 1,
+            "heading": "I got the Koozi crate for my shared office, and Bruce loves it! Great safe, discreet resting spot, and is useful as a side table. Goes well with the office decor and keeps Brucy happy.",
+            "text_size": 100,
+            "customer_name": "Adam M.",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_RHVGpA": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "star_rating": 5,
+            "enable_border": false,
+            "image": "shopify://shop_images/IMG_8966.jpg",
+            "aspect_ratio": 1.3,
+            "heading": "We loved all the linen colour options but went with the light khaki cloud bed, and we’re so happy it! It’s a soft, neutral colour, and our dog is absolutely loving it. He hangs out in it all day with his toys, it's so cute!",
+            "text_size": 100,
+            "customer_name": "Joey D.",
+            "block_color": "rgba(0,0,0,0)",
+            "text_color": "text-dark"
+          }
+        },
+        "image_96YFHc": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/099A1279_1_c04714f3-2705-4a47-993e-646630a8e344.jpg",
+            "aspect_ratio": 1,
+            "heading": "My dog Binky is a bit of a chewer, so I went with the Plush Bed because of its rounded corners, and it’s really helped! He can’t get a good grip on it like he could with other beds. The red cover feels high-quality, durable, and is so stylish!",
+            "text_size": 125,
+            "customer_name": "Natasha F.",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_BDKgLh": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "star_rating": 5,
+            "enable_border": false,
+            "image": "shopify://shop_images/IMG_7164.jpg",
+            "aspect_ratio": 1.3,
+            "heading": "Hazel absolutely loves his Koozi Den—he naps in it all day, and it’s so cozy! The marble top is a beautiful touch and really stands out in our living room.",
+            "text_size": 100,
+            "customer_name": "Anthony Davies | Dachshund",
+            "block_color": "#f5f4f1",
+            "text_color": "text-dark"
+          }
+        },
+        "image_Je6c3H": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "star_rating": 5,
+            "enable_border": false,
+            "image": "shopify://shop_images/IMG_0985.jpg",
+            "aspect_ratio": 1.2,
+            "heading": "Great quality and so chic - worth the splurge! The perfect size, and my boy absolutely loves it!",
+            "text_size": 125,
+            "customer_name": "Isabella R",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "image_eiVDRz",
+        "image_tQqztU",
+        "image_4TWjwr",
+        "image_F9hMJG",
+        "image_AKhDDU",
+        "image_teGJMR",
+        "image_8XTFfe",
+        "image_NpgJn3",
+        "image_p4pzHA",
+        "image_BWkFfH",
+        "image_C4E4QE",
+        "image_KBMGE6",
+        "image_hQCqVC",
+        "image_RHVGpA",
+        "image_96YFHc",
+        "image_BDKgLh",
+        "image_Je6c3H"
+      ],
+      "custom_css": [
+        ".testimonial__item__content {font-size: 12px;}",
+        ".testimonial__heading {font-family: sans-serif; font-weight: 100; font-size: 13px; line-height: 1.4;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "subheading_size": 160,
+        "title": "",
+        "heading_size": 120,
+        "text_alignment": "text-left",
+        "bg_color": "#ecebe7",
+        "testimonial_block_color": "#ffffff",
+        "star_color": "",
+        "testimonial_text_color": "text-dark",
+        "width": "wrapper--full-padded",
+        "padding_top": 36,
+        "padding_bottom": 30
+      }
+    },
+    "section_press_p9rAwg": {
+      "type": "section-press",
+      "blocks": {
+        "press_dyTwqK": {
+          "type": "press",
+          "settings": {
+            "text": "<p>\"Koozi blends interior design with pet products, putting your dog’s comfort first without compromising aesthetics - a dream for those who crave style in their home.\"</p>",
+            "link": "",
+            "press_logo": "shopify://shop_images/bhujiko_2x_b641336e-8983-4bff-bec5-2d1bc7e83753.png",
+            "logo_width": 180
+          }
+        },
+        "press_K8KNqj": {
+          "type": "press",
+          "disabled": true,
+          "settings": {
+            "text": "<p><strong>\"I never thought a dog crate could look this good. Best investment.\"</strong></p>",
+            "link": "",
+            "press_logo": "shopify://shop_images/Mark_cashion_8f4e29d6-a991-467b-9380-e506e4349d98.png",
+            "logo_width": 110
+          }
+        }
+      },
+      "block_order": [
+        "press_dyTwqK",
+        "press_K8KNqj"
+      ],
+      "custom_css": [
+        "p {font-size: 16px;}"
+      ],
+      "settings": {
+        "title": "",
+        "show_quotations": true,
+        "show_rounded_corners": true,
+        "autoplay": true,
+        "duration": 4,
+        "bg_color_secondary": false,
+        "width": "wrapper--narrow",
+        "padding_top": 10,
+        "padding_bottom": 60
+      }
+    },
+    "section_video_LFVzmJ": {
+      "type": "section-video",
+      "settings": {
+        "video_height": "five-fifty-height",
+        "text_position": "middle-center",
+        "video_link_bg": "https://cdn.shopify.com/videos/c/o/v/847153af645a4d87a4561a1997459474.mp4",
+        "video_link": "",
+        "image": "shopify://shop_images/jhjo_2.jpg",
+        "overlay_opacity": 10,
+        "text_color": "text-light",
+        "title": "",
+        "heading_highlight_type": "italics",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "text": "",
+        "heading_size": 100,
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--white",
+        "button_style": "btn--solid-border",
+        "button_size": "btn--small"
+      }
+    },
+    "section_text_ecqYbt": {
+      "type": "section-text",
+      "blocks": {
+        "subheading_W3QfHH": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p>OUR WHY</p>",
+            "size": 100,
+            "margin_bottom": 16
+          }
+        },
+        "heading_hUQjxw": {
+          "type": "heading",
+          "settings": {
+            "text": "<h2>Koozi Began With Two Puppies Coming Home...</h2>",
+            "size": 50,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "text_bMwLz9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our vision was simple: Beautifully blend pet essentials with the home we cherish</p>",
+            "size": 90
+          }
+        },
+        "button_FnJaUw": {
+          "type": "button",
+          "settings": {
+            "button_text": "Our Story",
+            "button_link": "shopify://pages/our-story",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--medium"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_W3QfHH",
+        "heading_hUQjxw",
+        "text_bMwLz9",
+        "button_FnJaUw"
+      ],
+      "custom_css": [
+        "h5 {font-size: 14px;}",
+        "h2 {font-size: 20px;}"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 58,
+        "padding_bottom": 54
+      }
+    },
+    "section_banner_image_d8Jiwz": {
+      "type": "section-banner-image",
+      "blocks": {
+        "button_93MQi8": {
+          "type": "button",
+          "settings": {
+            "stacked_button": false,
+            "button_1_text": "Learn more about the collection",
+            "button_1_link": "shopify://pages/collection-edit-a-shared-sanctuary",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--text",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "button_93MQi8"
+      ],
+      "settings": {
+        "height": "five-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "four-fifty-height-mobile",
+        "image": "shopify://shop_images/efd.jpg",
+        "image_mobile": "shopify://shop_images/KOOZI-CAMPAIGN-143_copy.png",
+        "overlay_opacity": 20,
+        "transition": "zoom-out",
+        "enable_zoom_animation": true,
+        "enable_card_scrolling": false,
+        "increase_border_radius": true,
+        "text_width": "normal",
+        "text_position": "center",
+        "text_alignment": "text-center",
+        "text_color": "text-light"
+      }
+    },
+    "17249177592ae5cdc4": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_kWJQwR": {
+          "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/form-embed-block/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "<div class=\"klaviyo-form-UUyBV3\"></div>"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_kWJQwR"
+      ],
+      "disabled": true,
+      "settings": {
+        "bg_color": "#e1e0dc",
+        "width": "wrapper",
+        "padding_top": 24,
+        "padding_bottom": 30
+      }
+    }
+  },
+  "order": [
+    "ss_hero_14_DzCdTC",
+    "section_banner_image_gzJVmf",
+    "section_text_JfKbFJ",
+    "section_text_YNLGYq",
+    "section_text_pc7V6D",
+    "section_collection_d6iFbP",
+    "ss_featured_collection_7_kGhDN9",
+    "section_icons_row_QigreQ",
+    "section_accordions_3n9bMt",
+    "section_slideshow_qVf6wt",
+    "section_sticky_images_and_text_pkiGhr",
+    "section_image_with_text_8w3q3i",
+    "section_image_with_text_q3Dgga",
+    "section_image_with_text_jW3Xpy",
+    "section_grid_raL7RL",
+    "section_sticky_images_and_text_AggBWp",
+    "section_divider_LqxPmy",
+    "ss_featured_collection_7_t3qE8C",
+    "section_text_qXJjbr",
+    "section_testimonials_with_images_grRdJW",
+    "section_press_p9rAwg",
+    "section_video_LFVzmJ",
+    "section_text_ecqYbt",
+    "section_banner_image_d8Jiwz",
+    "17249177592ae5cdc4"
+  ]
+}

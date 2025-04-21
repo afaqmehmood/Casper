@@ -1,0 +1,97 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "footer",
+  "name": "Footer",
+  "sections": {
+    "section_newsletter_QxjgMB": {
+      "type": "section-newsletter",
+      "custom_css": [
+        "h2 {font-size: 20px;}",
+        "p {font-size: 12px;}",
+        ".input-group__field {display: block; width: 100%; border: 0.5px solid #d3d3d3; /* Light grey border */ border-radius: var(--RADIUS); padding: 12px 0 12px 20px;font-size: 12px; /* Set text size to 12px *}"
+      ],
+      "settings": {
+        "flex_align": "align--middle-center",
+        "text_color": "text-dark",
+        "title": "Join the Koozi Community",
+        "text": "<p>As a member, you will have exclusive access to rewards and benefits.</p>",
+        "extra_fields": "name",
+        "button_text": "Join",
+        "bg_color": "#f1efe8",
+        "image_height": "two-fifty-height",
+        "overlay_opacity": 10,
+        "width": "wrapper",
+        "padding_top": 80,
+        "padding_bottom": 60
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "footer-block-0": {
+          "type": "link",
+          "settings": {
+            "alignment": "text-left",
+            "menu": "footer",
+            "title": "Shop",
+            "column_width": "20"
+          }
+        },
+        "footer-block-1": {
+          "type": "link",
+          "settings": {
+            "alignment": "text-left",
+            "menu": "support",
+            "title": "Helpful Links",
+            "column_width": "20"
+          }
+        },
+        "link_XKq8Fy": {
+          "type": "link",
+          "settings": {
+            "alignment": "text-left",
+            "menu": "company",
+            "title": "Company",
+            "column_width": "25"
+          }
+        }
+      },
+      "block_order": [
+        "footer-block-0",
+        "footer-block-1",
+        "link_XKq8Fy"
+      ],
+      "settings": {
+        "show_footer_wave": true,
+        "enable_footer_parallax": true,
+        "increase_border_radius": true,
+        "bottom_bar_alignment": "text-left",
+        "show_social_links": true,
+        "enable_follow_on_shop": false,
+        "show_payment_icons": true,
+        "bottom_menu": "",
+        "color_text": "#0e0e0e",
+        "color_bg": "#f1efe8",
+        "color_border": "#ffffff",
+        "show_locale_selector": true,
+        "show_country_selector": true,
+        "show_country_flag": false,
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "section_newsletter_QxjgMB",
+    "footer"
+  ]
+}

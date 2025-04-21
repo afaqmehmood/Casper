@@ -1,0 +1,261 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "section_banner_image_qNLpij": {
+      "type": "section-banner-image",
+      "blocks": {
+        "button_GpTbMD": {
+          "type": "button",
+          "settings": {
+            "stacked_button": false,
+            "button_1_text": "",
+            "button_1_link": "shopify://collections/all",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "button_GpTbMD"
+      ],
+      "settings": {
+        "height": "original-height",
+        "enable_mobile_height": true,
+        "mobile_height": "original-height-mobile",
+        "image": "shopify://shop_images/wergdf.png",
+        "image_mobile": "shopify://shop_images/sfdvdc_2x_a062918b-fd68-49d1-a9ef-028023f41e17.png",
+        "overlay_opacity": 10,
+        "transition": "zoom-out",
+        "enable_zoom_animation": true,
+        "enable_card_scrolling": false,
+        "increase_border_radius": true,
+        "text_width": "normal",
+        "text_position": "left",
+        "text_alignment": "text-left",
+        "text_color": "text-light"
+      }
+    },
+    "section_list_collection_8LY7ef": {
+      "type": "section-list-collection",
+      "blocks": {
+        "collection_GLAnbH": {
+          "type": "collection",
+          "settings": {
+            "collection": "cloud-dog-beds",
+            "custom_collection_image": "shopify://shop_images/Cloud_Bed_Denim_Blue_Linen_Cover_Bailey.jpg",
+            "heading": "",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_gPamN4": {
+          "type": "collection",
+          "settings": {
+            "collection": "side-table-dog-crate",
+            "heading": "",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_UfrByb": {
+          "type": "collection",
+          "settings": {
+            "collection": "sofa-toppers",
+            "heading": "",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_Tx6N6E": {
+          "type": "collection",
+          "settings": {
+            "collection": "flat-dog-beds",
+            "heading": "",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_XHaTBn": {
+          "type": "collection",
+          "settings": {
+            "collection": "marble-dog-bowl-set",
+            "custom_collection_image": "shopify://shop_images/Marble-bowl-set-placing-bowl-down.jpg",
+            "heading": "",
+            "block_text_color": "",
+            "bg_color": "",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_GLAnbH",
+        "collection_gPamN4",
+        "collection_UfrByb",
+        "collection_Tx6N6E",
+        "collection_XHaTBn"
+      ],
+      "settings": {
+        "title": "Enjoy 20% off across all collections during our Boxing Day Sale.",
+        "heading_size": 75,
+        "layout": "grid",
+        "alignment": "left",
+        "collections_per_row": 5,
+        "columns_mobile": "2",
+        "image_shape": "square",
+        "image_aspect_ratio": 1.2,
+        "text_size": 110,
+        "overlay_text": false,
+        "enable_slider_mobile": false,
+        "section_bg_color": "",
+        "section_text_color": "",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_text_4fGLMc": {
+      "type": "section-text",
+      "blocks": {
+        "heading_ffmzcM": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>{{ collection.title }}</p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ffmzcM"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_position": "left",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 24
+      }
+    },
+    "section_divider_YfGpJd": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "padding_top": 14,
+        "padding_bottom": 14
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "disabled": true,
+      "settings": {
+        "banner_height": "one-third-height",
+        "text_position": "middle-center",
+        "show_image": true,
+        "text_color": "text-dark",
+        "overlay_opacity": 10,
+        "bg_color_secondary": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "subcollections": {
+      "type": "subcollections",
+      "disabled": true,
+      "settings": {
+        "subcollections": [],
+        "limit": 8,
+        "layout": "grid",
+        "image_source": "collection",
+        "image_aspect_ratio": 0.6,
+        "image_overlay_opacity": 10,
+        "bg_color": "",
+        "text_color": "text-light",
+        "padding_top": 30,
+        "padding_bottom": 14
+      }
+    },
+    "main": {
+      "type": "collection",
+      "blocks": {
+        "96343c36-f832-4740-8cd6-2a90dcf9e4d9": {
+          "type": "promo",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-237_1.jpg",
+            "position": 5,
+            "width": "half",
+            "title": "<p>Shop the Retreat Set:</p>",
+            "heading_highlight_type": "circle",
+            "highlight_color": "#fbcaff",
+            "highlight_text_color": "#ffffff",
+            "heading_size": 100,
+            "content": "Our best selling bundle",
+            "text_size": 100,
+            "text_color": "text-light",
+            "text_position": "bottom-left",
+            "layout": "stacked",
+            "overlay_opacity": 30,
+            "bg_color": "#f5f4f1",
+            "button_text": "",
+            "button_link": "shopify://products/retreat-set-linen",
+            "button_color": "btn--white",
+            "button_style": "btn--solid-border",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "96343c36-f832-4740-8cd6-2a90dcf9e4d9"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".product-grid-item__price {font-size: calc( 0.7rem * var(--adjust-product-grid) ) !important; /* Adjust this value to make the price smaller */}",
+        ".product-grid-item__title {font-size: calc( 0.8rem * var(--adjust-product-grid-heading) ) !important; /* Adjust this value */}"
+      ],
+      "settings": {
+        "show_breadcrumbs": false,
+        "enable_sorting": true,
+        "enable_filters": false,
+        "filters_layout": "closed",
+        "show_more": true,
+        "filter_mode": "default",
+        "bg_color": "",
+        "padding_top": 16,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "section_banner_image_qNLpij",
+    "section_list_collection_8LY7ef",
+    "section_text_4fGLMc",
+    "section_divider_YfGpJd",
+    "hero",
+    "subcollections",
+    "main"
+  ]
+}

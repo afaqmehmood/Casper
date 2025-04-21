@@ -1,0 +1,705 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "bg_color_secondary": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "ss_video_banner_KQrTgV": {
+      "type": "ss-video-banner",
+      "blocks": {
+        "slide_nCccxR": {
+          "type": "slide",
+          "settings": {
+            "autoplay": true,
+            "video": "shopify://files/videos/BUNDLE - 16X9 (1).mp4",
+            "video_url": "",
+            "title": "",
+            "subtitle": "",
+            "button": "",
+            "button_url": "shopify://collections/all",
+            "second_button": "",
+            "second_button_url": "shopify://collections/all"
+          }
+        }
+      },
+      "block_order": [
+        "slide_nCccxR"
+      ],
+      "settings": {
+        "height": 440,
+        "height_mobile": 280,
+        "overlay_opacity": 0,
+        "interval": 5,
+        "image_object_fit": "cover",
+        "vertical_alignment": "center",
+        "horizontal_alignment": "center",
+        "title_custom": false,
+        "title_font": "josefin_sans_n4",
+        "title_size": 50,
+        "title_size_mobile": 32,
+        "title_height": 130,
+        "subtitle_custom": false,
+        "subtitle_font": "josefin_sans_n4",
+        "subtitle_size": 16,
+        "subtitle_size_mobile": 16,
+        "subtitle_height": 130,
+        "subtitle_mt": 20,
+        "buttons_mt": 20,
+        "buttons_gap": 20,
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 16,
+        "button_size_mobile": 16,
+        "button_height": 120,
+        "button_padding_vertical": 16,
+        "button_padding_vertical_mobile": 16,
+        "button_padding_horizontal": 32,
+        "button_padding_horizontal_mobile": 32,
+        "button_radius": 0,
+        "button_border_thickness": 0,
+        "button_color": "#000000",
+        "button_hover_color": "#ffffff",
+        "button_bg_color": "#ffffff",
+        "button_bg_hover_color": "#000000",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "second_button_color": "#000000",
+        "second_button_hover_color": "#ffffff",
+        "second_button_bg_color": "#ffffff",
+        "second_button_bg_hover_color": "#000000",
+        "second_button_border_color": "#000000",
+        "second_button_border_hover_color": "#000000",
+        "title_color": "#ffffff",
+        "subtitle_color": "#ffffff",
+        "overlay_color": "#000000",
+        "background_color": "#535353",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 3,
+        "padding_horizontal_mobile": 1.5,
+        "margin_top": 4,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "section_width": 120,
+        "section_radius": 0,
+        "lazy": false
+      }
+    },
+    "section_text_Lta8rA": {
+      "type": "section-text",
+      "blocks": {
+        "subheading_NPQ9Rm": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "<p>The answer to stylish, minimalist protection </p>",
+            "size": 115,
+            "margin_bottom": 16
+          }
+        },
+        "heading_UUzx6M": {
+          "type": "heading",
+          "settings": {
+            "text": "<h3>Australia’s Most Stylish 2-in-1<br/>Dog Crate & Side Table</h3><h3></h3>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "subheading_XUkyXD": {
+          "type": "subheading",
+          "settings": {
+            "text": "",
+            "size": 85,
+            "margin_bottom": 16
+          }
+        },
+        "text_WzYKw9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"Two essentials in one: a cosy retreat for your dog that doubles as a stylish side table, saving space without sacrificing style.</p>",
+            "size": 95
+          }
+        },
+        "button_Axcd8F": {
+          "type": "button",
+          "settings": {
+            "button_text": "Shop Now",
+            "button_link": "shopify://products/dog-crate-side-table",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_NPQ9Rm",
+        "heading_UUzx6M",
+        "subheading_XUkyXD",
+        "text_WzYKw9",
+        "button_Axcd8F"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": true,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 66,
+        "padding_bottom": 80
+      }
+    },
+    "section_divider_NP9zge": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": false,
+        "width": "wrapper--narrow",
+        "padding_top": 4,
+        "padding_bottom": 20
+      }
+    },
+    "section_image_ycAeMN": {
+      "type": "section-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Side_Table_Crate_campaign.jpg",
+        "height": "five-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "original-height-mobile",
+        "enable_stretch": false,
+        "image_position": "center",
+        "bg_color_secondary": false,
+        "width": "wrapper--full-padded",
+        "padding_top": 40,
+        "padding_bottom": 28
+      }
+    },
+    "section_columns_9FDzmc": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_ijiUWa": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Crate-sidetable-matt-winston.jpg",
+            "title": "Transparent Sliding Door System",
+            "text": "<p>The transparent acrylic door slides up and inwards to be hidden or pulled down to close, letting you switch between a den or a crate.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_T8MGwk": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Side_Table_Crate_Marble_Detail.jpg",
+            "title": "Sleek Carrara Marble Style Top",
+            "text": "<p>Made from engineered materials, it's lightweight, stain-resistant, water-resistant & easy to clean—blending luxurious with practicality.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_iLQr88": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-STUDIO-side_table_crate-air-hole-detail.jpg",
+            "title": "Enhanced Airflow Hole Design",
+            "text": "<p>Three rows of air holes on each side ensure optimal airflow, keeping your dog comfortable. In warmer months, add a fan to boost air circulation.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_ec8pYH": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/cody-medium-crate.png",
+            "title": "Durable Elm Wood Grain Structure",
+            "text": "<p>The structure features the natural beauty of light elm wood grain, combined with scratch-resistant engineered materials for a durable, lasting design.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_ijiUWa",
+        "text_block_T8MGwk",
+        "text_block_iLQr88",
+        "text_block_ec8pYH"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "columns": 3,
+        "columns_mobile": "1",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 1.2,
+        "mobile_aspect_ratio": 1.3,
+        "heading_size": 140,
+        "text_size": 90,
+        "bg_color_secondary": false,
+        "color_borders": "#000000",
+        "layout_mobile": "grid",
+        "width": "wrapper",
+        "padding_top": 34,
+        "padding_bottom": 42
+      }
+    },
+    "section_divider_9Ybf3J": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": false,
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 2
+      }
+    },
+    "section_icons_row_kphgRK": {
+      "type": "section-icons-row",
+      "blocks": {
+        "text_x7UDiC": {
+          "type": "text",
+          "settings": {
+            "icon_name": "shield",
+            "title": "Durable & Lasts their Lifetime",
+            "text": ""
+          }
+        },
+        "text_7Vynn4": {
+          "type": "text",
+          "settings": {
+            "icon_name": "smile",
+            "title": "Anxiety Soothing Safe Space",
+            "text": ""
+          }
+        },
+        "text_tzWxd8": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "icon_name": "shield",
+            "title": "Waterproof & Scratch-proof",
+            "text": "<h6>Thick upholstery fabric with an internal waterproof liner</h6>"
+          }
+        }
+      },
+      "block_order": [
+        "text_x7UDiC",
+        "text_7Vynn4",
+        "text_tzWxd8"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "alignment": "center",
+        "columns": 3,
+        "icons_width": 20,
+        "show_vertical_borders": false,
+        "show_horizontal_borders": false,
+        "heading_size": 100,
+        "text_size": 90,
+        "bg_color": "",
+        "text_color": "#333333",
+        "box_color": "#f7f7f7",
+        "color_border": "#333333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "layout_mobile": "grid",
+        "width": "wrapper",
+        "padding_top": 26,
+        "padding_bottom": 4
+      }
+    },
+    "section_icons_row_7xhknb": {
+      "type": "section-icons-row",
+      "blocks": {
+        "text_hUG8rq": {
+          "type": "text",
+          "settings": {
+            "icon_name": "paw-heart",
+            "title": "Use as a Crate or Den",
+            "text": ""
+          }
+        },
+        "text_XfVwVn": {
+          "type": "text",
+          "settings": {
+            "icon_name": "check",
+            "title": "Functional Side Table",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_hUG8rq",
+        "text_XfVwVn"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "alignment": "center",
+        "columns": 3,
+        "icons_width": 20,
+        "show_vertical_borders": false,
+        "show_horizontal_borders": false,
+        "heading_size": 100,
+        "text_size": 90,
+        "bg_color": "",
+        "text_color": "#333333",
+        "box_color": "#f7f7f7",
+        "color_border": "#333333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "layout_mobile": "grid",
+        "width": "wrapper",
+        "padding_top": 10,
+        "padding_bottom": 32
+      }
+    },
+    "ss_before_after_5_Cgd4kX": {
+      "type": "ss-before-after-5",
+      "disabled": true,
+      "settings": {
+        "content_align": "center",
+        "content_align_mobile": "center",
+        "title": "<h1>Your dog’s forever den — designed to last their lifetime <em>and</em> blend beautifully into your home.</h1>",
+        "title_custom": false,
+        "title_font": "josefin_sans_n4",
+        "title_size": 36,
+        "title_size_mobile": 26,
+        "title_height": 130,
+        "text": "",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 20,
+        "text_size_mobile": 16,
+        "text_height": 130,
+        "text_margin_top": 20,
+        "text_margin_top_mobile": 16,
+        "body_gap": 100,
+        "body_gap_mobile": 24,
+        "body_margin_top": 50,
+        "body_margin_top_mobile": 30,
+        "items_gap": 30,
+        "items_gap_mobile": 30,
+        "item_content_align": "center",
+        "item_content_align_mobile": "center",
+        "icon_size": 44,
+        "icon_size_mobile": 36,
+        "item_title_custom": false,
+        "item_title_font": "josefin_sans_n4",
+        "item_title_size": 18,
+        "item_title_size_mobile": 14,
+        "item_title_height": 130,
+        "item_title_margin_top": 10,
+        "item_title_margin_top_mobile": 10,
+        "item_text_custom": false,
+        "item_text_font": "josefin_sans_n4",
+        "item_text_size": 16,
+        "item_text_size_mobile": 13,
+        "item_text_height": 150,
+        "item_text_margin_top": 10,
+        "item_text_margin_top_mobile": 10,
+        "left_image": "shopify://shop_images/099A2704.jpg",
+        "right_image": "shopify://shop_images/099A2688.jpg",
+        "image_radius": 0,
+        "image_border_thickness": 0,
+        "image_ratio": "landscape",
+        "image_ratio_mobile": "landscape",
+        "btn_size": 56,
+        "btn_size_mobile": 56,
+        "btn_arrow_size": 80,
+        "btn_arrow_size_mobile": 80,
+        "btn_border_thickness": 0,
+        "title_color": "#2e2a39",
+        "text_color": "#625f6b",
+        "icon_color": "#000000",
+        "item_title_color": "#2e2a39",
+        "item_text_color": "#625f6b",
+        "btn_bg_color": "#ffffff",
+        "btn_arrow_color": "#000000",
+        "btn_border_color": "#000000",
+        "line_color": "#ffffff",
+        "image_border_color": "#000000",
+        "background_color": "#f4f3ef",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 36,
+        "padding_bottom": 24,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 120,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
+    "section_divider_AJPzqr": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": false,
+        "width": "wrapper",
+        "padding_top": 8,
+        "padding_bottom": 20
+      }
+    },
+    "section_accordions_6dTVbD": {
+      "type": "section-accordions",
+      "blocks": {
+        "text_k3q8UK": {
+          "type": "text",
+          "settings": {
+            "title": "Why choose the Koozi Crate?",
+            "text": "<p>Forget everything you thought you knew about dog crates. Traditional ones are bulky, unattractive, and take up too much space. The Koozi Crate changes all that. It’s a secure, cosy sanctuary for your dog and a sleek, functional side table for your home. A true 2-in-1 solution, it’s space-saving, stylish, and built to last.<br/><br/>Whether you use it as a dog den or for crate training, it will adapt to you and your dog's needs.</p><p>If you’ve ever ruled out a crate because of how it looks - or worried your dog wouldn’t take to it- the Koozi Crate will change your mind.</p>"
+          }
+        },
+        "text_Qp9PrH": {
+          "type": "text",
+          "settings": {
+            "title": "Who is the Koozi Crate for?",
+            "text": "<p>The Koozi Crate is for dog parents looking to replace mismatched crates or worn-out beds with a lasting solution that provides style, comfort and security. Designed as both a cosy, safe retreat for your dog and a stylish side table for your home, the Koozi Crate offers two essentials in one – a timeless investment you won’t want to hide away.</p>"
+          }
+        },
+        "text_RMwfpX": {
+          "type": "text",
+          "settings": {
+            "title": "Does it matter if we don't crate train?",
+            "text": "<p>Yes! Absolutely. Even if you don’t crate train, the Koozi Crate is designed to serve as a cosy den with the door up, offering a safe and secure space for your dog - particularly dogs with anxiety. Vets recommend crates because dogs naturally seek secure places to relax. </p><p>So whether you crate train or not, the Koozi Crate provides your dog with a peaceful retreat, while functioning as a side table for your home.</p>"
+          }
+        },
+        "text_yAUdPd": {
+          "type": "text",
+          "settings": {
+            "title": "Why is it more expensive than wire crates?",
+            "text": "<p>The Koozi Crate is more than just a dog crate - it’s a high-quality, multifunctional furniture piece that combines a stylish side table with a comfortable retreat for your dog.</p><p>This clever design maximises space, saving both cost and clutter compared to purchasing a wire dog crate and a separate side table. The price reflects the premium materials and expert craftsmanship used to create its unique design, ensuring long-term durability and value.<br/><br/>It's an investment in your dog's comfort, and in your home sanctuary.</p>"
+          }
+        },
+        "text_BQM7PX": {
+          "type": "text",
+          "settings": {
+            "title": "Where do I put it in my home?",
+            "text": "<p>Think of it this way: where would you put a side table? Since the Koozi Crate is more than just a dog crate, there’s no need to hide it away. Place it next to your sofa for easy access, in a shaded corner of your home, by your bedside for a peaceful nighttime retreat, or in your office to keep your dog close, all the while giving them their own safe comfy space.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_k3q8UK",
+        "text_Qp9PrH",
+        "text_RMwfpX",
+        "text_yAUdPd",
+        "text_BQM7PX"
+      ],
+      "settings": {
+        "layout": "one-column",
+        "show_accordion_divider": true,
+        "title": "",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "rgba(0,0,0,0)",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 22,
+        "padding_bottom": 60
+      }
+    },
+    "section_grid_YyHx6y": {
+      "type": "section-grid",
+      "blocks": {
+        "image_rhpbmJ": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify://shop_images/Side-table-dog-crate-gemma.png",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        }
+      },
+      "block_order": [
+        "image_rhpbmJ"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_height": "five-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "three-fifty-height-mobile",
+        "heading_size": 130,
+        "button_1_color": "btn--white",
+        "button_1_style": "btn--text",
+        "button_1_size": "btn--small",
+        "button_2_color": "btn--black",
+        "button_2_style": "btn--text",
+        "button_2_size": "btn--small",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": false,
+        "columns_mobile": "1",
+        "overlay_text": true,
+        "width": "wrapper--full-padded",
+        "add_gutter": false,
+        "padding_top": 30,
+        "padding_bottom": 24
+      }
+    },
+    "section_text_LfHaw9": {
+      "type": "section-text",
+      "blocks": {
+        "heading_9MPW7i": {
+          "type": "heading",
+          "settings": {
+            "text": "<h1>Your dog’s forever den — designed to last their lifetime <em>and</em> blend beautifully into your home.</h1>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "button_qKP3q3": {
+          "type": "button",
+          "settings": {
+            "button_text": "Shop now",
+            "button_link": "shopify://products/dog-crate-side-table",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "heading_9MPW7i",
+        "button_qKP3q3"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 60,
+        "padding_bottom": 22
+      }
+    },
+    "section_image_9AcpiE": {
+      "type": "section-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/KOOZI-CAMPAIGN-190_2.jpg",
+        "height": "original-height",
+        "enable_mobile_height": true,
+        "mobile_height": "original-height-mobile",
+        "enable_stretch": true,
+        "image_position": "center",
+        "bg_color_secondary": false,
+        "width": "wrapper--full-padded",
+        "padding_top": 40,
+        "padding_bottom": 66
+      }
+    },
+    "section_overlapping_images_XUCGVp": {
+      "type": "section-overlapping-images",
+      "settings": {
+        "text_position": "right",
+        "text_alignment": "center",
+        "images_width": 750,
+        "images_offset": 60,
+        "image_1": "shopify://shop_images/KOOZI-CAMPAIGN-190_2.jpg",
+        "image_link_1": "",
+        "image_2": "shopify://shop_images/KOOZI-CAMPAIGN-17.jpg",
+        "image_link_2": "",
+        "hide_image_2": false,
+        "title": "<h1>Your dog’s forever den — designed to last their lifetime <em>and</em> blend beautifully into your home.</h1>",
+        "heading_highlight_type": "italics",
+        "highlight_color": "#D43747",
+        "highlight_text_color": "#000",
+        "description": "",
+        "heading_size": 90,
+        "button_text": "Shop now",
+        "button_link": "shopify://products/dog-crate-side-table",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "video_text": "",
+        "video_link": "",
+        "bg_color_secondary": false,
+        "gradient": "",
+        "animation": "horizontal",
+        "animation_intensity": 50,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "ss_video_banner_KQrTgV",
+    "section_text_Lta8rA",
+    "section_divider_NP9zge",
+    "section_image_ycAeMN",
+    "section_columns_9FDzmc",
+    "section_divider_9Ybf3J",
+    "section_icons_row_kphgRK",
+    "section_icons_row_7xhknb",
+    "ss_before_after_5_Cgd4kX",
+    "section_divider_AJPzqr",
+    "section_accordions_6dTVbD",
+    "section_grid_YyHx6y",
+    "section_text_LfHaw9",
+    "section_image_9AcpiE",
+    "section_overlapping_images_XUCGVp"
+  ]
+}

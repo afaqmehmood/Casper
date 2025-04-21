@@ -1,0 +1,825 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "subheading": "none",
+            "padding_bottom": 6
+          }
+        },
+        "icon_f8mcwc": {
+          "type": "icon",
+          "disabled": true,
+          "settings": {
+            "icon_name": "none",
+            "icon_color": "",
+            "icon_width": 20,
+            "icon_text": "Price will display based on the options selected below.",
+            "text_size": 80,
+            "width": "full",
+            "text_alignment": "left",
+            "bg_color": "",
+            "padding_bottom": 20
+          }
+        },
+        "divider_F773aU": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 26
+          }
+        },
+        "feature_MXeiq9": {
+          "type": "feature",
+          "settings": {
+            "icon_name": "none",
+            "icon_width": 25,
+            "title": "",
+            "text": "<p><strong>PRE ORDER: Estimated arrival between 4th - 10th December.</strong></p>",
+            "bg_color": "#f7f9fa",
+            "text_color": "#000000",
+            "padding_bottom": 20
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "show_labels": true,
+            "show_quantity": false,
+            "show_payment_button": false,
+            "enable_subscriptions_selectors": false,
+            "padding_bottom": 20
+          }
+        },
+        "divider_C6gD6y": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "popup_text_9taCJa": {
+          "type": "popup_text",
+          "settings": {
+            "text": "Sofa Topper Size Guide →",
+            "popup_page": "size-guide-sofa-toppers",
+            "padding_bottom": 22
+          }
+        },
+        "popup_text_YbDMVf": {
+          "type": "popup_text",
+          "settings": {
+            "text": "Cloud Bed Size Guide →",
+            "popup_page": "sizing-chart-cloud-beds",
+            "padding_bottom": 22
+          }
+        },
+        "divider_Fyy9GX": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "padding_bottom": 20
+          }
+        },
+        "divider_XRKXzz": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "product_accordion": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "Materials",
+            "heading_style": "font-body",
+            "accordion_text": "<h6>Cloud Bed </h6><p><strong>Bed Mattress</strong></p><ul><li>Supportive foam base layer with a cooling gel memory foam top layer</li><li>Shredded memory foam bolster pillow</li><li>Waterproof liner</li></ul><p><strong>Bed Fabric Cover</strong></p><ul><li>Choose between our exclusive upholstery linen and boucle fabric covers</li><li>Linen GSM weight: 480gsm</li><li>Boucle GSM weight: 600gsm</li><li>OEKO-TEX 100 Certified (no nasties)<br/></li></ul><h6>Sofa Topper</h6><p><strong>Fabric Cover</strong></p><ul><li>55% Linen 45% Cotton</li><li>325GSM weight</li><li>Invisible YKK Zip</li><li>Machine washable</li><li>Reversible</li><li>OEKO-TEX 100 Certified (no nasties)</li></ul><p><strong>Inner Materials</strong></p><ul><li>Liquid-resistant liner</li><li>Eco-friendly polycluster fibre filling<br/></li></ul>",
+            "accordion_page": "",
+            "padding_bottom": 20
+          }
+        },
+        "divider_hpd4dz": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "product_accordion_V8r8Cm": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "Details",
+            "heading_style": "font-body",
+            "accordion_text": "<h6>Cloud Bed</h6><ul><li>CertiPUR-US certified memory foam</li><li>Half-bolster design for more space </li><li>Shredded memory foam bolster pillow </li><li>Upholstery fabric covers</li><li>Waterproof Liner</li><li>Machine washable cover</li><li>Timeless, natural and elegant style</li><li>OEKO-TEX Standard 100 certified</li><li>Hidden YKK Zips</li><li>Non-slip base</li></ul><p><strong>Sofa Topper</strong></p><ul><li>Waterproof</li><li>Cotton-Linen Blend</li><li>Versatile Use</li><li>Reversible</li><li>Fringed edging</li><li>OEKO-TEX Standard 100 certified. </li></ul>",
+            "accordion_page": "",
+            "padding_bottom": 20
+          }
+        },
+        "divider_HF4xj8": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "product_accordion_WxVdTE": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "Care",
+            "heading_style": "font-body",
+            "accordion_text": "<p><strong>Cloud Bed<br/></strong>Koozi dog beds are built to last, and proper care ensures they stay looking great. Follow these simple tips to extend their life:</p><ul><li>Machine wash up to 30° on a gentle cycle</li><li>Wash separately</li><li>Use mild detergent</li><li>Line dry when possible</li><li>Spot clean stains promptly</li></ul><p><strong>Sofa Topper</strong></p><ul><li>Machine wash up to 30ºC on a gentle cycle using mild liquid detergent.</li><li>Air dry, or limit tumble-drying to low or delicate settings</li><li>Do not bleach, iron or dry-clean, and if your linen happens to stain, launder. Spot-clean marks simmediately.</li></ul>",
+            "accordion_page": "",
+            "padding_bottom": 20
+          }
+        },
+        "divider_qwELGd": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "product_accordion_Wccz97": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "Delivery",
+            "heading_style": "font-body",
+            "accordion_text": "<p><strong>Enjoy Complimentary Standard Delivery - for a limited time.</strong></p><ul><li>Orders are dispatched from our Sydney warehouse within 1 - 2 business days.</li><li>Delivery time typically is between 2 - 10 business days, depending on your location.</li><li>We will send your tracking number once order is dispatched.</li></ul>",
+            "accordion_page": "",
+            "padding_bottom": 20
+          }
+        },
+        "divider_PgGyEf": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "feature_rVeP8c": {
+          "type": "feature",
+          "disabled": true,
+          "settings": {
+            "icon_name": "paw-heart",
+            "icon_width": 25,
+            "title": "The Benefit of our Linen Covers",
+            "text": "<p>Our linen covers called Muji Linen, is made from premium performance linen-blend fabric, are a gamechanger for dog parents who value style and function. With natural, earthy tones, they blend seamlessly with your soft furnishings, offering a relaxed, organic touch of luxury, while being easy to clean and maintain. The result is an effortlessly cool and elevated vibe.</p>",
+            "bg_color": "#f7f9fa",
+            "text_color": "#000000",
+            "padding_bottom": 8
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "icon_f8mcwc",
+        "divider_F773aU",
+        "feature_MXeiq9",
+        "form",
+        "divider_C6gD6y",
+        "popup_text_9taCJa",
+        "popup_text_YbDMVf",
+        "divider_Fyy9GX",
+        "description",
+        "divider_XRKXzz",
+        "product_accordion",
+        "divider_hpd4dz",
+        "product_accordion_V8r8Cm",
+        "divider_HF4xj8",
+        "product_accordion_WxVdTE",
+        "divider_qwELGd",
+        "product_accordion_Wccz97",
+        "divider_PgGyEf",
+        "feature_rVeP8c"
+      ],
+      "settings": {
+        "product_sticky_enable": true,
+        "image_layout": "grid",
+        "image_width": "large",
+        "product_image_aspect_ratio": true,
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "bg_color": "",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "overlapping-images-0": {
+      "type": "section-overlapping-images",
+      "disabled": true,
+      "settings": {
+        "text_position": "left",
+        "text_alignment": "left",
+        "images_width": 750,
+        "images_offset": 60,
+        "image_1": "shopify://shop_images/KOOZI-CAMPAIGN-267_1.jpg",
+        "image_link_1": "",
+        "image_2": "shopify://shop_images/hhhh.png",
+        "image_link_2": "",
+        "hide_image_2": false,
+        "title": "<p>The Cloud Bundle</p>",
+        "heading_highlight_type": "circle",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "description": "<p>The Cloud Bed and Marble Bowl Bundle offers luxurious comfort for your pet while seamlessly elevating your home’s interior style.</p>",
+        "heading_size": 100,
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "video_text": "",
+        "video_link": "",
+        "bg_color_secondary": true,
+        "gradient": "",
+        "animation": "horizontal",
+        "animation_intensity": 50,
+        "width": "wrapper--full-padded",
+        "padding_top": 30,
+        "padding_bottom": 44
+      }
+    },
+    "section_text_cLtjAp": {
+      "type": "section-text",
+      "blocks": {
+        "heading_6iBKEY": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>A New Standard in Dog Beds: The Half-Bolster Design with More Space and Softer Support</p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "text_ffddAg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We’ve engineered the Cloud Bed with a half-bolster pillow to provide dogs with the best of both worlds: a plush, softer memory foam bolster that gently cradles their heads without being overly firm or tall. This open, half-bolster design maximises mattress space, allowing dogs to stretch out naturally - unlike traditional full-bolster beds. The low-profile orthopaedic mattress makes it easy for smaller dogs to climb in, while adding a sleek, minimalist touch to your home.</p>",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "heading_6iBKEY",
+        "text_ffddAg"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 60,
+        "padding_bottom": 40
+      }
+    },
+    "38ff978b-66eb-4318-9ce0-94db8ff86311": {
+      "type": "section-columns",
+      "blocks": {
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-0": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Cloud_Bed_-_Sleep_Cloud-2.jpg",
+            "title": "Contouring Memory Foam Pillow and Half Bolster Bed Design",
+            "text": "<p>Unlike traditional firm, high-bolster beds, our bed is designed with a lower, softer memory foam bolster. This thoughtful construction reduces neck strain for smaller dogs, while the half-bolster bed design maximises mattress space, allowing dogs to stretch out naturally and enjoy the utmost comfort.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-1": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Red_clay_linen_Cloud_Dog_Bed.jpg",
+            "title": "Ultra-Soft Memory Foam with Cooling Gel",
+            "text": "<p>The mattress combines a layer of CertiPUR-US® certified orthopedic foam with cooling gel memory foam, delivering soft, cloud-like comfort. These layers provides joint joint support, enhanced breathability, and a softer feel that’s ideal for small to medium dogs.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-2": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Koozi_logo-blue_linen.jpg",
+            "title": "Premium Upholstery Fabric Covers",
+            "text": "<p>We thoughtfully select fabrics that combine timeless style, durability, and easy maintenance. Our linen covers are breathable and come in five natural earthy tones, seamlessly blending into any home decor. For a softer, cosier feel, our boucle fabric offers a rich, plush texture in a warm, buttery hue.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-0",
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-1",
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "columns": 3,
+        "columns_mobile": "1",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 1.1,
+        "mobile_aspect_ratio": 0.8,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color_secondary": false,
+        "color_borders": "#000000",
+        "layout_mobile": "carousel",
+        "width": "wrapper",
+        "padding_top": 44,
+        "padding_bottom": 22
+      }
+    },
+    "section_columns_nwfrNP": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_Yr4zm9": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Boucle_buttercream_cloud_dog_bed_koozi.jpg",
+            "title": "Supportive Low-Profile Mattress and Half Bolster Design",
+            "text": "<p>The low-profile mattress design allows small and medium dogs to easily hop on and off the bed, providing accessibility that traditional bolster beds often lack due to their thick, high profiles. Unlike other beds with full bolsters, our design ensures your pet can comfortably settle in and stretch out without strain.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_Q3eqtY": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/light-khaki-cloud-bed-medium-mimi.png",
+            "title": "Machine-Washable Linen Covers",
+            "text": "<p>All of our premium bed covers are zip-removable and machine washable on a gentle, low-temperature cycle. Foam can be spot-cleaned.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_CbrgPF": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Red_Clay_Linen_-_Zip.jpg",
+            "title": "Waterproof Liner and Non-Slip Base",
+            "text": "<p>The interior features a waterproof liner for protection against liquid spills and accidents. The non-slip base minimises movement, ensuring stability as your dog gets in and out.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_Yr4zm9",
+        "text_block_Q3eqtY",
+        "text_block_CbrgPF"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "columns": 3,
+        "columns_mobile": "1",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 1.1,
+        "mobile_aspect_ratio": 1,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color_secondary": false,
+        "color_borders": "#000000",
+        "layout_mobile": "carousel",
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "section_columns_tkLpY7": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_kzP9ca": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-STUDIO-332.jpg",
+            "title": "Boucle Fabric Cover",
+            "text": "<p>Our Buttercream Boucle cover is made from heavyweight 600gsm upholstery-grade fabric and is OEKO-TEX Standard 100 certified, ensuring it’s free from harmful substances. With its textured, creamy tones and plush, cosy feel, it elevates both your dog’s comfort and your home’s aesthetic.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_9ie8ji": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/cloudbedlogo.jpg",
+            "title": "Linen Fabric Cover",
+            "text": "<p>Our linen covers feature breathable, natural fibers in vibrant earthy tones, offering a perfect blend of elegance and organic style. Durable and lightweight, it ensures comfort for your dog while effortlessly complimenting your home interiors. OEKO-TEX Standard 100 Certified, and 420gsm weight.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_kzP9ca",
+        "text_block_9ie8ji"
+      ],
+      "settings": {
+        "title": "Choose between Linen and Boucle Fabric Covers",
+        "align_text": "text-left",
+        "columns": 2,
+        "columns_mobile": "1",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 0.8,
+        "mobile_aspect_ratio": 0.8,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color_secondary": true,
+        "color_borders": "#000000",
+        "layout_mobile": "carousel",
+        "width": "wrapper",
+        "padding_top": 30,
+        "padding_bottom": 60
+      }
+    },
+    "section_text_ryAVYW": {
+      "type": "section-text",
+      "blocks": {
+        "heading_bfPBHR": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Sleek, Breathable Linen-Cotton Toppers for Subtle Furniture Protection</p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "text_64hJMg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our Sofa Toppers provide a waterproof protective layer without hiding the look and style of your furniture — ideal for dog parents who want to safeguard their sofas and soft furnishings from everyday pet wear without fully covering them up.</p><p>Crafted from a heavyweight natural linen-cotton blend, these toppers offer a comfortable shield against dribbles, accidents, muddy paws, scratching, and pet hair.</p>",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "heading_bfPBHR",
+        "text_64hJMg"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 94,
+        "padding_bottom": 22
+      }
+    },
+    "section_columns_R3GwAD": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_HHMefK": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-250_954a1933-a528-4994-8041-ab7fb89ba1ac.jpg",
+            "title": "Stylish Protection without Hiding your Furniture",
+            "text": "<p>Safeguard your furniture from pet accidents, scratches, hair and muddy paws with our premium natural linen-cotton blend topper. It not only looks stunning but also provides subtle protection without hiding your furniture. </p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_bMQPC4": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Sofa_topper_campaign_milk.jpg",
+            "title": "Waterproof Liner to Protect Against Accidents",
+            "text": "<p>An internal waterproof liner protects against accidents, dribbles or spills, keeping your furnishing dry and clean.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_xLnTXn": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Sofa_topper_milk_cotton_linen_campaign.jpg",
+            "title": "Machine Washable Covers",
+            "text": "<p>The linen-cotton covers are zip-removable and machine washable, making cleaning easy and ensuring a fresh pet-friendly home.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_TzKbD4": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-300_fffcdce0-0cd4-4b62-8db1-bdd1b2bc419a.jpg",
+            "title": "Say Goodbye to Sticky Pet hair",
+            "text": "<p>Our Sofa Topper stops pet hair from clinging to your furniture, making it easy to lift off and quickly lint-roll a smaller, manageable surface - ensuring your fabric furniture stays clean and inviting.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_gFtMrR": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/temp_10ztF8Y.jpg",
+            "title": "Versatile Use",
+            "text": "<p>Perfect for home furnishings or dog-friendly travel. Lightweight and adaptable to various settings, it fits seamlessly on sofas, chairs, car seats, and is ideal for hotels or visits to family and friends.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_HHMefK",
+        "text_block_bMQPC4",
+        "text_block_xLnTXn",
+        "text_block_TzKbD4",
+        "text_block_gFtMrR"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "columns": 3,
+        "columns_mobile": "1",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 1.1,
+        "mobile_aspect_ratio": 1,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color_secondary": false,
+        "color_borders": "#000000",
+        "layout_mobile": "carousel",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_video_QdKkrT": {
+      "type": "section-video",
+      "settings": {
+        "video_height": "six-fifty-height",
+        "text_position": "middle-center",
+        "video_link_bg": "https://cdn.shopify.com/videos/c/o/v/4e9510c8df834d8d8496b2953c4285d4.mp4",
+        "video_link": "",
+        "overlay_opacity": 10,
+        "text_color": "text-light",
+        "title": "",
+        "heading_highlight_type": "italics",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "text": "",
+        "heading_size": 100,
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--white",
+        "button_style": "btn--solid-border",
+        "button_size": "btn--small"
+      }
+    },
+    "tabs": {
+      "type": "section-accordions",
+      "blocks": {
+        "acordion-0": {
+          "type": "text",
+          "settings": {
+            "title": "How do I care for the Cloud Bed?",
+            "text": "<p>Caring for your Cloud Bed is simple:</p><ol><li><strong>Bed Cover:</strong> The zip-off cover can be easily removed and machine washed on a cold, gentle cycle with mild detergent. For best results, lay flat to dry. Remember to remove the memory foam bolster using the internal zipper.</li><li><strong>Waterproof Liner:</strong> Wipe down the waterproof liner with a spray or soapy water for easy cleaning.</li><li><strong>Foam Core:</strong> If you need to clean the foam, wipe it down with warm, soapy water. Allow it to dry completely in a dry place to ensure all moisture is removed before reassembling the bed.</li></ol><p>By following these care instructions, you can keep your Cloud bed looking and feeling fresh!</p>"
+          }
+        },
+        "text_kHMmbd": {
+          "type": "text",
+          "settings": {
+            "title": "How do I assemble the bed?",
+            "text": "<p>No assembly is required. Once you unbox your dog's new Koozi Cloud Bed, it will expand. Your dog can use it immediately, but it may take up to 24 hours for the mattress to completely expand.</p>"
+          }
+        },
+        "acordion-1": {
+          "type": "text",
+          "settings": {
+            "title": "What does OEKO-TEX Standard mean?",
+            "text": "<p>OEKO-TEX Standard 100 is a certification that ensures our linen covers and foam mattresses are free from harmful substances and chemicals, making them safe for both pets and humans.<br/><br/>This certification guarantees that the fabric meets strict safety and environmental criteria, reflecting our commitment to quality and sustainability. By choosing OEKO-TEX certified covers, you can trust that you are providing a safe, durable, and sustainable option for your dog.</p>"
+          }
+        },
+        "d0defd0d-94c3-403c-bd36-dc2f140a104f": {
+          "type": "text",
+          "settings": {
+            "title": "Warranty and Returns",
+            "text": "<h5>Returns and Exchanges</h5><p><strong>Beds: Unopened & Unused Only</strong><br/>Unopened and unused beds can be returned within 7 days of receipt for a full refund or exchange. Please ensure you have not cut the vacuum seal. To check the size, carefully open the box and unroll the vacuum-sealed item without breaking the seal. If it’s not the right fit, re-roll the item, place it back in the box, and return it.</p><p>You are responsible for the cost and arrangement of return shipping.<br/><br/>Please be aware that opened beds (i.e., those with a cut vacuum seal) cannot be returned or exchanged due to handling difficulties and hygiene concerns.</p><h5>Warranty</h5><p>We offer a 12-month warranty covering manufacturing defects, including faulty workmanship or materials. This warranty does not cover normal wear and tear or damages caused by dog use, such as excessive scratching, biting, accidents, chewing, or other use.</p><p>For warranty issues, please contact us within 48 hours of opening the bed at <a>hello@koozipets.com.au</a>, including images of the defective or damaged item. Failure to provide this information within the specified timeframe may void your exchange or refund.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "acordion-0",
+        "text_kHMmbd",
+        "acordion-1",
+        "d0defd0d-94c3-403c-bd36-dc2f140a104f"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "Frequently Asked Questions",
+        "subheading": "",
+        "text": "<h3>Cloud Bed</h3>",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 26
+      }
+    },
+    "section_accordions_TTaa8e": {
+      "type": "section-accordions",
+      "blocks": {
+        "text_3VU8JW": {
+          "type": "text",
+          "settings": {
+            "title": "How do I care for my Sofa Topper?",
+            "text": "<p><strong>Linen-Cotton Cover</strong></p><ul><li>Machine wash up to 30ºC on a gentle cycle using mild liquid detergent.</li><li>Air dry (preferably) or tumble dry on a delicate setting.</li></ul><p><strong>Inner</strong></p><ul><li>Wipe down waterproof liner</li><li>Fluff and shake out regularly to maintain shape</li></ul>"
+          }
+        },
+        "text_arKjHk": {
+          "type": "text",
+          "settings": {
+            "title": "Warranty and returns",
+            "text": "<h5>Returns and Exchanges</h5><p><strong>For Unopened & Unused Items Only</strong><br/>Unopened and unused Sofa Toppers can be returned within 7 days of receipt for a full refund or exchange. Please ensure you have not cut the vacuum seal. To check the size, carefully open the box and unroll the vacuum-sealed item without breaking the seal. If it’s not the right fit, re-roll the item, place it back in the box, and return it.</p><p>You are responsible for the cost and arrangement of return shipping.<br/><br/>Please be aware that opened Sofa Toppers (i.e., those with a cut vacuum seal) cannot be returned or exchanged due to handling difficulties and hygiene concerns.<br/></p><h5>Warranty</h5><p>We offer a 12-month warranty covering manufacturing defects, including faulty workmanship or materials. This warranty does not cover normal wear and tear or damages caused by dog use, such as excessive scratching, biting, accidents, chewing, or other use.</p><p>For warranty issues, please contact us within 48 hours of opening the package at <a>hello@koozipets.com.au</a>, including images of the defective or damaged item. Failure to provide this information within the specified timeframe may void your exchange or refund.</p>"
+          }
+        },
+        "text_8LfwMx": {
+          "type": "text",
+          "settings": {
+            "title": "How do I determine what size to choose?",
+            "text": "<p>When deciding on the right Sofa Topper size, think about both coverage and placement. Here are some tips to help guide you:</p><ol><li><strong>Assess Your Furniture's Seating Area</strong>: Measure the seating width of your sofa or chair. This helps ensure the topper drapes nicely without excess material hanging over the edges.</li><li><strong>Consider Desired Coverage</strong>:<br/><strong>For Sofas</strong>: Decide if you want the topper to cover just the seating area or extend over the armrests for added protection. The standard size works well for most 2-3 seater sofas, while the large size offers more coverage on 3-4 seater sofas.<br/><strong>For Chairs or Beds</strong>: If you’re planning to use the topper on a single chair, the standard size is ideal. For use at the end of a bed or for extra surface area, the large size offers additional flexibility.</li><li><strong>Versatility in Use</strong>: If you’d like the option to use the topper across various spots (like the car, bed, or armchair), the standard size is easier to manage and transport, while the large size provides more protection on bigger surfaces.</li></ol>"
+          }
+        },
+        "text_T6XMyi": {
+          "type": "text",
+          "settings": {
+            "title": "How is the Sofa Topper different from a regular blanket?",
+            "text": "<p>Unlike regular blankets, the Sofa Topper is designed with a water-resistant liner and filling to guard against pet accidents, spills, pet hair, and scratches. This helps extend the life of your sofa, saving you from frequent cleaning or costly replacements.</p><p>Made from a natural, breathable linen-cotton blend, the topper offers added comfort, particularly in warm months when synthetic covers can cause overheating—keeping your pet cool and comfortable instead. The natural fibres are also low-static, so pet hair clings less and is easy to clean.</p><p>The premium fabric cover enhances your furniture without fully covering it, making it a stylish, functional addition that integrates seamlessly into your space. So, you’re not just buying a cover; you’re investing in a versatile, cosy piece that complements your decor while providing essential protection.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_3VU8JW",
+        "text_arKjHk",
+        "text_8LfwMx",
+        "text_T6XMyi"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "",
+        "subheading": "",
+        "text": "<h3>Sofa Topper</h3>",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 24,
+        "padding_bottom": 60
+      }
+    },
+    "section_divider_rfij6e": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "related": {
+      "type": "related-products",
+      "blocks": {
+        "related": {
+          "type": "related",
+          "settings": {
+            "title": "You May Also Like",
+            "product_recommendations_limit": 4
+          }
+        },
+        "recent": {
+          "type": "recent",
+          "settings": {
+            "title": "Recently viewed",
+            "product_recently_limit": 4
+          }
+        }
+      },
+      "block_order": [
+        "related",
+        "recent"
+      ],
+      "settings": {
+        "enable_tabs": true,
+        "columns_mobile": "1",
+        "type_style": "subheading-text",
+        "tab_heading_size": 120,
+        "bg_color": "",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "overlapping-images-0",
+    "section_text_cLtjAp",
+    "38ff978b-66eb-4318-9ce0-94db8ff86311",
+    "section_columns_nwfrNP",
+    "section_columns_tkLpY7",
+    "section_text_ryAVYW",
+    "section_columns_R3GwAD",
+    "section_video_QdKkrT",
+    "tabs",
+    "section_accordions_TTaa8e",
+    "section_divider_rfij6e",
+    "related"
+  ]
+}

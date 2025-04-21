@@ -1,0 +1,241 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "bg_color_secondary": false,
+        "padding_top": 60,
+        "padding_bottom": 30
+      }
+    },
+    "25dbd963-093c-4cc9-9cd4-7bde32b883ac": {
+      "type": "section-banner-image",
+      "blocks": {
+        "template--18952594030913__25dbd963-093c-4cc9-9cd4-7bde32b883ac-16831285413c69ee80-1": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Warranty & Returns Policy</p>",
+            "size": 180,
+            "heading_highlight_type": "italics",
+            "highlight_color": "rgba(0,0,0,0)",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "template--18952594030913__25dbd963-093c-4cc9-9cd4-7bde32b883ac-16831285413c69ee80-2": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "size": 100
+          }
+        },
+        "template--18952594030913__25dbd963-093c-4cc9-9cd4-7bde32b883ac-16831285413c69ee80-3": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "stacked_button": false,
+            "button_1_text": "Shop All",
+            "button_1_link": "shopify://collections/all",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "template--18952594030913__25dbd963-093c-4cc9-9cd4-7bde32b883ac-16831285413c69ee80-1",
+        "template--18952594030913__25dbd963-093c-4cc9-9cd4-7bde32b883ac-16831285413c69ee80-2",
+        "template--18952594030913__25dbd963-093c-4cc9-9cd4-7bde32b883ac-16831285413c69ee80-3"
+      ],
+      "settings": {
+        "height": "one-third-height",
+        "enable_mobile_height": false,
+        "mobile_height": "four-fifty-height-mobile",
+        "image": "shopify://shop_images/KOOZI-CAMPAIGN-229_copy.jpg",
+        "image_mobile": "shopify://shop_images/KOOZI-CAMPAIGN-229_copy.jpg",
+        "overlay_opacity": 45,
+        "transition": "zoom-out",
+        "enable_zoom_animation": true,
+        "enable_card_scrolling": false,
+        "increase_border_radius": true,
+        "text_width": "normal",
+        "text_position": "center",
+        "text_alignment": "text-left",
+        "text_color": "text-light"
+      }
+    },
+    "accordion-section-1": {
+      "type": "section-accordions",
+      "blocks": {
+        "accordion_block_1_1": {
+          "type": "text",
+          "settings": {
+            "title": "What does Warranty Cover?",
+            "text": "<h6>Warranty Coverage</h6><p>Koozi Pets provides a <strong>12-month limited warranty</strong> covering manufacturing defects only. This warranty applies solely to defects from faulty workmanship.<br/><br/>The warranty period for Crates purchased from Koozi is one (1) year from the date of purchase. If a replacement Crate or part is provided, it will inherit the remaining warranty of the original item or one year from the replacement date.</p><p>During the warranty period, Koozi Pets will replace any products or parts of the crate that are proven to be defective due to improper material or workmanship, only. Repairs and/or replacements are provided at no charge to you, for eligible warranty claims.</p><h4></h4>"
+          }
+        },
+        "accordion_block_1_2": {
+          "type": "text",
+          "settings": {
+            "title": "What is excluded from warranty?",
+            "text": "<h6>Warranty Exclusions</h6><p>The warranty does <strong>not</strong> cover:</p><ul><li><strong>Damage caused by improper assembly </strong>or not following the instructions when unpacking. </li><li><strong>Normal wear and tear</strong>, including any dog-related use, washing-related wear, weathering, sun-damage or corrosion.</li><li><strong>Damages due to use by pets</strong> (e.g., chewing, bites, rips, burns, excessive scratching, stains, or moisture/liquid damage).</li><li><strong>Damage from improper weight placement</strong> on the crate.</li><li><strong>Scars, marks and colour</strong> that are characteristics of natural materials;</li><li><strong>Damage caused by spills </strong>such as acid, solvents, dyes or other corrosive materials, ink, paint, or bodily flui</li><li><strong>Commercial use</strong> damage, such as use in hotels or stores.</li></ul>"
+          }
+        },
+        "accordion_block_1_3": {
+          "type": "text",
+          "settings": {
+            "title": "How do I make a warranty claim?",
+            "text": "<p>Upon receiving your Koozi Side Table Crate, or, after assembling it, please inspect it carefully.<br/><br/>If you notice any defect or damage contact us promptly at <a><strong>help@koozipets.com.au</strong></a>. <br/><br/>Include in the email: </p><ul><li>Clear photos</li><li>Detailed description of the issue</li><li>Your order number </li><li>Your contact details<br/></li></ul><p>We’ll evaluate and address the issue with either a replacement or repair.</p>"
+          }
+        },
+        "accordion_block_1_4": {
+          "type": "text",
+          "settings": {
+            "title": "Returns and Exchanges Policy",
+            "text": "<p><strong>We do not offer returns or exchanges</strong> on the Side Table Crate for change of mind, as it is a<em> large furniture item</em> and cannot be returned back to us once shipped. <br/><br/>Before purchasing, please ensure the crate meets your dog’s size and  has that you have an adequate space in your home to fit it. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "accordion_block_1_1",
+        "accordion_block_1_2",
+        "accordion_block_1_3",
+        "accordion_block_1_4"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "Koozi Side Table Crate",
+        "subheading": "warranty and returns policy",
+        "text": "",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "accordion-section-2": {
+      "type": "section-accordions",
+      "blocks": {
+        "accordion_block_2_0": {
+          "type": "text",
+          "settings": {
+            "title": "Warranty Coverage",
+            "text": "<p>Koozi Pets offers a <strong>12-month limited warranty</strong> for manufacturing defects.<br/></p><p> Koozi Pets is not responsible for any damages resulting from failure to adhere to care instructions.</p><p></p><p>We will replace the faulty item upon inspection of the warranty claim. </p>"
+          }
+        },
+        "accordion_block_2_1": {
+          "type": "text",
+          "settings": {
+            "title": "Warranty Exclusions",
+            "text": "<p><strong>Our warranty does not cover the following:</strong></p><ul><li>Normal wear and tear due to washing or regular use.</li><li>Damage caused by rough handling, including but not limited to: bites, rips, burns, tears, excessive scratching, stains, or moisture/liquid damage.</li><li>Damage from commercial use (e.g., in hotels or stores).</li><li>Damage from using the bed or covers on non-Koozi Pets beds or toppers, which may result in stretching or ill-fitting covers.</li></ul><p></p>"
+          }
+        },
+        "text_D4anEm": {
+          "type": "text",
+          "settings": {
+            "title": "How to make a claim",
+            "text": "<p>Upon receiving your bed or sofa topper items, please inspect it carefully.<br/><br/>If you notice any defect or damage contact us promptly at <a><strong>help@koozipets.com.au</strong></a>. <br/><br/>Include in the email: </p><ul><li>Clear photos</li><li>Detailed description of the issue</li><li>Your order number </li><li>Your contact details<br/></li></ul><p>We’ll evaluate and address the issue with either a replacement or repair.</p>"
+          }
+        },
+        "text_Vrhwgw": {
+          "type": "text",
+          "settings": {
+            "title": "Returns, Refunds and Exchanges Policy",
+            "text": "<p><strong>For Unopened & Unused Items</strong><br/>Unopened and unused items may be returned within <strong>7 days of receipt</strong> for a full refund or exchange. You are responsible for the cost and arrangement of return shipping.</p><p><strong>Opened Items / Change of Mind</strong><br/>We cannot accept returns for opened beds or sofa toppers due to hygiene concerns and handling restrictions. This includes cutting the plastic vacuum seal. <br/><br/>For a final size check, carefully open the box, unroll the vacuum-sealed item, and inspect it without breaking the vacuum seal. If it’s not the right fit, you may re-roll the vacuum-sealed item, place it back in the box, and return it within <strong>7 days</strong> for a full refund.</p><p><strong>Exchanges and Price Differences</strong></p><ul><li>If exchanging for a lower-priced item, we will refund the difference via store credit or original payment method.</li><li>If exchanging for a higher-priced item, you’ll need to pay the price difference.</li></ul><h4>Refunds</h4><p>We’ll notify you once we receive and inspect your returned item. If approved, we will process the refund to your original payment method. Please allow time for bank or credit card processing.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "accordion_block_2_0",
+        "accordion_block_2_1",
+        "text_D4anEm",
+        "text_Vrhwgw"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "Beds and Sofa Toppers",
+        "subheading": "warranty and returns policy",
+        "text": "",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 16,
+        "padding_bottom": 50
+      }
+    },
+    "section_accordions_GeXNMx": {
+      "type": "section-accordions",
+      "blocks": {
+        "text_KkgwCJ": {
+          "type": "text",
+          "settings": {
+            "title": "Warranty",
+            "text": "<p>Warranty is offered for manufacturing defects including faulty workmanship or materials. This warranty does not cover normal wear and tear or damages caused by the customer or by dog use, such as excessive scratching, biting, accidents, chewing, or other use.</p><p>For warranty issues, please contact us within 48 hours of opening the bed at <a>hello@koozipets.com.au</a>, including images of the defective or damaged item. <br/><br/>Failure to provide this information within the specified timeframe may void your exchange or refund.</p>"
+          }
+        },
+        "text_EfpHyP": {
+          "type": "text",
+          "settings": {
+            "title": "Do you offer refunds?",
+            "text": "<p>The Marble Bowl Tray Set is a limited edition piece and sale is final. It cannot be returned for change of mind.<br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_KkgwCJ",
+        "text_EfpHyP"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "Marble Bowl Set",
+        "subheading": "warranty and returns policy",
+        "text": "",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 24,
+        "padding_bottom": 68
+      }
+    },
+    "section_divider_dBddMk": {
+      "type": "section-divider",
+      "disabled": true,
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "padding_top": 34,
+        "padding_bottom": 64
+      }
+    }
+  },
+  "order": [
+    "main",
+    "25dbd963-093c-4cc9-9cd4-7bde32b883ac",
+    "accordion-section-1",
+    "accordion-section-2",
+    "section_accordions_GeXNMx",
+    "section_divider_dBddMk"
+  ]
+}

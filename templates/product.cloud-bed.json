@@ -1,0 +1,1353 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "divider_xQtPj8": {
+          "type": "divider",
+          "settings": {
+            "show_line": false,
+            "padding_bottom": 10
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "subheading": "none",
+            "padding_bottom": 6
+          }
+        },
+        "judge_me_reviews_preview_badge_8Qj9rb": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider_AAMAt3": {
+          "type": "divider",
+          "settings": {
+            "show_line": false,
+            "padding_bottom": 20
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "padding_bottom": 16
+          }
+        },
+        "inventory_countdown": {
+          "type": "inventory_countdown",
+          "disabled": true,
+          "settings": {
+            "max_inventory": 20,
+            "hide_inventory_count": true,
+            "padding_bottom": 24
+          }
+        },
+        "divider_Yg4FbR": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 30
+          }
+        },
+        "feature_nPjEBJ": {
+          "type": "feature",
+          "disabled": true,
+          "settings": {
+            "icon_name": "none",
+            "icon_width": 25,
+            "title": "",
+            "text": "<p><strong>Save 10% on Your First Order - Join the Koozi Community. </strong><a href=\"https://koozipets.com.au/pages/koozi-community-sign-up\" target=\"_blank\" title=\"https://koozipets.com.au/pages/koozi-community-sign-up\"><strong>JOIN HERE</strong></a></p>",
+            "bg_color": "#f7f9fa",
+            "text_color": "#000000",
+            "padding_bottom": 28
+          }
+        },
+        "feature_B8i6ri": {
+          "type": "feature",
+          "disabled": true,
+          "settings": {
+            "icon_name": "none",
+            "icon_width": 25,
+            "title": "",
+            "text": "<p><strong>Save 20% When You Buy 2 or More Items — Automatically Applied</strong></p>",
+            "bg_color": "#f7f9fa",
+            "text_color": "#000000",
+            "padding_bottom": 20
+          }
+        },
+        "siblings_mBykxU": {
+          "type": "siblings",
+          "settings": {
+            "text": "FABRIC & COLOUR",
+            "siblings_product_list": [
+              "cloud-sofa-dog-bed-buttercream-boucle",
+              "cloud-sofa-dog-bed-light-khaki-linen",
+              "cloud-sofa-dog-bed-denim-blue-linen",
+              "cloud-sofa-dog-bed-oatmeal-linen",
+              "cloud-dog-bed-red-clay-linen"
+            ],
+            "show_siblings_images": false,
+            "padding_bottom": 50
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "show_labels": true,
+            "show_quantity": true,
+            "show_payment_button": false,
+            "enable_subscriptions_selectors": false,
+            "padding_bottom": 24
+          }
+        },
+        "divider_aLnPb7": {
+          "type": "divider",
+          "disabled": true,
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "popup_text_qKkdjN": {
+          "type": "popup_text",
+          "disabled": true,
+          "settings": {
+            "text": "Cloud Bed Dimensions →",
+            "popup_page": "sizing-chart-cloud-beds",
+            "padding_bottom": 20
+          }
+        },
+        "divider_geYzt8": {
+          "type": "divider",
+          "settings": {
+            "show_line": false,
+            "padding_bottom": 4
+          }
+        },
+        "product_accordion_EgJBnt": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "Overview",
+            "heading_style": "font-body",
+            "accordion_text": "<p>Give your dog the ultimate comfort with the <strong>Cloud Dog Bed</strong>. Featuring a half-bolster pillow and a spacious flat mattress, it offers soft headrest support and plenty of room for your dog to stretch out. Engineered with orthopaedic foam and cooling gel memory foam, this bed provides joint support without the firmness of traditional bolster beds. Its low-profile design ensures small and medium dogs can easily hop on and off</p><p>The <strong>Cloud Bed in Buttercream Boucle</strong> exudes sophisticated elegance, crafted from a premium boucle fabric that’s both soft and durable. This luxurious texture adds a refined, cosy touch to your home while maintaining a modern and minimalist aesthetic. Its light, neutral tone effortlessly complements your decor, creating a serene, inviting retreat for your beloved dog.</p>",
+            "accordion_page": "",
+            "padding_bottom": 8
+          }
+        },
+        "divider_BqtPmc": {
+          "type": "divider",
+          "disabled": true,
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "divider_mCGpk4": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 24
+          }
+        },
+        "product_accordion_pVaAR7": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "Materials and Care",
+            "heading_style": "font-body",
+            "accordion_text": "<p><strong>Mattress</strong></p><ul><li>Supportive foam base layer with a cooling gel memory foam top layer</li><li>Shredded memory foam bolster pillow</li><li>Waterproof liner<br/></li></ul><p><strong>Fabric Cover</strong></p><ul><li>Premium upholstery Boucle fabric</li><li>GSM: 600gsm</li><li>OEKO-TEX 100 Certified (no nasties)</li></ul><p><strong>Care</strong></p><ul><li>Wash with cold water or on a low temperature, using a gentle spin cycle</li><li>Wash separately</li><li>Use mild detergent</li><li>Line dry when possible</li><li>Spot clean stains promptly </li></ul>",
+            "accordion_page": "",
+            "padding_bottom": 8
+          }
+        },
+        "divider_fQNkfe": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 24
+          }
+        },
+        "product_accordion_pwC9id": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "Features",
+            "heading_style": "font-body",
+            "accordion_text": "<ul><li>Unlike other beds that are too firm and designed for larger, heavier dogs, our Cloud Bed strikes the perfect balance between soft and orthopaedic support. </li><li>It’s soft enough for lighter dogs to rest their heads on, while providing premium joint support for a truly restful sleep experience.</li><li>The unique design provides enough space to sprawl out, while offering a half-bolster pillow made from shredded memory foam</li><li>CertiPUR-US certified foam with a cooling gel memory foam topper</li><li>Machine washable cover</li><li>Upholstery Boucle fabric</li><li>OEKO-TEX Standard 100 certified</li></ul>",
+            "accordion_page": "",
+            "padding_bottom": 8
+          }
+        },
+        "divider_edfXDJ": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 24
+          }
+        },
+        "product_accordion_LU9thP": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "Delivery and Warranty",
+            "heading_style": "font-body",
+            "accordion_text": "<p><strong>Enjoy FREE standard delivery </strong></p><ul><li>Orders are dispatched from our Sydney warehouse within 1 - 2 business days.</li><li>Delivery time typically is between 2 - 10 business days, depending on your location.</li><li>We will send your tracking number once order is dispatched.</li></ul><p><strong>Warranty Guarantee<br/></strong>Shop with peace of mind - we offer a 12 month warranty on manufacturing defects.</p>",
+            "accordion_page": "",
+            "padding_bottom": 8
+          }
+        },
+        "divider_fUrHVe": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 40
+          }
+        },
+        "icon_row_hRdinw": {
+          "type": "icon_row",
+          "settings": {
+            "icon_name_1": "truck",
+            "icon_color_1": "",
+            "icon_width_1": 20,
+            "icon_text_1": "Free & Reliable Delivery",
+            "icon_name_2": "map-pin",
+            "icon_color_2": "",
+            "icon_width_2": 20,
+            "icon_text_2": "Based in Sydney Australia",
+            "icon_name_3": "check",
+            "icon_color_3": "",
+            "icon_width_3": 20,
+            "icon_text_3": "12 Month Warranty Guarantee",
+            "icon_name_4": "star",
+            "icon_color_4": "",
+            "icon_width_4": 20,
+            "icon_text_4": "Top Rated 5 Star Reviews",
+            "alignment": "left",
+            "bg_color": "rgba(0,0,0,0)",
+            "padding_bottom": 20
+          }
+        },
+        "divider_6EmdKJ": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 46
+          }
+        },
+        "feature_HVUQWw": {
+          "type": "feature",
+          "settings": {
+            "icon_name": "support",
+            "icon_width": 20,
+            "title": "Have a question? Chat with us!",
+            "text": "<p>Click the chat bubble icon to connect instantly with our team, or email us anytime at <a href=\"mailto:hello@koozipets.com.au&quot;>hello@koozipets.com.au\" title=\"mailto:hello@koozipets.com.au&quot;>hello@koozipets.com.au\">hello@koozipets.com.au</a>.</p>",
+            "bg_color": "rgba(0,0,0,0)",
+            "text_color": "#000000",
+            "padding_bottom": 20
+          }
+        },
+        "feature_DHbW39": {
+          "type": "feature",
+          "disabled": true,
+          "settings": {
+            "icon_name": "none",
+            "icon_width": 25,
+            "title": "",
+            "text": "<h5><strong>BUY ANY 2 ITEMS SAVE 20% OFF YOUR ORDER </strong></h5><p>DISCOUNT IS APPLIED AUTOMATICALLY AT CHECKOUT<strong> </strong></p>",
+            "bg_color": "#ffffff",
+            "text_color": "#000000",
+            "padding_bottom": 0
+          }
+        },
+        "upsell_QU9Rfe": {
+          "type": "upsell",
+          "disabled": true,
+          "settings": {
+            "product_list": [
+              "plush-flat-dog-bed-buttercream-boucle",
+              "soft-topper-dove-grey",
+              "plush-flat-dog-bed-light-khaki-linen"
+            ],
+            "padding_bottom": 20
+          }
+        }
+      },
+      "block_order": [
+        "divider_xQtPj8",
+        "title",
+        "judge_me_reviews_preview_badge_8Qj9rb",
+        "divider_AAMAt3",
+        "description",
+        "inventory_countdown",
+        "divider_Yg4FbR",
+        "feature_nPjEBJ",
+        "feature_B8i6ri",
+        "siblings_mBykxU",
+        "form",
+        "divider_aLnPb7",
+        "popup_text_qKkdjN",
+        "divider_geYzt8",
+        "product_accordion_EgJBnt",
+        "divider_BqtPmc",
+        "divider_mCGpk4",
+        "product_accordion_pVaAR7",
+        "divider_fQNkfe",
+        "product_accordion_pwC9id",
+        "divider_edfXDJ",
+        "product_accordion_LU9thP",
+        "divider_fUrHVe",
+        "icon_row_hRdinw",
+        "divider_6EmdKJ",
+        "feature_HVUQWw",
+        "feature_DHbW39",
+        "upsell_QU9Rfe"
+      ],
+      "custom_css": [
+        "h5 {font-size: 15px;}",
+        "h1 {font-size: 20px;}",
+        ".radio__fieldset .radio__input:checked ~ .radio__label {border-width: 2px;}",
+        ".radio__label {font-size: 12px;}",
+        ".icons-row-block__text {font-size: 12px;}"
+      ],
+      "settings": {
+        "product_sticky_enable": true,
+        "image_layout": "grid",
+        "image_width": "large",
+        "product_image_aspect_ratio": true,
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "bg_color": "",
+        "width": "wrapper--full-padded",
+        "padding_top": 40,
+        "padding_bottom": 22
+      }
+    },
+    "section_text_QicAWX": {
+      "type": "section-text",
+      "blocks": {
+        "subheading_dcXwDk": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p>Details you'll love</p>",
+            "size": 100,
+            "margin_bottom": 16
+          }
+        },
+        "heading_CwpAjx": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>The Cloud Bed Difference</p>",
+            "size": 115,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_dcXwDk",
+        "heading_CwpAjx"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 68,
+        "padding_bottom": 10
+      }
+    },
+    "section_icons_row_EqCzMD": {
+      "type": "section-icons-row",
+      "blocks": {
+        "text_cfbiLT": {
+          "type": "text",
+          "settings": {
+            "icon_name": "smile",
+            "icon_image": "shopify://shop_images/dfsvd.png",
+            "title": "Thick Boucle Covers",
+            "text": "<p>Warm, cosy and timeless in style</p>"
+          }
+        },
+        "text_pkGyF7": {
+          "type": "text",
+          "settings": {
+            "icon_name": "check",
+            "title": "Half-bolster shape",
+            "text": "<p>Sleek design & more space to stretch out</p>"
+          }
+        },
+        "text_x4z8zR": {
+          "type": "text",
+          "settings": {
+            "icon_name": "none",
+            "icon_image": "shopify://shop_images/cglouyfd.png",
+            "title": "Cloud-like Chin Rest",
+            "text": "<p>Soft enough for small and medium dogs</p>"
+          }
+        },
+        "text_BDB8he": {
+          "type": "text",
+          "settings": {
+            "icon_name": "storefront",
+            "icon_image": "shopify://shop_images/mattress-pad-bed-12-512.webp",
+            "title": "Cooling-gel mattress",
+            "text": "<p>Joint support & temperature regulation</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_cfbiLT",
+        "text_pkGyF7",
+        "text_x4z8zR",
+        "text_BDB8he"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "alignment": "center",
+        "columns": 4,
+        "icons_width": 20,
+        "show_vertical_borders": false,
+        "show_horizontal_borders": false,
+        "heading_size": 90,
+        "text_size": 80,
+        "bg_color": "",
+        "text_color": "#333333",
+        "box_color": "#f5f4f1",
+        "color_border": "#333333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "layout_mobile": "stacked",
+        "width": "wrapper",
+        "padding_top": 22,
+        "padding_bottom": 44
+      }
+    },
+    "section_split_images_nRBVba": {
+      "type": "section-split-images",
+      "blocks": {
+        "image_jbJnmm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-229.jpg"
+          }
+        },
+        "image_nbeyNB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/hjui.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_jbJnmm",
+        "image_nbeyNB"
+      ],
+      "settings": {
+        "image_height": "six-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_image_height": "one-fifth-height-mobile",
+        "mobile_layout": "first-block",
+        "text_position": "middle-center",
+        "overlay_opacity": 0,
+        "width": "wrapper--narrow",
+        "text_color": "text-light",
+        "title": "",
+        "heading_highlight_type": "italics",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "heading_size": 120,
+        "text": "",
+        "button_1_text": "",
+        "button_1_link": "",
+        "button_1_color": "btn--white",
+        "button_1_style": "btn--solid-border",
+        "button_1_size": "btn--small",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_color": "btn--black",
+        "button_2_style": "btn--solid",
+        "button_2_size": "btn--small"
+      }
+    },
+    "section_image_with_text_crjw7b": {
+      "type": "section-image-with-text",
+      "disabled": true,
+      "settings": {
+        "section_height": "five-fifty-height",
+        "layout": "inline",
+        "image_location": "right",
+        "image_width": "standard",
+        "image": "shopify://shop_images/boucle-cloud-bed-koozi_copy.jpg",
+        "subheading": "",
+        "title": "<p><strong>Cloud-like comfort for your dog.</strong></p><p>A sleek addition to your home.</p>",
+        "heading_highlight_type": "circle",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "heading_size": 100,
+        "content": "<p>Crafted for dreamy slumbers, the Cloud Bed provides a peaceful comfy retreat for your dog, while blending in with your interiors. It's  for style-driven dog parents who care about quality. </p>",
+        "text_alignment": "left",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "video_link": "",
+        "text_color": "text-dark",
+        "bg_color": "",
+        "gradient": "linear-gradient(0deg, rgba(236, 235, 231, 1), rgba(255, 255, 255, 1) 71%)",
+        "section_width": "wrapper--full-padded",
+        "padding_top": 0,
+        "padding_bottom": 70
+      }
+    },
+    "section_text_GUAKkk": {
+      "type": "section-text",
+      "blocks": {
+        "heading_WbWE6P": {
+          "type": "heading",
+          "settings": {
+            "text": "<h1>Your Dog's Best Nap Is On A Cloud</h1><p></p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "text_7QHyVL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This is a dog bed that offers it all - stretch out, curl up, or sink into a chin-rest bolster that's as soft as your pillow.</p>",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "heading_WbWE6P",
+        "text_7QHyVL"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 46,
+        "padding_bottom": 18
+      }
+    },
+    "section_accordions_X3bchW": {
+      "type": "section-accordions",
+      "blocks": {
+        "text_kpV98H": {
+          "type": "text",
+          "settings": {
+            "title": "How is the Cloud Bed different from other dog beds?",
+            "text": "<h5>Your dog deserves the best of both worlds. And unlike traditional full-bolster beds  that can feel cramped for your dog or bulky in your home, the half-bolster design creates a perfect balance.<br/><br/>Instead of a chin rest bolster all the way around, the Cloud Bed's bolster wraps around 3/4 of the bed. This provides extra flat bed space for your dog to stretch out comfortably, and its also easier for smaller dogs or older dogs to get on and off - no need to strain their bodies climbing over a bolster. <br/><br/>We've also made the bolster softer, delivering a more gentle chin-rest support for dogs to rest their head. </h5>"
+          }
+        },
+        "text_N6h8Yz": {
+          "type": "text",
+          "settings": {
+            "title": "Why is this bed ideal for smaller breeds?",
+            "text": "<h5>The Koozi Cloud Bed is thoughtfully designed for small and medium dogs, offering the ideal combination of comfort and support.</h5><h5> Its low-profile design ensures easy access, especially for smaller or senior dogs. The half-bolster shape provides ample room for dogs to stretch out naturally, while the soft chin-rest is perfect for smaller breeds to relax comfortably. </h5><h5>Whether your dog prefers to curl up or sprawl out, this bed caters to their unique needs, creating a cozy retreat tailored for restful sleep.</h5>"
+          }
+        },
+        "text_8DgVzU": {
+          "type": "text",
+          "settings": {
+            "title": "How will this bed fit with my home interiors ?",
+            "text": "<h5>This bed will look better in your home than any other dog bed. With its sleek, sofa-inspired design and premium boucle cover, the Koozi Cloud Bed blends seamlessly into your living space, adding a touch of elegance while providing ultimate comfort for your dog.<br/></h5><h5>Unlike bulky donut or bolster beds, its streamlined shape takes up less space and enhances your home’s style—making it a bed you’ll want to showcase, not hide.</h5>"
+          }
+        },
+        "text_xapy73": {
+          "type": "text",
+          "settings": {
+            "title": "Do I need to buy the boucle cover separately?",
+            "text": "<h5>No not at all - you shouldn't have to double up your expenses when investing in your dog's forever bed.<br/>Unlike other beds that require an extra cover for a stylish look, our bed comes ready with a premium boucle fabric cover that complements your décor. It’s an investment in both style and comfort.</h5>"
+          }
+        },
+        "text_WREKgB": {
+          "type": "text",
+          "settings": {
+            "title": "What are the benefits of cooling gel memory foam?",
+            "text": "<h5>Cooling gel memory foam helps regulate temperature by drawing heat away from the body, keeping your dog cool and comfortable during warmer nights.</h5><h5>It offers pressure relief by conforming to your dog’s body, providing joint support while reducing firm discomfort. The cooling properties make it ideal for dogs prone to overheating, ensuring they can rest peacefully without the discomfort of excessive warmth.</h5><h5>It’s perfect for creating a balanced sleep environment with both comfort and temperature control.</h5>"
+          }
+        },
+        "text_QNqPeq": {
+          "type": "text",
+          "settings": {
+            "title": "How durable is the Cloud bed?",
+            "text": "<h5>Koozi's Cloud Bed is built to last with memory foam that maintains its shape and support over time. The premium boucle cover is extra thick and designed for everyday use, while the waterproof inner liner ensures the bed stays clean and dry. It's a bed made for durability, offering long-lasting comfort and style for both you and your dog.</h5>"
+          }
+        }
+      },
+      "block_order": [
+        "text_kpV98H",
+        "text_N6h8Yz",
+        "text_8DgVzU",
+        "text_xapy73",
+        "text_WREKgB",
+        "text_QNqPeq"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": true,
+        "title": "",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "rgba(0,0,0,0)",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--full-padded",
+        "padding_top": 54,
+        "padding_bottom": 46
+      }
+    },
+    "section_columns_mYJrjp": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_EyyjMQ": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-STUDIO-332.jpg",
+            "title": "New Space-Enhancing Half Bolster Design",
+            "text": "<p>Our Cloud Bed combines plush memory foam comfort with orthopedic joint support, featuring a half-bolster pillow design that maximises space, allowing dogs to fully stretch out in their natural sleeping position. </p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_kKGmzc": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Cloudbed_small-boucle1_9788a920-21b6-42a1-86d3-b5e3e995c063.jpg",
+            "title": "The Perfect Memory Foam pillow",
+            "text": "<p>Unlike other firm, high bolster beds, our thoughtfully designed pillow features a gentle, lower profile that offers a soft plush experience for small to medium dogs. This ensures they can rest comfortably without awkward neck positioning, promoting better posture and a truly restful slumber.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_hM494i": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-STUDIO-329.jpg",
+            "title": "Supportive low-profile mattress",
+            "text": "<p>Our mattress combines the plush softness of premium, <a href=\"http://www.certipur.us/\" title=\"CertiPUR-US®\">CertiPUR-US®</a> certified memory foam with a cooling gel layer for enhanced breathability. This thoughtful design ensures your dog receives the ideal support for their body while staying comfortably cool during warmer months. The low-profile design also makes it easy for dogs to step on and off, providing effortless access to a restful sleep.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_EyyjMQ",
+        "text_block_kKGmzc",
+        "text_block_hM494i"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "columns": 3,
+        "columns_mobile": "1",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 1.2,
+        "mobile_aspect_ratio": 1,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color_secondary": false,
+        "color_borders": "#000000",
+        "layout_mobile": "stacked",
+        "width": "wrapper",
+        "padding_top": 30,
+        "padding_bottom": 40
+      }
+    },
+    "section_columns_H4He6w": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_dnhFRP": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Boucle_buttercream_cloud_bed.jpg",
+            "title": "The Half-Bolster Design Advantage",
+            "text": "<p>The bolster pillow, or \"chin rest,\" wraps around three-quarters of the bed, creating more flat space for your dog to stretch out. It makes it easier for smaller breeds and senior dogs to hop on and off without strain. The memory foam chin rest provides gentle support for lighter heads, enhancing comfort while maintaining a sleek, minimalist look.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_JnybQP": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Boucle_buttercream_cloud_dog_bed_koozi.jpg",
+            "title": "Cloud-Like Support & Cooling Gel Memory Foam",
+            "text": "<p>The mattress features layers of CertiPUR-US® certified foam and cooling gel memory foam, providing multi-layered support, cloud-like comfort, and enhanced breathability - ideal for small to medium dogs.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_Da6T9i": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Cloudbed_small-boucle1_9788a920-21b6-42a1-86d3-b5e3e995c063.jpg",
+            "title": "Contouring Chin Rest Pillow",
+            "text": "<p>Unlike firm, high bolster beds, our soft, low-profile pillow offers soft comfort for small to medium dogs, promoting better posture and restful sleep. they can sink into it without straining their neck</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_dnhFRP",
+        "text_block_JnybQP",
+        "text_block_Da6T9i"
+      ],
+      "custom_css": [
+        "h2 {font-size: 28px;}"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "columns": 3,
+        "columns_mobile": "1",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 1.1,
+        "mobile_aspect_ratio": 1,
+        "heading_size": 130,
+        "text_size": 90,
+        "bg_color_secondary": false,
+        "color_borders": "rgba(0,0,0,0)",
+        "layout_mobile": "stacked",
+        "width": "wrapper--full-padded",
+        "padding_top": 24,
+        "padding_bottom": 0
+      }
+    },
+    "section_divider_PAKfGT": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": false,
+        "width": "wrapper--full",
+        "padding_top": 14,
+        "padding_bottom": 0
+      }
+    },
+    "section_columns_UkPFxy": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_jJEnpF": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-STUDIO-329_293c5931-b135-443c-bfdf-4e2b0c24c435.jpg",
+            "title": "Durable & Designed to Last",
+            "text": "<p>The Cloud Bed is built to last with quality craftsmanship and premium materials, making it the perfect choice for your dog’s forever bed. Designed for durability, it offers a supportive retreat that adapts to puppies and senior dogs alike, ensuring a restful retreat for years to come.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_wp3beH": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-STUDIO-332_1.jpg",
+            "title": "Premium Upholstery Boucle Fabric Cover",
+            "text": "<p>Our Boucle cover is made from heavyweight 600gsm upholstery fabric. With a textured, creamy tone and plush, cosy feel, it delivers comfort and style. OEKO-TEX Standard 100 certified -  it’s free from any harmful substances.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_hhaLBY": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-STUDIO-79.jpg",
+            "title": "Built-in Waterproof Liner & Non-Slip Base",
+            "text": "<p>The interior features a waterproof liner for protection against accidents, while the non-slip base minimises movement, ensuring stability and comfort as your dog gets in and out.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_jJEnpF",
+        "text_block_wp3beH",
+        "text_block_hhaLBY"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "columns": 3,
+        "columns_mobile": "1",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 1,
+        "mobile_aspect_ratio": 1,
+        "heading_size": 130,
+        "text_size": 90,
+        "bg_color_secondary": false,
+        "color_borders": "#000000",
+        "layout_mobile": "stacked",
+        "width": "wrapper--full-padded",
+        "padding_top": 36,
+        "padding_bottom": 40
+      }
+    },
+    "section_icons_row_U7j4Y4": {
+      "type": "section-icons-row",
+      "blocks": {
+        "text_XFLzEa": {
+          "type": "text",
+          "settings": {
+            "icon_name": "package",
+            "title": "Fast, Easy, No-Fuss Assembly",
+            "text": ""
+          }
+        },
+        "text_fhenUG": {
+          "type": "text",
+          "settings": {
+            "icon_name": "shield",
+            "title": "Fitted with YKK Zippers and a Hidden Tuck Pouch",
+            "text": ""
+          }
+        },
+        "text_UcgwXf": {
+          "type": "text",
+          "settings": {
+            "icon_name": "paw-heart",
+            "title": "Promotes Overall  Sleep Quality",
+            "text": ""
+          }
+        },
+        "text_aHDHUP": {
+          "type": "text",
+          "settings": {
+            "icon_name": "dishwasher-safe",
+            "title": "Machine Washable, Removable Covers",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_XFLzEa",
+        "text_fhenUG",
+        "text_UcgwXf",
+        "text_aHDHUP"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "alignment": "center",
+        "columns": 4,
+        "icons_width": 20,
+        "show_vertical_borders": false,
+        "show_horizontal_borders": true,
+        "heading_size": 80,
+        "text_size": 90,
+        "bg_color": "rgba(0,0,0,0)",
+        "text_color": "#333333",
+        "box_color": "#ecebe7",
+        "color_border": "#333333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "layout_mobile": "stacked",
+        "width": "wrapper",
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "section_text_XJc6bC": {
+      "type": "section-text",
+      "blocks": {
+        "heading_N9jbHh": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Why You'll Love Our Buttercream Boucle Fabric Covers</p>",
+            "size": 95,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "text_FhCNWf": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "heading_N9jbHh",
+        "text_FhCNWf"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "section_image_with_text_xTac4H": {
+      "type": "section-image-with-text",
+      "settings": {
+        "section_height": "five-fifty-height",
+        "layout": "inline",
+        "image_location": "left",
+        "image_width": "standard",
+        "image": "shopify://shop_images/Boucle-cloud-bed-bailey-koozi.jpg",
+        "subheading": "",
+        "title": "",
+        "heading_highlight_type": "circle",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "heading_size": 130,
+        "content": "<h1>Why You'll Love Our Buttercream Boucle Fabric Cover<br/> <br/></h1><p><strong>Elevated and Timeless Style</strong></p><p>Our Cloud Bed in Buttercream Boucle fabric offers seamless integration into any home. With its neutral creamy tone and plush, luxurious texture, its the ultimate cosy retreat for your dog.<br/><br/></p><p><strong>Thick and Durable Fabric</strong></p><p>Crafted with heavy 600 GSM upholstery-grade boucle the same quality used for human sofas - it ensures unmatched quality and style for your home, and your dog's ultimate comfort. Plus its machine washable.<br/><br/></p><p><strong>Cosy and Snug Texture</strong></p><p>The boucle texture offers a snug, cosy feel that’s perfect for any time of year, especially during cooler evenings. Its inviting design encourages your dog to curl up and relax while adding a stylish touch to your living room or bedside interiors.</p>",
+        "text_alignment": "left",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "video_link": "",
+        "text_color": "text-dark",
+        "bg_color": "",
+        "gradient": "",
+        "section_width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_divider_Q7g6my": {
+      "type": "section-divider",
+      "disabled": true,
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "section_columns_A68VP9": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_EnypJw": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-246-2_ad8b1094-ba99-4e37-a52f-28941f14ddee.jpg",
+            "title": "Elevated and Timeless Style",
+            "text": "<p>Our Cloud Bed in Buttercream Boucle fabric offers seamless integration into any home. With its neutral creamy tone and plush, luxurious texture, its the ultimate cosy retreat for your dog.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_Wch6gB": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/099A1169.jpg",
+            "title": "Thick and Durable Fabric",
+            "text": "<p>Crafted with heavy 600 GSM upholstery-grade boucle the same quality used for human sofas - it ensures unmatched quality and style for your home, and your dog's ultimate comfort. Plus its machine washable.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_kmaBCH": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Boucle-cloud-bed-bailey-koozi.jpg",
+            "title": "Cosy and Snug Texture",
+            "text": "<p>The boucle texture offers a snug, cosy feel that’s perfect for any time of year, especially during cooler evenings. Its inviting design encourages your dog to curl up and relax while adding a stylish touch to your living room or bedside interiors.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_EnypJw",
+        "text_block_Wch6gB",
+        "text_block_kmaBCH"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "columns": 3,
+        "columns_mobile": "1",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 1.2,
+        "mobile_aspect_ratio": 1.1,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color_secondary": false,
+        "color_borders": "#000000",
+        "layout_mobile": "carousel",
+        "width": "wrapper",
+        "padding_top": 46,
+        "padding_bottom": 50
+      }
+    },
+    "section_divider_PyerjX": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 28
+      }
+    },
+    "tabs": {
+      "type": "section-accordions",
+      "blocks": {
+        "acordion-2": {
+          "type": "text",
+          "settings": {
+            "title": "How do I care for the Cloud Sofa Dog Bed?",
+            "text": "<p>Caring for your bed is simple!</p><ol><li><strong>Boucle Cover:</strong> The zip-off cover can be easily removed and machine washed on a low-temperature, gentle cycle with mild detergent. For best results, lay flat to dry. Remember to remove the memory foam bolster using the internal zipper.</li><li><strong>Waterproof Liner:</strong> Wipe down the waterproof liner with a spray or soapy water for easy cleaning.</li><li><strong>Foam Core:</strong> If you need to clean the foam, wipe it down with warm, soapy water. Allow it to dry completely in a dry place to ensure all moisture is removed before reassembling the bed.</li></ol><p>By following these care instructions, you can keep your bed looking and feeling fresh!</p>"
+          }
+        },
+        "text_zEEDeh": {
+          "type": "text",
+          "settings": {
+            "title": "How do I assemble the bed?",
+            "text": "<p>No assembly is required. Once you unbox your dog's new bed, it will begin to expand. Your dog can use it immediately, but it may take a few hours, and up to 24 hours for the mattress to completely expand.</p>"
+          }
+        },
+        "acordion-0": {
+          "type": "text",
+          "settings": {
+            "title": "What does OEKO-TEX Standard 100 mean?",
+            "text": "<p>OEKO-TEX Standard 100 is a certification that ensures our boucle covers and foam are free from harmful substances and chemicals, making them safe for both pets and humans.<br/><br/>This certification guarantees that the fabric meets strict safety and environmental criteria, reflecting our commitment to quality and sustainability. By choosing OEKO-TEX certified covers, you can trust that you are providing a safe, durable, and eco-friendly option for your dog.</p>"
+          }
+        },
+        "acordion-1": {
+          "type": "text",
+          "settings": {
+            "title": "Warranty and Returns",
+            "text": "<h5>Returns and Exchanges</h5><p><strong>For Unopened & Unused Items Only</strong><br/>Unopened and unused beds can be returned within 7 days of receipt for a full refund or exchange. Please ensure you have not cut the vacuum seal. To check the size, carefully open the box and unroll the vacuum-sealed item without breaking the seal. If it’s not the right fit, re-roll the item, place it back in the box, and return it.</p><p>You are responsible for the cost and arrangement of return shipping.<br/><br/>Please be aware that opened beds (i.e., those with a cut vacuum seal) cannot be returned or exchanged due to handling difficulties and hygiene concerns.<br/></p><h5>Warranty</h5><p>We offer a 12-month warranty covering manufacturing defects, including faulty workmanship or materials. This warranty does not cover normal wear and tear or damages caused by dog use, such as excessive scratching, biting, accidents, chewing, or other use.</p><p>For warranty issues, please contact us within 48 hours of opening the bed at <a>hello@koozipets.com.au</a>, including images of the defective or damaged item. Failure to provide this information within the specified timeframe may void your exchange or refund.</p>"
+          }
+        },
+        "d0defd0d-94c3-403c-bd36-dc2f140a104f": {
+          "type": "text",
+          "settings": {
+            "title": "Why is CertiPUR-US® Certification important for foam beds?",
+            "text": "<p></p><p>CertiPUR-US® certified foam ensures that the foam is free from harmful chemicals and substances. Specifically, it means the foam is made without:</p><ul><li>Ozone depleters</li><li>PBDEs (Polybrominated diphenyl ethers) and certain Tris flame retardants (TCEP, TDBPP, TDCPP, TEPA)</li><li>Mercury, lead, and other heavy metals</li><li>Formaldehyde</li><li>Phthalates</li></ul><p>Additionally, CertiPUR-US® foam undergoes rigorous testing to ensure its performance, durability, emissions, and content, with analysis conducted by independent accredited laboratories. This certification helps guarantee a safer and more environmentally friendly foam product.</p>"
+          }
+        },
+        "text_6iXqQG": {
+          "type": "text",
+          "settings": {
+            "title": "Is the Cloud Sofa Dog Bed Suitable for all Dog Breeds?",
+            "text": "<p>The bed accommodates all dog breeds, from extra small to large. However, the mattress is specifically designed with softer memory foam and a lower-profile construction to cater to the comfort needs of small to medium breeds.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "acordion-2",
+        "text_zEEDeh",
+        "acordion-0",
+        "acordion-1",
+        "d0defd0d-94c3-403c-bd36-dc2f140a104f",
+        "text_6iXqQG"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": true,
+        "title": "Frequently Asked Questions",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "rgba(0,0,0,0)",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 34,
+        "padding_bottom": 60
+      }
+    },
+    "section_text_DNJDza": {
+      "type": "section-text",
+      "blocks": {
+        "heading_tLkWpN": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Real Dog Parents,</p><p>Real Moments with Koozi</p>",
+            "size": 95,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "subheading_TmkBUt": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p>Tag and follow us to be featured @koozipets</p>",
+            "size": 85,
+            "margin_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "heading_tLkWpN",
+        "subheading_TmkBUt"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": true,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 68,
+        "padding_bottom": 18
+      }
+    },
+    "section_testimonials_with_images_rUcteC": {
+      "type": "section-testimonials-with-images",
+      "blocks": {
+        "image_tqpVTb": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/luna_review.png",
+            "aspect_ratio": 1,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_UazAC7": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/IMG_0593.jpg",
+            "aspect_ratio": 1,
+            "heading": "",
+            "text_size": 130,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_VRazBT": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/IMG_0792.jpg",
+            "aspect_ratio": 1,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_VYpjBp": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/IMG_0546.jpg",
+            "aspect_ratio": 1,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_3PWqjF": {
+          "type": "image",
+          "settings": {
+            "star_rating": 0,
+            "enable_border": false,
+            "image": "shopify://shop_images/IMG_0170_f51ddcfe-55f1-4070-a078-9004afafcddd.jpg",
+            "aspect_ratio": 1,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "image_tqpVTb",
+        "image_UazAC7",
+        "image_VRazBT",
+        "image_VYpjBp",
+        "image_3PWqjF"
+      ],
+      "settings": {
+        "subheading": "",
+        "subheading_size": 100,
+        "title": "",
+        "heading_size": 100,
+        "text_alignment": "text-left",
+        "bg_color": "#ecebe7",
+        "testimonial_block_color": "",
+        "star_color": "",
+        "testimonial_text_color": "text-dark",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "17294748063a40eb19": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_bbfTpU": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_bbfTpU"
+      ],
+      "settings": {
+        "bg_color": "#ecebe7",
+        "width": "wrapper",
+        "padding_top": 32,
+        "padding_bottom": 60
+      }
+    },
+    "related": {
+      "type": "related-products",
+      "blocks": {
+        "related": {
+          "type": "related",
+          "settings": {
+            "title": "You May Also Like",
+            "product_recommendations_limit": 4
+          }
+        },
+        "recent": {
+          "type": "recent",
+          "settings": {
+            "title": "Recently viewed",
+            "product_recently_limit": 4
+          }
+        }
+      },
+      "block_order": [
+        "related",
+        "recent"
+      ],
+      "settings": {
+        "enable_tabs": true,
+        "columns_mobile": "1",
+        "type_style": "subheading-text",
+        "tab_heading_size": 120,
+        "bg_color": "",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_text_QicAWX",
+    "section_icons_row_EqCzMD",
+    "section_split_images_nRBVba",
+    "section_image_with_text_crjw7b",
+    "section_text_GUAKkk",
+    "section_accordions_X3bchW",
+    "section_columns_mYJrjp",
+    "section_columns_H4He6w",
+    "section_divider_PAKfGT",
+    "section_columns_UkPFxy",
+    "section_icons_row_U7j4Y4",
+    "section_text_XJc6bC",
+    "section_image_with_text_xTac4H",
+    "section_divider_Q7g6my",
+    "section_columns_A68VP9",
+    "section_divider_PyerjX",
+    "tabs",
+    "section_text_DNJDza",
+    "section_testimonials_with_images_rUcteC",
+    "17294748063a40eb19",
+    "related"
+  ]
+}

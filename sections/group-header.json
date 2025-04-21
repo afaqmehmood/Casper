@@ -1,0 +1,324 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "Header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "text_iLiGHK": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p> 10% ON YOUR 1ST ORDER |  <a href=\"/pages/koozi-community-sign-up\" target=\"_blank\" title=\"Koozi Community Sign Up\">JOIN NOW</a></p>",
+            "text_color": "",
+            "heading_highlight_type": "circle",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000",
+            "icon_name": "none",
+            "icon_color": "",
+            "icon_width": 20,
+            "target_url_enabled": false,
+            "target_url": "shopify://pages/koozi-community-sign-up",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        },
+        "text_tLPPyA": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p><strong>20% AUTUMN SALE IS NOW ON | LIMITED TIME ONLY</strong></p>",
+            "text_color": "",
+            "heading_highlight_type": "circle",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000",
+            "icon_name": "paw-heart",
+            "icon_color": "",
+            "icon_width": 20,
+            "target_url_enabled": false,
+            "target_url": "",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        },
+        "announcement-0": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>20% Autumn Sale + FREE Shipping</strong></p>",
+            "text_color": "#edede9",
+            "heading_highlight_type": "squiggle",
+            "highlight_color": "#3a5b9e",
+            "highlight_text_color": "#f1eee8",
+            "icon_name": "truck",
+            "icon_color": "#edecec",
+            "icon_width": 20,
+            "target_url_enabled": false,
+            "target_url": "shopify://products/dog-crate-side-table",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        }
+      },
+      "block_order": [
+        "text_iLiGHK",
+        "text_tLPPyA",
+        "announcement-0"
+      ],
+      "settings": {
+        "layout": "slider",
+        "show_top_border": false,
+        "show_bottom_border": true,
+        "padding": 10,
+        "slider_speed": 5,
+        "show_arrows": true,
+        "marquee_speed": 75,
+        "direction": "ticker-ltr",
+        "text_caps": false,
+        "type_style": "font-body",
+        "text_size": 115,
+        "letter_spacing": 50,
+        "message_spacing": 40,
+        "bg_color": "#655c83",
+        "gradient": "",
+        "color": "#edede9",
+        "border_color": "#edecec"
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "image_LxtwaP": {
+          "type": "image",
+          "settings": {
+            "position": "2",
+            "image_second_menu": false,
+            "image": "shopify://shop_images/dvc_9b167ad6-eb1f-4b27-a35e-c89e9580ff5d.jpg",
+            "aspect_ratio": 1,
+            "wide_image": false,
+            "title": "Cloud Beds",
+            "heading_size": 70,
+            "link_text": "",
+            "link": "shopify://collections/cloud-dog-beds"
+          }
+        },
+        "image_8z98mg": {
+          "type": "image",
+          "settings": {
+            "position": "2",
+            "image_second_menu": false,
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-335.jpg",
+            "aspect_ratio": 1,
+            "wide_image": false,
+            "title": "Flat Dog Beds",
+            "heading_size": 70,
+            "link_text": "",
+            "link": "shopify://collections/flat-dog-beds"
+          }
+        },
+        "image_kLz7RE": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "position": "4",
+            "image_second_menu": false,
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-251.jpg",
+            "aspect_ratio": 1,
+            "wide_image": false,
+            "title": "Sofa Toppers",
+            "heading_size": 70,
+            "link_text": "",
+            "link": "shopify://collections/sofa-toppers"
+          }
+        },
+        "image_NkGbyb": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "position": "4",
+            "image_second_menu": false,
+            "image": "shopify://shop_images/Marble_Bowl_Set_Campaign.jpg",
+            "aspect_ratio": 1,
+            "wide_image": false,
+            "title": "Marble Dog Bowl Set",
+            "heading_size": 70,
+            "link_text": "",
+            "link": "shopify://products/marble-dog-bowl-set"
+          }
+        },
+        "image_RxGVBH": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "position": "1",
+            "image_second_menu": false,
+            "image": "shopify://shop_images/aefrsvd_2_2x_6c1dc9db-4945-4469-a5b9-f2f056b8c169.png",
+            "aspect_ratio": 0.9,
+            "wide_image": true,
+            "title": "KOOZI SIDE TABLE DOG CRATE",
+            "heading_size": 85,
+            "link_text": "",
+            "link": "shopify://products/dog-crate-side-table"
+          }
+        },
+        "image_KEYWqP": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "position": "1",
+            "image_second_menu": false,
+            "image": "shopify://shop_images/aefrsvd_1_2x_79748678-2c88-45f4-b439-985d41e575bd.png",
+            "aspect_ratio": 0.9,
+            "wide_image": true,
+            "title": "SHOP LUXURY DOG BEDS",
+            "heading_size": 85,
+            "link_text": "for small and medium dogs",
+            "link": "shopify://collections/all-dog-beds"
+          }
+        },
+        "ab19c0db-63ca-4489-a211-693e66e76639": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "position": "2",
+            "image_second_menu": false,
+            "image": "shopify://shop_images/side_table_crate_campaign_chewy.jpg",
+            "aspect_ratio": 1.1,
+            "wide_image": true,
+            "title": "Free Flat Bed with Crate",
+            "heading_size": 90,
+            "link_text": "Limited time only",
+            "link": "shopify://collections/shop-all"
+          }
+        },
+        "image_tNhA84": {
+          "type": "image",
+          "settings": {
+            "position": "5",
+            "image_second_menu": false,
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-174_1.jpg",
+            "aspect_ratio": 1,
+            "wide_image": false,
+            "title": "About Us",
+            "heading_size": 90,
+            "link_text": "",
+            "link": "shopify://pages/our-story"
+          }
+        },
+        "image_rxWik8": {
+          "type": "image",
+          "settings": {
+            "position": "5",
+            "image_second_menu": false,
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-117_1.jpg",
+            "aspect_ratio": 1,
+            "wide_image": false,
+            "title": "Our Fabrics and Materials",
+            "heading_size": 100,
+            "link_text": "",
+            "link": "shopify://pages/our-fabrics"
+          }
+        },
+        "image_tRbfcB": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "position": "2",
+            "image_second_menu": false,
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-73-2_1.jpg",
+            "aspect_ratio": 1,
+            "wide_image": true,
+            "title": "Best Selling",
+            "heading_size": 100,
+            "link_text": "Side Table Crate + Plush Flat Bed",
+            "link": "shopify://products/side-table-dog-crate-plush-bed"
+          }
+        },
+        "image_dqVyAQ": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "position": "3",
+            "image_second_menu": false,
+            "image": "shopify://shop_images/jhjo_2.jpg",
+            "aspect_ratio": 1.3,
+            "wide_image": true,
+            "title": "Add a FREE Crate Bed with the Side Table Dog Crate",
+            "heading_size": 125,
+            "link_text": "",
+            "link": ""
+          }
+        },
+        "image_PkhCCr": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "position": "3",
+            "image_second_menu": false,
+            "image": "shopify://shop_images/Dsv_2x_19cfc01e-cb07-44e2-99be-44a1dc485385.jpg",
+            "aspect_ratio": 1,
+            "wide_image": false,
+            "title": "BUY 2, SAVE 20%",
+            "heading_size": 65,
+            "link_text": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_LxtwaP",
+        "image_8z98mg",
+        "image_kLz7RE",
+        "image_NkGbyb",
+        "image_RxGVBH",
+        "image_KEYWqP",
+        "ab19c0db-63ca-4489-a211-693e66e76639",
+        "image_tNhA84",
+        "image_rxWik8",
+        "image_tRbfcB",
+        "image_dqVyAQ",
+        "image_PkhCCr"
+      ],
+      "custom_css": [
+        ".header-bar {border-color: #d3d3d3; /* Light grey color */}"
+      ],
+      "settings": {
+        "sticky_header": true,
+        "header_border": true,
+        "link_hover_effect": "dot",
+        "logo_not_home": "{{ shop.brand.logo }}",
+        "logo_max_width": 80,
+        "main-menu": "main-menu",
+        "main_menu_secondary": "",
+        "show_images": true,
+        "image_aspect_ratio": 1.1,
+        "menu_alignment": "center",
+        "header_icons_as_text": false,
+        "highlight_item": "Sale",
+        "highlight_item_color": "#d02e2e",
+        "header_transparent": false,
+        "logo": "shopify://shop_images/Koozi_white_logo_2x_a81a8f00-f231-4175-9d7a-5f233a8f35e0.png",
+        "header_text_color": "white",
+        "header_gradient": true
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}

@@ -1,0 +1,438 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "section_banner_image_ymkzFf": {
+      "type": "section-banner-image",
+      "blocks": {
+        "heading_EKc9ge": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "size": 180,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "heading_EKc9ge"
+      ],
+      "settings": {
+        "height": "original-height",
+        "enable_mobile_height": true,
+        "mobile_height": "original-height-mobile",
+        "image": "shopify://shop_images/Dweafs_2x_419c890b-ab27-43e5-b92e-8c90bef74e1a.png",
+        "image_mobile": "shopify://shop_images/Linen-cotton_sofa_topper_2x_8789edb7-6dd0-46ea-98be-f9e4997fcf84.png",
+        "overlay_opacity": 0,
+        "transition": "fade",
+        "enable_zoom_animation": false,
+        "enable_card_scrolling": false,
+        "increase_border_radius": false,
+        "text_width": "narrow",
+        "text_position": "left",
+        "text_alignment": "text-left",
+        "text_color": "text-light"
+      }
+    },
+    "section_text_4fGLMc": {
+      "type": "section-text",
+      "blocks": {
+        "heading_ffmzcM": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>{{ collection.title }}</p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ffmzcM"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_position": "left",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 24
+      }
+    },
+    "section_divider_YfGpJd": {
+      "type": "section-divider",
+      "disabled": true,
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "padding_top": 14,
+        "padding_bottom": 14
+      }
+    },
+    "hero": {
+      "type": "collection-image-with-title",
+      "disabled": true,
+      "settings": {
+        "banner_height": "one-third-height",
+        "text_position": "middle-center",
+        "show_image": true,
+        "text_color": "text-dark",
+        "overlay_opacity": 10,
+        "bg_color_secondary": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "subcollections": {
+      "type": "subcollections",
+      "disabled": true,
+      "settings": {
+        "subcollections": [],
+        "limit": 8,
+        "layout": "grid",
+        "image_source": "collection",
+        "image_aspect_ratio": 0.6,
+        "image_overlay_opacity": 10,
+        "bg_color": "",
+        "text_color": "text-light",
+        "padding_top": 30,
+        "padding_bottom": 14
+      }
+    },
+    "main": {
+      "type": "collection",
+      "blocks": {
+        "96343c36-f832-4740-8cd6-2a90dcf9e4d9": {
+          "type": "promo",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-237_1.jpg",
+            "position": 5,
+            "width": "half",
+            "title": "<p>Shop the Retreat Set:</p>",
+            "heading_highlight_type": "circle",
+            "highlight_color": "#fbcaff",
+            "highlight_text_color": "#ffffff",
+            "heading_size": 100,
+            "content": "Our best selling bundle",
+            "text_size": 100,
+            "text_color": "text-light",
+            "text_position": "bottom-left",
+            "layout": "stacked",
+            "overlay_opacity": 30,
+            "bg_color": "#f5f4f1",
+            "button_text": "",
+            "button_link": "shopify://products/retreat-set-linen",
+            "button_color": "btn--white",
+            "button_style": "btn--solid-border",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "96343c36-f832-4740-8cd6-2a90dcf9e4d9"
+      ],
+      "custom_css": [
+        ".product-grid-item__price {font-size: calc( 0.7rem * var(--adjust-product-grid) ) !important; /* Adjust this value to make the price smaller */}",
+        ".product-grid-item__title {font-size: calc( 0.8rem * var(--adjust-product-grid-heading) ) !important; /* Adjust this value */}",
+        ".price {display: none !important;}"
+      ],
+      "settings": {
+        "show_breadcrumbs": false,
+        "enable_sorting": true,
+        "enable_filters": false,
+        "filters_layout": "closed",
+        "show_more": true,
+        "filter_mode": "default",
+        "bg_color": "",
+        "padding_top": 26,
+        "padding_bottom": 6
+      }
+    },
+    "section_columns_Ywchky": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_eVWicE": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/sofa_topper_milk_linen_yelana_campaign.jpg",
+            "title": "A stylish, versatile alternative to Couch Covers",
+            "text": "<p>Shield your sofa from pet paws, accidents, scratching, and hair with a versatile linen-cotton topper. Designed to drape over your furniture's most vulnerable areas.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_CTmktk": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Sofa_topper_Dove_Grey_Chewy.jpg",
+            "title": "Breathable & Durable Linen-Cotton Fabric",
+            "text": "<p>Crafted from a premium linen-cotton blend, this topper combines the durability of cotton with the breathable, luxurious feel of linen.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_7HA6Tb": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Sofa_topper_campaign_milk.jpg",
+            "title": "Waterproof & Scratchproof",
+            "text": "<p>A built-in waterproof liner guards against accidents, while the double fabric layer protects from claws - keeping your sofa safe and extending its lifespan.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_eVWicE",
+        "text_block_CTmktk",
+        "text_block_7HA6Tb"
+      ],
+      "settings": {
+        "title": "The Sofa Topper Difference",
+        "align_text": "text-center",
+        "columns": 3,
+        "columns_mobile": "1",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 0.8,
+        "mobile_aspect_ratio": 0.8,
+        "heading_size": 120,
+        "text_size": 90,
+        "bg_color_secondary": false,
+        "color_borders": "#000000",
+        "layout_mobile": "stacked",
+        "width": "wrapper",
+        "padding_top": 48,
+        "padding_bottom": 78
+      }
+    },
+    "ss_featured_collection_7_hY8bjy": {
+      "type": "ss-featured-collection-7",
+      "blocks": {
+        "slide_Td6PQg": {
+          "type": "slide",
+          "settings": {
+            "product": "",
+            "tag": "Best Seller",
+            "url": ""
+          }
+        },
+        "slide_E4tLat": {
+          "type": "slide",
+          "settings": {
+            "product": "",
+            "tag": "Best Seller",
+            "url": ""
+          }
+        },
+        "slide_ahGKwQ": {
+          "type": "slide",
+          "settings": {
+            "product": "",
+            "tag": "Best Seller",
+            "url": ""
+          }
+        },
+        "slide_hiLCMX": {
+          "type": "slide",
+          "settings": {
+            "product": "",
+            "tag": "",
+            "url": ""
+          }
+        },
+        "slide_AbP7iW": {
+          "type": "slide",
+          "settings": {
+            "product": "",
+            "tag": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_Td6PQg",
+        "slide_E4tLat",
+        "slide_ahGKwQ",
+        "slide_hiLCMX",
+        "slide_AbP7iW"
+      ],
+      "disabled": true,
+      "settings": {
+        "collection": "sofa-toppers",
+        "collection_show": 4,
+        "heading": "<p>Linen-Cotton Collection</p>",
+        "heading_custom": true,
+        "heading_font": "helvetica_n3",
+        "heading_size": 14,
+        "heading_size_mobile": 12,
+        "heading_height": 130,
+        "heading_align": "left",
+        "heading_align_mobile": "left",
+        "use_all": false,
+        "all": "",
+        "all_url": "",
+        "all_custom": false,
+        "all_font": "josefin_sans_n4",
+        "all_size": 16,
+        "all_size_mobile": 16,
+        "all_height": 130,
+        "all_arrow": true,
+        "slider_view": 2.8,
+        "slider_view_mobile": 2,
+        "slider_gap": 14,
+        "slider_gap_mobile": 10,
+        "slider_mt": 26,
+        "slider_mt_mobile": 40,
+        "image_radius": 0,
+        "image_border_thickness": 0,
+        "image_ratio": "portrait",
+        "image_ratio_mobile": "portrait",
+        "tag_custom": false,
+        "tag_font": "josefin_sans_n4",
+        "tag_size": 11,
+        "tag_size_mobile": 11,
+        "tag_height": 100,
+        "tag_padding_vertical": 5,
+        "tag_padding_vertical_mobile": 5,
+        "tag_padding_horizontal": 15,
+        "tag_padding_horizontal_mobile": 15,
+        "tag_radius": 2,
+        "tag_border_thickness": 0,
+        "title_custom": true,
+        "title_font": "helvetica_n3",
+        "title_size": 13,
+        "title_size_mobile": 12,
+        "title_height": 130,
+        "title_mt": 12,
+        "title_mt_mobile": 10,
+        "vendor_custom": false,
+        "vendor_font": "josefin_sans_n4",
+        "vendor_size": 0,
+        "vendor_size_mobile": 0,
+        "vendor_height": 50,
+        "vendor_mt": 0,
+        "vendor_mt_mobile": 0,
+        "button": "",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 14,
+        "button_size_mobile": 14,
+        "button_height": 100,
+        "button_padding_vertical": 12,
+        "button_padding_vertical_mobile": 12,
+        "button_padding_horizontal": 20,
+        "button_padding_horizontal_mobile": 12,
+        "button_radius": 6,
+        "button_border_thickness": 0,
+        "button_mt": 14,
+        "button_mt_mobile": 14,
+        "button_style": "non_outline",
+        "use_price": false,
+        "price_custom": false,
+        "price_font": "josefin_sans_n4",
+        "price_size": 14,
+        "price_size_mobile": 12,
+        "price_height": 100,
+        "price_compare": false,
+        "navigation_mt": 20,
+        "navigation_mt_mobile": 32,
+        "arrow_size": 36,
+        "arrow_size_mobile": 36,
+        "arrow_icon_size": 7,
+        "arrow_icon_size_mobile": 7,
+        "arrow_border_thickness": 0.5,
+        "arrow_radius": 100,
+        "arrow_hover_effect": "color",
+        "arrow_show_desktop": false,
+        "arrow_show_mobile": false,
+        "scrollbar_height": 3,
+        "scrollbar_show_desktop": false,
+        "scrollbar_show_mobile": false,
+        "image_border_color": "#000000",
+        "tag_color": "#3a3a3a",
+        "tag_bg_color": "#d8fdb0",
+        "tag_border_color": "#000000",
+        "title_color": "#000000",
+        "vendor_color": "#000000",
+        "price_color": "#ffffff",
+        "price_original_color": "#ffffff",
+        "button_color": "#ffffff",
+        "button_hover_color": "#ffffff",
+        "button_bg_color": "#000000",
+        "button_bg_hover_color": "#000000",
+        "button_bg_gradient": "linear-gradient(71deg, rgba(255, 130, 58, 1), rgba(255, 90, 97, 1) 37%, rgba(255, 130, 58, 1) 100%)",
+        "button_bg_hover_gradient": "linear-gradient(71deg, rgba(255, 130, 58, 1), rgba(255, 90, 97, 1) 37%, rgba(255, 130, 58, 1) 100%)",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "arrow_color": "#7b7b7b",
+        "arrow_hover_color": "#7b7b7b",
+        "arrow_bg_color": "#ebebeb",
+        "arrow_bg_hover_color": "#ffffff",
+        "arrow_border_color": "#c7c7c7",
+        "arrow_border_hover_color": "#c7c7c7",
+        "scrollbar_bg_color": "#dddddd",
+        "scrollbar_drag_bg_color": "#6e6e6e",
+        "all_color": "#000000",
+        "all_hover_color": "#000000",
+        "all_bg_color": "#ebebeb",
+        "heading_color": "#000000",
+        "background_color": "#f4f3ef",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    }
+  },
+  "order": [
+    "section_banner_image_ymkzFf",
+    "section_text_4fGLMc",
+    "section_divider_YfGpJd",
+    "hero",
+    "subcollections",
+    "main",
+    "section_columns_Ywchky",
+    "ss_featured_collection_7_hY8bjy"
+  ]
+}

@@ -1,0 +1,368 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "bg_color_secondary": false,
+        "padding_top": 60,
+        "padding_bottom": 30
+      }
+    },
+    "25dbd963-093c-4cc9-9cd4-7bde32b883ac": {
+      "type": "section-banner-image",
+      "blocks": {
+        "template--18952594030913__25dbd963-093c-4cc9-9cd4-7bde32b883ac-16831285413c69ee80-1": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>FAQs</p>",
+            "size": 180,
+            "heading_highlight_type": "italics",
+            "highlight_color": "rgba(0,0,0,0)",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "template--18952594030913__25dbd963-093c-4cc9-9cd4-7bde32b883ac-16831285413c69ee80-2": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "size": 100
+          }
+        },
+        "template--18952594030913__25dbd963-093c-4cc9-9cd4-7bde32b883ac-16831285413c69ee80-3": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "stacked_button": false,
+            "button_1_text": "Shop All",
+            "button_1_link": "shopify://collections/all",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "template--18952594030913__25dbd963-093c-4cc9-9cd4-7bde32b883ac-16831285413c69ee80-1",
+        "template--18952594030913__25dbd963-093c-4cc9-9cd4-7bde32b883ac-16831285413c69ee80-2",
+        "template--18952594030913__25dbd963-093c-4cc9-9cd4-7bde32b883ac-16831285413c69ee80-3"
+      ],
+      "settings": {
+        "height": "one-third-height",
+        "enable_mobile_height": false,
+        "mobile_height": "four-fifty-height-mobile",
+        "image": "shopify://shop_images/Dsv_2x_61e23531-96c2-4c52-b625-764b5ab23d08.png",
+        "overlay_opacity": 10,
+        "transition": "zoom-out",
+        "enable_zoom_animation": true,
+        "enable_card_scrolling": false,
+        "increase_border_radius": true,
+        "text_width": "normal",
+        "text_position": "center",
+        "text_alignment": "text-left",
+        "text_color": "text-light"
+      }
+    },
+    "section_accordions_3dEJmQ": {
+      "type": "section-accordions",
+      "blocks": {
+        "text_WGwEi3": {
+          "type": "text",
+          "settings": {
+            "title": "How can I contact customer service?",
+            "text": "<p>If you would like to speak to a member of our team, please email us at hello@koozipets.com.au.</p>"
+          }
+        },
+        "text_fcaMhG": {
+          "type": "text",
+          "settings": {
+            "title": "How do pre-orders work?",
+            "text": "<p>If an item is currently out of stock, you can still place a pre-order! Instead of the usual 'Add to Cart' button, you'll see a 'Pre-order' button on the product page. Alongside, we'll provide an estimated restock date so you know when your order will be fulfilled.</p><p>You can proceed with checkout as usual, and we'll keep you updated as soon as your item is back in stock and ready for dispatch.</p>"
+          }
+        },
+        "text_66pynJ": {
+          "type": "text",
+          "settings": {
+            "title": "Do you offer any discount offers?",
+            "text": "<p><strong>20% Summer Sale Now On<br/></strong>During February, take 20% off everything plus enjoy free shipping Australia wide. </p><p><strong>Buy a Side Table Dog Crate, get a FREE Flat Bed (For a limited time)</strong><br/>For a limited time, receive a complimentary Flat Bed with every Side Table Dog Crate purchase. <br/><em>Discount is</em> <em>automatically applied to the cart when both items are added.</em></p><p><strong>Koozi Community - First Order 10% Gift Code</strong><br/>Welcome to the Koozi Community! Enjoy a special 10% gift code on your first order by subscribing via the sign-up form in the pop up or in our footer. <br/><em>This discount applies to full-priced items only, and cannot be combined with other offers.</em></p><p><strong>Buy Any 2+ Items, Get 20% Off</strong><br/>Purchase any two or more items (in any colour or size) and enjoy 20% off. <em>Discount is automatically applied at checkout.  </em></p><p><strong>Free Shipping on All Orders</strong><br/>Enjoy complimentary standard shipping on every purchase—no discount code needed. <em>Automatically applied at checkout.<br/><br/>Please note: discounts cannot be combined with other offers. </em></p>"
+          }
+        },
+        "text_QntX7b": {
+          "type": "text",
+          "settings": {
+            "title": "Can I pick up from the warehouse?",
+            "text": "<p>Yes, it can be arranged for you to collect your Koozi order from our Warehouse. If you tick this option, we will arrange it with you via email.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_WGwEi3",
+        "text_fcaMhG",
+        "text_66pynJ",
+        "text_QntX7b"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "General",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 66,
+        "padding_bottom": 26
+      }
+    },
+    "accordion-section-1": {
+      "type": "section-accordions",
+      "blocks": {
+        "accordion_block_1_1": {
+          "type": "text",
+          "settings": {
+            "title": "How do I place an order?",
+            "text": "<p>Simply click the \"Add to Cart\" button on any product you'd like to purchase. When you're ready to complete your order, click the cart icon in the top right corner of your screen, review your items, and follow the checkout prompts to finalise your purchase.</p>"
+          }
+        },
+        "accordion_block_1_2": {
+          "type": "text",
+          "settings": {
+            "title": "I'm having an issue adding to cart or at checkout",
+            "text": "<p>If you encounter any issues adding items to your cart, try removing them, refreshing the page, and adding them again. </p><p>For checkout issues, ensure all information is filled out correctly and your payment method is valid.</p><p> If either problem persists, get in touch with us as soon as possible at <a>help@koozipets.com.au</a>, and we'll resolve it for you.</p>"
+          }
+        },
+        "accordion_block_1_3": {
+          "type": "text",
+          "settings": {
+            "title": "How do I know you received my order?",
+            "text": "<p>After successfully placing your order, you will receive a confirmation email detailing your purchased items, delivery costs, and shipping address. Please check your junk folder as well, as confirmation emails can sometimes end up there. <br/><br/>Within 2 business days, you will receive a separate email outlining the delivery process and any relevant lead times.<br/><br/> If you do not receive your order confirmation email within one hour, please contact us at help@koozipets.com.au. </p>"
+          }
+        },
+        "accordion_block_1_4": {
+          "type": "text",
+          "settings": {
+            "title": "What forms of payment do you accept?",
+            "text": "<p>We accept payments from major credit card companies like Visa, Mastercard, and American Express. We also accept Apple Pay and Google Pay and Paypal. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "accordion_block_1_1",
+        "accordion_block_1_2",
+        "accordion_block_1_3",
+        "accordion_block_1_4"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "Orders",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 30,
+        "padding_bottom": 60
+      }
+    },
+    "accordion-section-2": {
+      "type": "section-accordions",
+      "blocks": {
+        "accordion_block_2_0": {
+          "type": "text",
+          "settings": {
+            "title": "I've placed my order, when will it now ship?",
+            "text": "<p>All in-stock items ship within 1-2 business days. Orders placed on weekends are processed the next business day or the following day if Monday is a holiday.</p><p>We will send you an email with a tracking number once your item is dispatched.</p>"
+          }
+        },
+        "accordion_block_2_1": {
+          "type": "text",
+          "settings": {
+            "title": "How long is delivery?",
+            "text": "<p>Most orders typical arrive within 2-10 business days, depending on your location in Australia.</p>"
+          }
+        },
+        "accordion_block_2_2": {
+          "type": "text",
+          "settings": {
+            "title": "Is shipping free?",
+            "text": "<p><strong>Enjoy Complimentary Standard Delivery - for a limited time only.</strong></p><ul><li>Orders are dispatched from our Sydney warehouse within 1 - 2 business days.</li><li>Delivery time typically is between 2 - 10 business days, depending on your location.</li><li>We will send your tracking number once order is dispatched.<br/><br/></li></ul><p><strong>For the Koozi Side Table Crate:</strong></p><ul><li><strong>Greater Sydney / Hunter / Illawarra Region</strong>: Enjoy free delivery and assembly. Our team will reach out to schedule delivery and assemble the crate in your preferred room.</li><li><strong>Interstate Customers</strong>: Fast free delivery<em> (for a limited time) </em>Australia-wide.</li></ul>"
+          }
+        },
+        "accordion_block_2_4": {
+          "type": "text",
+          "settings": {
+            "title": "How do I track my order?",
+            "text": "<p>When your order is shipped, you will receive an email containing tracking information with a link to follow your order. </p><p>You may always contact the Koozi team or our courier partner for questions regarding your shipment.</p>"
+          }
+        },
+        "text_D4anEm": {
+          "type": "text",
+          "settings": {
+            "title": "I need to change my delivery address",
+            "text": "<p>If you have just placed your order and need to change the delivery address, please email ASAP to help@koozipets.com.au. </p><p>We’ll do our best to accommodate changes, but once your order is dispatched and with the courier, adjustments become more difficult. Please reach out to us as soon as possible for the best chance of making any changes.</p>"
+          }
+        },
+        "text_Vrhwgw": {
+          "type": "text",
+          "settings": {
+            "title": "Do you ship to PO Boxes?",
+            "text": "<p>No, we cannot ship to PO Boxes. Please do not use a PO Box address at checkout. </p>"
+          }
+        },
+        "text_cNNkFR": {
+          "type": "text",
+          "settings": {
+            "title": "Where do you ship from?",
+            "text": "<p>We ship from our warehouse in Sydney, NSW.</p>"
+          }
+        },
+        "text_MVHxKg": {
+          "type": "text",
+          "settings": {
+            "title": "Do I need to be home for delivery?",
+            "text": "<p>For standard delivery, we can leave your package in a safe spot if you're not home.</p><p>For larger furniture items, like our Side Table Dog Crate, the courier will coordinate with you to arrange re-delivery at the next available date if no one is home.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "accordion_block_2_0",
+        "accordion_block_2_1",
+        "accordion_block_2_2",
+        "accordion_block_2_4",
+        "text_D4anEm",
+        "text_Vrhwgw",
+        "text_cNNkFR",
+        "text_MVHxKg"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "Shipping & Delivery",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 38,
+        "padding_bottom": 60
+      }
+    },
+    "accordion-section-3": {
+      "type": "section-accordions",
+      "blocks": {
+        "accordion_block_3_0": {
+          "type": "text",
+          "settings": {
+            "title": "Do you offer warranty for your products?",
+            "text": "<p>Yes we offer warranty for manufacturing defects only. <br/><br/>It does not cover improper use, damage caused by your dog, or other issues that are not attributable to a manufacturer defects.<br/><br/>Please learn more about our warranty policy <a href=\"https://koozipets.com.au/pages/warranty-and-returns\" target=\"_blank\" title=\"https://koozipets.com.au/pages/warranty-and-returns\">here</a>.</p>"
+          }
+        },
+        "accordion_block_3_1": {
+          "type": "text",
+          "settings": {
+            "title": "What do I do if my product has arrived damaged?",
+            "text": "<p>All Koozi products undergo quality control. However, if you receive a product with a manufacturing defect, we will replace or repair it at no cost to you. To benefit from this policy, please contact us within 48 hours of delivery to report the issue.</p><p>Email us at <a>help@koozipets.com.au</a> and include :</p><ul><li>\"Warranty/Product Issue Enquiry\" in the subject line </li><li>Include  your order number. </li><li>Attach photos or videos showing the damage or fault </li><li>A detailed description. </li></ul><p>We'll respond within one business day to guide you through the process and work with you to find a satisfactory solution.</p>"
+          }
+        },
+        "accordion_block_3_2": {
+          "type": "text",
+          "settings": {
+            "title": "Do you offer returns and refunds?",
+            "text": "<p><strong>Beds and Sofa Toppers</strong>: Unopened and unused items may be returned within <strong>7  days of receipt </strong>for a full refund or exchange. You are responsible for the cost and arrangement of return shipping.<br/><br/>Please learn more <a href=\"https://koozipets.com.au/pages/warranty-and-returns\" target=\"_blank\" title=\"https://koozipets.com.au/pages/warranty-and-returns\">here</a>.</p><p><strong>New York Marble Bowl Set</strong>: This product is a limited edition, so sale is final. This excludes warranty-related issues.</p><p><strong>Koozi Side Table Crate</strong>: Due to their size as large furniture items, we are unable to accept returns for change of mind or exchange.</p>"
+          }
+        },
+        "text_7x3p4d": {
+          "type": "text",
+          "settings": {
+            "title": "How do make a warranty claim?",
+            "text": "<p>Upon receiving your item, please inspect it carefully.<br/><br/>If you notice any defects or damage contact us promptly at <a><strong>help@koozipets.com.au</strong></a>.<br/><br/>Include in the email:</p><ul><li>Clear photos</li><li>Detailed description of the issue</li><li>Your order number</li><li>Your full name and contact details<br/></li></ul><p>We’ll evaluate and address the issue with either a replacement or repair.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "accordion_block_3_0",
+        "accordion_block_3_1",
+        "accordion_block_3_2",
+        "text_7x3p4d"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "Warranty & Returns",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 30,
+        "padding_bottom": 60
+      }
+    },
+    "section_divider_dBddMk": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "padding_top": 34,
+        "padding_bottom": 28
+      }
+    },
+    "section_collection_rUdAac": {
+      "type": "section-collection",
+      "settings": {
+        "collection": "launch-collection-a-shared-sanctuary",
+        "products_layout": "carousel",
+        "number_of_products": 8,
+        "products_per_row_on_desktop": 4,
+        "columns_mobile": "2",
+        "text_alignment": "text-left",
+        "title": "<p>Best Sellers</p>",
+        "heading_highlight_type": "circle",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "heading_size": 100,
+        "text": "",
+        "text_size": 100,
+        "button_text": "Shop Now",
+        "button_color": "btn--black",
+        "button_style": "btn--text",
+        "button_size": "btn--large",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": true,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "25dbd963-093c-4cc9-9cd4-7bde32b883ac",
+    "section_accordions_3dEJmQ",
+    "accordion-section-1",
+    "accordion-section-2",
+    "accordion-section-3",
+    "section_divider_dBddMk",
+    "section_collection_rUdAac"
+  ]
+}

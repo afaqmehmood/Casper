@@ -1,0 +1,1098 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "subheading": "none",
+            "padding_bottom": 10
+          }
+        },
+        "judge_me_reviews_preview_badge_YFaJEp": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider_jUWFQt": {
+          "type": "divider",
+          "settings": {
+            "show_line": false,
+            "padding_bottom": 18
+          }
+        },
+        "inventory_countdown": {
+          "type": "inventory_countdown",
+          "disabled": true,
+          "settings": {
+            "max_inventory": 10,
+            "hide_inventory_count": true,
+            "padding_bottom": 24
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "padding_bottom": 10
+          }
+        },
+        "divider_TetaGq": {
+          "type": "divider",
+          "settings": {
+            "show_line": false,
+            "padding_bottom": 36
+          }
+        },
+        "feature_wPTLMY": {
+          "type": "feature",
+          "disabled": true,
+          "settings": {
+            "icon_name": "none",
+            "icon_width": 25,
+            "title": "",
+            "text": "<p><strong>Join the Koozi Community to enjoy 10% off your first purchase | </strong><a href=\"https://koozipets.com.au/pages/koozi-community-sign-up\" target=\"_blank\" title=\"https://koozipets.com.au/pages/koozi-community-sign-up\"><strong>JOIN HERE</strong></a></p>",
+            "bg_color": "#f7f9fa",
+            "text_color": "#000000",
+            "padding_bottom": 16
+          }
+        },
+        "feature_dkJt9e": {
+          "type": "feature",
+          "disabled": true,
+          "settings": {
+            "icon_name": "none",
+            "icon_width": 25,
+            "title": "",
+            "text": "<p><strong>Save 20% When You Buy 2 or More Items — Automatically Applied</strong></p>",
+            "bg_color": "#f7f9fa",
+            "text_color": "#000000",
+            "padding_bottom": 20
+          }
+        },
+        "feature_AgEfU6": {
+          "type": "feature",
+          "disabled": true,
+          "settings": {
+            "icon_name": "none",
+            "icon_width": 25,
+            "title": "",
+            "text": "<p><strong>Bundle and Save: </strong>Get 20% off when you buy 2 or more, in any size and colour.</p>",
+            "bg_color": "#f7f9fa",
+            "text_color": "#000000",
+            "padding_bottom": 20
+          }
+        },
+        "siblings_remCwa": {
+          "type": "siblings",
+          "settings": {
+            "text": "Colour",
+            "siblings_product_list": [
+              "soft-topper-milk-white",
+              "soft-topper-dove-grey",
+              "soft-topper-light-sand"
+            ],
+            "show_siblings_images": false,
+            "padding_bottom": 50
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "show_labels": true,
+            "show_quantity": true,
+            "show_payment_button": false,
+            "enable_subscriptions_selectors": false,
+            "padding_bottom": 40
+          }
+        },
+        "product_accordion_TzedtM": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "Overview",
+            "heading_style": "font-body",
+            "accordion_text": "<p>Our cotton-linen Sofa Toppers provide a sleek, breathable alternative to traditional couch covers, offering subtle protection without compromising the aesthetic of your furniture. </p><p>Perfect for dog parents, these toppers feature a waterproof liner to shield sofas and soft furnishings from pet wear, muddy paws, accidents, and pet hair, all while preserving the style of your home.</p><p>Made from a durable linen-cotton blend, our Sofa Toppers are machine washable and thick enough to protect against dog scratching and digging. The topper design makes them an ideal solution for those seeking practical, stylish furniture protection without the bulk of a traditional couch cover.</p><p>Versatile and adaptable, the Sofa Topper works not only on sofas but also on beds, chairs, in the car, as a comfy floor mat, and for pet-friendly accommodations on the go.</p>",
+            "accordion_page": "",
+            "padding_bottom": 8
+          }
+        },
+        "divider_XeyBrE": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 24
+          }
+        },
+        "product_accordion": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "Materials and Care",
+            "heading_style": "font-body",
+            "accordion_text": "<p></p><p><strong>Fabric Cover</strong></p><ul><li>55% Linen 45% Cotton</li><li>325gsm heavyweight fabric</li><li>Invisible YKK Zip</li><li>Machine washable </li></ul><p><strong>Inner Materials</strong></p><ul><li>Waterproof / liquid-resistant liner</li><li>Eco-friendly polycluster fibre filling </li></ul><p><strong>Detailing</strong> </p><ul><li>Reversible</li><li>Fringed edging </li></ul><p><strong>Care</strong></p><ul><li>Sofa Topper Fabric covers are zip-removable and machine washable for easy care. </li><li>Machine wash up to 30ºC on a cold, gentle cycle using mild liquid detergent.</li><li>Air dry, or limit tumble-drying to low or delicate settings </li><li>Do not bleach, iron or dry-clean, and if your linen happens to stain, launder. Spot-clean marks immediately.</li></ul>",
+            "accordion_page": "",
+            "padding_bottom": 8
+          }
+        },
+        "divider_bpEXw6": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 24
+          }
+        },
+        "product_accordion_qTLdjB": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "Features",
+            "heading_style": "font-body",
+            "accordion_text": "<ul><li>Waterproof liner</li><li>100% Linen-Cotton fabric </li><li>Versatile Use</li><li>Scratchproof</li><li>OEKO-TEX Standard 100 certified</li><li>Reversible</li></ul>",
+            "accordion_page": "",
+            "padding_bottom": 8
+          }
+        },
+        "divider_6bCRR3": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 24
+          }
+        },
+        "9927e90d-2ecb-4104-af67-0dadf75b2a0a": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "Delivery and Warranty",
+            "heading_style": "font-body",
+            "accordion_text": "<p><strong>Enjoy Free Standard Delivery</strong></p><ul><li>Orders are dispatched from our Sydney warehouse within 1 - 2 business days.</li><li>Delivery time typically is between 2 - 10 business days, depending on your location.</li><li>We will send your tracking number once order is dispatched.</li></ul><p><strong>Warranty Guarantee<br/></strong>Shop with peace of mind - we offer a 12 month warranty on manufacturing defects.</p>",
+            "accordion_page": "",
+            "padding_bottom": 8
+          }
+        },
+        "divider_HNMRjA": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 12
+          }
+        },
+        "icon_row_6h3WyM": {
+          "type": "icon_row",
+          "settings": {
+            "icon_name_1": "truck",
+            "icon_color_1": "",
+            "icon_width_1": 21,
+            "icon_text_1": "Free and Reliable Delivery",
+            "icon_name_2": "map-pin",
+            "icon_color_2": "",
+            "icon_width_2": 21,
+            "icon_text_2": "Based in Sydney Australia",
+            "icon_name_3": "check",
+            "icon_color_3": "",
+            "icon_width_3": 22,
+            "icon_text_3": "Product Warranty Guarantee",
+            "icon_name_4": "star",
+            "icon_color_4": "",
+            "icon_width_4": 22,
+            "icon_text_4": "Top Rated 5-Star Reviews",
+            "alignment": "center",
+            "bg_color": "#ffffff",
+            "padding_bottom": 20
+          }
+        },
+        "divider_iFcDbE": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 40
+          }
+        },
+        "feature_6KeTAD": {
+          "type": "feature",
+          "settings": {
+            "icon_name": "support",
+            "icon_width": 25,
+            "title": "Have a question? Chat with us!",
+            "text": "<p>Click the chat bubble icon to connect instantly with our team, or email us anytime at <a href=\"mailto:hello@koozipets.com.au&quot;>hello@koozipets.com.au\" title=\"mailto:hello@koozipets.com.au&quot;>hello@koozipets.com.au\">hello@koozipets.com.au</a>.</p>",
+            "bg_color": "rgba(0,0,0,0)",
+            "text_color": "#000000",
+            "padding_bottom": 40
+          }
+        },
+        "divider_RFVXpE": {
+          "type": "divider",
+          "settings": {
+            "show_line": false,
+            "padding_bottom": 38
+          }
+        },
+        "feature_mXGjy9": {
+          "type": "feature",
+          "settings": {
+            "icon_name": "none",
+            "icon_width": 25,
+            "title": "",
+            "text": "<h5><strong>Add on a bed and save 20% on your order  </strong></h5><p>Discount is applied automatically at checkout </p>",
+            "bg_color": "#ecebe7",
+            "text_color": "#000000",
+            "padding_bottom": 0
+          }
+        },
+        "upsell": {
+          "type": "upsell",
+          "settings": {
+            "product_list": [
+              "cloud-sofa-dog-bed-denim-blue-linen",
+              "cloud-dog-bed-red-clay-linen",
+              "plush-flat-dog-bed-light-khaki-linen"
+            ],
+            "padding_bottom": 20
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "judge_me_reviews_preview_badge_YFaJEp",
+        "divider_jUWFQt",
+        "inventory_countdown",
+        "description",
+        "divider_TetaGq",
+        "feature_wPTLMY",
+        "feature_dkJt9e",
+        "feature_AgEfU6",
+        "siblings_remCwa",
+        "form",
+        "product_accordion_TzedtM",
+        "divider_XeyBrE",
+        "product_accordion",
+        "divider_bpEXw6",
+        "product_accordion_qTLdjB",
+        "divider_6bCRR3",
+        "9927e90d-2ecb-4104-af67-0dadf75b2a0a",
+        "divider_HNMRjA",
+        "icon_row_6h3WyM",
+        "divider_iFcDbE",
+        "feature_6KeTAD",
+        "divider_RFVXpE",
+        "feature_mXGjy9",
+        "upsell"
+      ],
+      "custom_css": [
+        "h1 {font-size: 20px;}",
+        ".radio__fieldset .radio__input:checked ~ .radio__label {border-width: 2px;}",
+        ".product__price--regular {font-size: 13px;}",
+        ".icons-row-block__text {font-size: 12px;}",
+        ".radio__label {font-size: 13px;}"
+      ],
+      "settings": {
+        "product_sticky_enable": true,
+        "image_layout": "grid",
+        "image_width": "large",
+        "product_image_aspect_ratio": true,
+        "enable_zoom": true,
+        "enable_video_looping": true,
+        "bg_color": "",
+        "width": "wrapper",
+        "padding_top": 50,
+        "padding_bottom": 42
+      }
+    },
+    "section_text_cnBGLU": {
+      "type": "section-text",
+      "blocks": {
+        "heading_eCXcdk": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Traditional couch covers  often hide the entire sofa, dominating the look and clashing with your living room’s overall vibe.</p><p><br/>Instead, Sofa Toppers deliver sleek, targeted, waterproof protection against scratching and dirty paws, while letting your furniture’s beauty shine through. </p>",
+            "size": 65,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "heading_eCXcdk"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": true,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 80,
+        "padding_bottom": 64
+      }
+    },
+    "section_icons_row_VN4BPw": {
+      "type": "section-icons-row",
+      "blocks": {
+        "text_4RFfxC": {
+          "type": "text",
+          "settings": {
+            "icon_name": "paw-heart",
+            "title": "Breathable & Luxuriously Natural",
+            "text": "<p>A soft, breathable, and natural feel texture - something cheap low-quality couch covers can’t match.</p>"
+          }
+        },
+        "text_VrA7NV": {
+          "type": "text",
+          "settings": {
+            "icon_name": "shield",
+            "title": "Thick & Durable",
+            "text": "<p>Heavyweight fabric - soft, yet thick enough to resist pet claws when they love to dig and scratch. </p>"
+          }
+        },
+        "text_gywzdd": {
+          "type": "text",
+          "settings": {
+            "icon_name": "dishwasher-safe",
+            "title": "Machine Washable",
+            "text": "<p>Simply unzip, remove, and wash on a gentle cool cycle. </p>"
+          }
+        },
+        "text_UHzLcC": {
+          "type": "text",
+          "settings": {
+            "icon_name": "sulfate-free",
+            "title": "Premium & Chemical-Free",
+            "text": "<p>Koozi fabrics are OEKO-TEX® certified ensuring they're free from harmful chemicals - safe for your dog, you and your home.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_4RFfxC",
+        "text_VrA7NV",
+        "text_gywzdd",
+        "text_UHzLcC"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "alignment": "center",
+        "columns": 4,
+        "icons_width": 20,
+        "show_vertical_borders": false,
+        "show_horizontal_borders": false,
+        "heading_size": 110,
+        "text_size": 80,
+        "bg_color": "",
+        "text_color": "#333333",
+        "box_color": "rgba(0,0,0,0)",
+        "color_border": "#333333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "layout_mobile": "stacked",
+        "width": "wrapper",
+        "padding_top": 28,
+        "padding_bottom": 38
+      }
+    },
+    "overlapping-images-0": {
+      "type": "section-overlapping-images",
+      "disabled": true,
+      "settings": {
+        "text_position": "left",
+        "text_alignment": "center",
+        "images_width": 710,
+        "images_offset": 60,
+        "image_1": "shopify://shop_images/KOOZI-CAMPAIGN-253.jpg",
+        "image_link_1": "",
+        "image_2": "shopify://shop_images/KOOZI-CAMPAIGN-263.jpg",
+        "image_link_2": "",
+        "hide_image_2": false,
+        "title": "<p>Waterproof, Scratch-proof, Pet-Proof</p>",
+        "heading_highlight_type": "circle",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "description": "<p>Natural cotton-linen sofa toppers offer subtle yet durable protection for your furniture’s high-use areas. The heavyweight fabric resists scratching and digging, while the waterproof liner shields against muddy paws and accidents—preserving your sofa without sacrificing style.</p>",
+        "heading_size": 80,
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "video_text": "",
+        "video_link": "",
+        "bg_color_secondary": true,
+        "gradient": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(236, 235, 231, 1) 100%)",
+        "animation": "horizontal",
+        "animation_intensity": 50,
+        "width": "wrapper--full-padded",
+        "padding_top": 40,
+        "padding_bottom": 86
+      }
+    },
+    "section_divider_Lrq3Dw": {
+      "type": "section-divider",
+      "disabled": true,
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "padding_top": 26,
+        "padding_bottom": 28
+      }
+    },
+    "section_text_HERhFU": {
+      "type": "section-text",
+      "blocks": {
+        "subheading_Gn3KfX": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p>Details you'll love</p>",
+            "size": 100,
+            "margin_bottom": 16
+          }
+        },
+        "heading_xrxDqC": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>The Sofa Topper Difference</p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_Gn3KfX",
+        "heading_xrxDqC"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 58,
+        "padding_bottom": 18
+      }
+    },
+    "38ff978b-66eb-4318-9ce0-94db8ff86311": {
+      "type": "section-columns",
+      "blocks": {
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-0": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-250.jpg",
+            "title": "A Stylish Alternative to Couch Covers",
+            "text": "<p>Safeguard your sofa from pet accidents and scratches, with a premium linen-cotton topper that looks as good as it feels.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-1": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Sofa_topper_campaign_milk.jpg",
+            "title": "Built-in Waterproof Liner",
+            "text": "<p>An inner waterproof layer protects against liquid accidents keeping your sofa or furniture dry and clean.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-2": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-352.jpg",
+            "title": "Use it Anywhere",
+            "text": "<p>Use it across your sofa base, fold it for smaller areas, drape over armrests, or position vertically for L-shaped sofas or lounge chairs. Practical and breathable, it also works as a bed throw, travel mat, or cosy floor topper</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_bVecgj": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Sofa_Topper_Details_Dove_Grey.jpg",
+            "title": "Scratch-Proof Protection",
+            "text": "<p>Scratch-proof protection for your furniture’s high-use areas. The thick, heavyweight fabric acts as a durable shield from scratching and digging,  extending the life of your sofa.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_pCjCEj": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-256_1.jpg",
+            "title": "No More Sticky Pet Hair",
+            "text": "<p>Minimise the need for constantly wiping away hair after your dog naps. Our natural fabric topper is non-static, meaning hair is less prone to sticking and can easily be lint rolled. </p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-0",
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-1",
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-2",
+        "text_block_bVecgj",
+        "text_block_pCjCEj"
+      ],
+      "custom_css": [
+        "h2 {font-size: 22px;}"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "columns": 4,
+        "columns_mobile": "1",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 1,
+        "mobile_aspect_ratio": 1,
+        "heading_size": 130,
+        "text_size": 90,
+        "bg_color_secondary": false,
+        "color_borders": "#ffffff",
+        "layout_mobile": "carousel",
+        "width": "wrapper",
+        "padding_top": 28,
+        "padding_bottom": 60
+      }
+    },
+    "ss_video_banner_CbD8xq": {
+      "type": "ss-video-banner",
+      "blocks": {
+        "slide_EXzUaW": {
+          "type": "slide",
+          "settings": {
+            "autoplay": true,
+            "video": "shopify://files/videos/SOFA TOPPER 16X9.mp4",
+            "video_url": "",
+            "title": "",
+            "subtitle": "",
+            "button": "",
+            "button_url": "shopify://collections/all",
+            "second_button": "",
+            "second_button_url": "shopify://collections/all"
+          }
+        }
+      },
+      "block_order": [
+        "slide_EXzUaW"
+      ],
+      "settings": {
+        "height": 640,
+        "height_mobile": 440,
+        "overlay_opacity": 0,
+        "interval": 5,
+        "image_object_fit": "cover",
+        "vertical_alignment": "center",
+        "horizontal_alignment": "center",
+        "title_custom": false,
+        "title_font": "josefin_sans_n4",
+        "title_size": 50,
+        "title_size_mobile": 32,
+        "title_height": 130,
+        "subtitle_custom": false,
+        "subtitle_font": "josefin_sans_n4",
+        "subtitle_size": 16,
+        "subtitle_size_mobile": 16,
+        "subtitle_height": 130,
+        "subtitle_mt": 20,
+        "buttons_mt": 20,
+        "buttons_gap": 20,
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 16,
+        "button_size_mobile": 16,
+        "button_height": 120,
+        "button_padding_vertical": 16,
+        "button_padding_vertical_mobile": 16,
+        "button_padding_horizontal": 32,
+        "button_padding_horizontal_mobile": 32,
+        "button_radius": 0,
+        "button_border_thickness": 0,
+        "button_color": "#000000",
+        "button_hover_color": "#ffffff",
+        "button_bg_color": "#ffffff",
+        "button_bg_hover_color": "#000000",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "second_button_color": "#000000",
+        "second_button_hover_color": "#ffffff",
+        "second_button_bg_color": "#ffffff",
+        "second_button_bg_hover_color": "#000000",
+        "second_button_border_color": "#000000",
+        "second_button_border_hover_color": "#000000",
+        "title_color": "#ffffff",
+        "subtitle_color": "#ffffff",
+        "overlay_color": "#000000",
+        "background_color": "#535353",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 1,
+        "margin_top": 4,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0.5,
+        "section_width": 120,
+        "section_radius": 0,
+        "lazy": false
+      }
+    },
+    "section_columns_87hAQH": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_G4kNQN": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-253_9790c11e-1604-4c46-8820-4a30fbb884f2.jpg",
+            "title": "Breathable and Luxurious Natural Feel",
+            "text": "<p>A soft, breathable, and natural feel that adds luxurious texture to your furniture—something traditional couch covers can’t match.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_dxJL6f": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Sofa_topper_Dove_Grey_Chewy.jpg",
+            "title": "Thick, Durable Upholstery Fabric",
+            "text": "<p>Thick enough to resist pet claws when they love to dig and scratch. Our Sofa Toppers are made from a heavyweight upholstery-grade cotton-linen blend. </p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_FtjPRW": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Sofa_topper_milk_linen_cotton_winston_and_bailey.jpg",
+            "title": "Machine Washable",
+            "text": "<p>Covers are machine washable for easy care. Simply unzip, remove, and wash on a gentle cool cycle to keep it fresh and clean.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_YYVzca": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Koozi_side_table_dog_crate_sofa_topper.jpg",
+            "title": "Dog-Safe & Chemical-Free",
+            "text": "<p>Koozi fabrics are OEKO-TEX® certified, ensuring they’re free from harmful chemicals and allergens - safe for your dog, you and your  home.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_G4kNQN",
+        "text_block_dxJL6f",
+        "text_block_FtjPRW",
+        "text_block_YYVzca"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2 {font-size: 22px;}"
+      ],
+      "settings": {
+        "title": "Natural Cotton-Linen Blend Covers",
+        "align_text": "text-left",
+        "columns": 3,
+        "columns_mobile": "2",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 1,
+        "mobile_aspect_ratio": 1,
+        "heading_size": 130,
+        "text_size": 90,
+        "bg_color_secondary": true,
+        "color_borders": "#000000",
+        "layout_mobile": "carousel",
+        "width": "wrapper",
+        "padding_top": 58,
+        "padding_bottom": 60
+      }
+    },
+    "section_image_4Kh4rB": {
+      "type": "section-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Sofa-topper-dove-grey-sofa-chewy.jpg",
+        "height": "five-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "four-fifty-height-mobile",
+        "enable_stretch": true,
+        "image_position": "center",
+        "bg_color_secondary": false,
+        "width": "wrapper--full",
+        "padding_top": 18,
+        "padding_bottom": 36
+      }
+    },
+    "section_text_gEE8Dh": {
+      "type": "section-text",
+      "blocks": {
+        "heading_bVeRqP": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Flexible & Versatile Use</p>",
+            "size": 90,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "text_9CXWHB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our Sofa Toppers offer unmatched versatility beyond standard couch covers. Use it across your sofa base, fold it for smaller areas, drape over armrests, or position vertically for L-shaped sofas or lounge chairs.</p><p><br/>Practical and breathable, it also works as a bed throw, travel mat, or cosy floor topper—giving your dog a familiar, comfortable surface wherever you go.</p>",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "heading_bVeRqP",
+        "text_9CXWHB"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 44,
+        "padding_bottom": 38
+      }
+    },
+    "section_divider_abGpKf": {
+      "type": "section-divider",
+      "disabled": true,
+      "settings": {
+        "show_line": true,
+        "width": "wrapper--full",
+        "padding_top": 14,
+        "padding_bottom": 26
+      }
+    },
+    "section_accordions_zrBjJt": {
+      "type": "section-accordions",
+      "blocks": {
+        "text_KpDa7B": {
+          "type": "text",
+          "settings": {
+            "title": "How do I care for my Sofa Topper?",
+            "text": "<p>Linen-Cotton Cover</p><ul><li>Gentle machine wash on cold, separately</li><li>Air dry (preferably) or tumble dry on a delicate setting.</li></ul><p><br/>Inner</p><ul><li>Wipe down waterproof liner </li><li>Fluff and air filling regularly to maintain its shape </li></ul>"
+          }
+        },
+        "text_MA63zi": {
+          "type": "text",
+          "settings": {
+            "title": "How is it different from couch covers and blankets?",
+            "text": "<p>Traditional couch covers  often hide the entire sofa, dominating the look and clashing with your living room’s overall vibe.</p><p>Instead, Sofa Toppers deliver sleek, targeted, waterproof protection against scratching and dirty paws, while letting your furniture’s beauty shine through. </p><p>Unlike traditional couch covers, which often hide the entire piece, our sofa toppers focus on the most vulnerable areas—like the seating and armrests—while preserving the look and feel of your home. They're also more versatile, easy to apply, and machine washable, making them a practical and stylish alternative to bulky couch covers.</p><p>Unlike regular blankets, which may shift or offer minimal protection, our sofa toppers are designed with a water-resistant liner and filling, providing superior defense against pet accidents, spills, pet hair, and scratches. Made from a breathable, natural cotton-linen blend, they offer added comfort, especially during warmer months when synthetic materials can cause overheating. The natural fibers also reduce static, preventing pet hair from clinging, making cleanup easier.</p><p>The premium fabric cover enhances your furniture without fully covering it, making it a stylish, functional addition that integrates seamlessly into your space. So, you’re not just buying a cover; you’re investing in a versatile, cosy piece that complements your decor while providing essential protection</p>"
+          }
+        },
+        "text_arRfHd": {
+          "type": "text",
+          "settings": {
+            "title": "Can I use it in other places than on the sofa?",
+            "text": "<p>Absolutely! The Sofa Topper is designed for versatility, so you can use it in many places beyond just on your sofa. It works wonderfully as an extra layer on armchairs, at the end of the bed, or even when you’re traveling in the car, and to be used as a floor or on a rug or carpet.  <br/><br/>It's also ideal for dog-friendly Airbnbs or hotels where you want to avoid the risk of extra cleaning fees. Whether for added protection or a cosy, stylish accent, the topper adapts effortlessly to wherever you and your pet need it.</p>"
+          }
+        },
+        "text_Xeqgtz": {
+          "type": "text",
+          "settings": {
+            "title": "Is the fabric scratch-resistant?",
+            "text": "<p>Our Sofa Topper is crafted from a heavyweight linen-cotton blend, balancing breathability with durability. The fabric is designed to withstand light scratching, making it resilient for when your dog likes to dig to get comfy. However, as it’s made from natural fibres, we recommend avoiding heavy or repeated scratching to maintain its long-lasting quality</p>"
+          }
+        },
+        "text_EYDkih": {
+          "type": "text",
+          "settings": {
+            "title": "How do I determine what size to choose?",
+            "text": "<p>Refer to the size guide at the top of the page. <br/><br/>When deciding on the right Sofa Topper size, think about both coverage and placement. Here are some tips to help guide you:</p><ol><li><strong>Assess Your Furniture's Seating Area</strong>: Measure the seating width of your sofa or chair. This helps ensure the topper drapes nicely without excess material hanging over the edges.</li><li><strong>Consider Desired Coverage</strong>:<br/><strong>For Sofas</strong>: Decide if you want the topper to cover just the seating area or extend over the armrests for added protection. The standard size works well for most 2-3 seater sofas, while the large size offers more coverage on 3-4 seater sofas.<br/><strong>For Chairs or Beds</strong>: If you’re planning to use the topper on a single chair, the standard size is ideal. For use at the end of a bed or for extra surface area, the large size offers additional flexibility.</li><li><strong>Versatility in Use</strong>: If you’d like the option to use the topper across various spots (like the car, bed, or armchair or floor), the standard size is easier to manage and transport, while the large size provides more protection on bigger surfaces.</li></ol>"
+          }
+        },
+        "text_CJTw8K": {
+          "type": "text",
+          "settings": {
+            "title": "What other Koozi products pair well?",
+            "text": "<p>The Sofa Topper pairs beautifully with our Cloud Bed and Plush Bed in linen fabric, creating a unified, pet-friendly look for your home. With matching natural tones and textures, these pieces enhance your interiors while offering comfort, style, and protection. This cohesive setup keeps your space looking polished and pet-ready without compromising on aesthetics.</p>"
+          }
+        },
+        "text_wXNX9K": {
+          "type": "text",
+          "settings": {
+            "title": "How is the Sofa Topper delivered?",
+            "text": "<p>The Sofa Topper is delivered vacuum sealed and compression packed for safety during transport. To unpack it, simply cut open the plastic vacuum seal package, taking care not to cut into the fabric of the topper. Once you’ve unsealed it, allow the topper a moment to expand back to its original shape and fluffiness. After it has expanded, give it a gentle shake, then drape it over your desired furniture for a stylish and protective finish!</p>"
+          }
+        },
+        "text_V7etLa": {
+          "type": "text",
+          "settings": {
+            "title": "Warranty & Returns",
+            "text": "<h5>Returns and Exchanges</h5><p><strong>For Unopened & Unused Items Only</strong><br/>Unopened and unused Sofa Toppers can be returned within 7 days of receipt for a full refund or exchange. Please ensure you have not cut the vacuum seal. To check the size, carefully open the box and unroll the vacuum-sealed item without breaking the seal. If it’s not the right fit, re-roll the item, place it back in the box, and return it.</p><p>You are responsible for the cost and arrangement of return shipping.<br/><br/>Please be aware that opened Sofa Toppers (i.e., those with a cut vacuum seal) cannot be returned or exchanged due to handling difficulties and hygiene concerns.<br/></p><h5>Warranty</h5><p>We offer a 12-month warranty covering manufacturing defects, including faulty workmanship or materials. This warranty does not cover normal wear and tear or damages caused by dog use, such as excessive scratching, biting, accidents, chewing, or other use.</p><p>For warranty issues, please contact us within 48 hours of opening the bed at <a>hello@koozipets.com.au</a>, including images of the defective or damaged item. Failure to provide this information within the specified timeframe may void your exchange or refund.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_KpDa7B",
+        "text_MA63zi",
+        "text_arRfHd",
+        "text_Xeqgtz",
+        "text_EYDkih",
+        "text_CJTw8K",
+        "text_wXNX9K",
+        "text_V7etLa"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": true,
+        "title": "Frequently Asked Questions",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "rgba(0,0,0,0)",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_text_a6JERp": {
+      "type": "section-text",
+      "blocks": {
+        "heading_f9XakJ": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Real Dog Parents, <br/>Real Moments with Koozi</p>",
+            "size": 95,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "subheading_wDBRWQ": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p>Follow and tag @koozipets to be featured</p>",
+            "size": 95,
+            "margin_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "heading_f9XakJ",
+        "subheading_wDBRWQ"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 80,
+        "padding_bottom": 32
+      }
+    },
+    "section_testimonials_with_images_pcJHEw": {
+      "type": "section-testimonials-with-images",
+      "blocks": {
+        "image_Ef6cdn": {
+          "type": "image",
+          "settings": {
+            "star_rating": 5,
+            "enable_border": false,
+            "image": "shopify://shop_images/IMG_9385.jpg",
+            "aspect_ratio": 1,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_Ppy3Fn": {
+          "type": "image",
+          "settings": {
+            "star_rating": 5,
+            "enable_border": false,
+            "image": "shopify://shop_images/soft_topper_dove_grey_-_review_raffy.jpg",
+            "aspect_ratio": 1,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_NHqbiw": {
+          "type": "image",
+          "settings": {
+            "star_rating": 5,
+            "enable_border": false,
+            "image": "shopify://shop_images/IMG_0840.jpg",
+            "aspect_ratio": 1,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        },
+        "image_PRNAca": {
+          "type": "image",
+          "settings": {
+            "star_rating": 5,
+            "enable_border": false,
+            "image": "shopify://shop_images/IMG_0192_2.jpg",
+            "aspect_ratio": 1,
+            "heading": "",
+            "text_size": 125,
+            "customer_name": "",
+            "block_color": "",
+            "text_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "image_Ef6cdn",
+        "image_Ppy3Fn",
+        "image_NHqbiw",
+        "image_PRNAca"
+      ],
+      "settings": {
+        "subheading": "",
+        "subheading_size": 100,
+        "title": "",
+        "heading_size": 100,
+        "text_alignment": "text-left",
+        "bg_color": "rgba(0,0,0,0)",
+        "testimonial_block_color": "",
+        "star_color": "",
+        "testimonial_text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "1731375487931cb2f4": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_rWgNTR": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_rWgNTR"
+      ],
+      "settings": {
+        "bg_color": "rgba(0,0,0,0)",
+        "width": "wrapper",
+        "padding_top": 38,
+        "padding_bottom": 60
+      }
+    },
+    "related": {
+      "type": "related-products",
+      "blocks": {
+        "related": {
+          "type": "related",
+          "settings": {
+            "title": "You May Also Like",
+            "product_recommendations_limit": 4
+          }
+        },
+        "recent": {
+          "type": "recent",
+          "settings": {
+            "title": "Recently viewed",
+            "product_recently_limit": 4
+          }
+        }
+      },
+      "block_order": [
+        "related",
+        "recent"
+      ],
+      "disabled": true,
+      "settings": {
+        "enable_tabs": true,
+        "columns_mobile": "1",
+        "type_style": "subheading-text",
+        "tab_heading_size": 120,
+        "bg_color": "",
+        "width": "wrapper--full-padded",
+        "padding_top": 70,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_text_cnBGLU",
+    "section_icons_row_VN4BPw",
+    "overlapping-images-0",
+    "section_divider_Lrq3Dw",
+    "section_text_HERhFU",
+    "38ff978b-66eb-4318-9ce0-94db8ff86311",
+    "ss_video_banner_CbD8xq",
+    "section_columns_87hAQH",
+    "section_image_4Kh4rB",
+    "section_text_gEE8Dh",
+    "section_divider_abGpKf",
+    "section_accordions_zrBjJt",
+    "section_text_a6JERp",
+    "section_testimonials_with_images_pcJHEw",
+    "1731375487931cb2f4",
+    "related"
+  ]
+}

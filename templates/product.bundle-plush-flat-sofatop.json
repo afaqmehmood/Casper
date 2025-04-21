@@ -1,0 +1,1354 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "subheading": "none",
+            "padding_bottom": 8
+          }
+        },
+        "icon_pDY3KX": {
+          "type": "icon",
+          "disabled": true,
+          "settings": {
+            "icon_name": "none",
+            "icon_color": "",
+            "icon_width": 20,
+            "icon_text": "Price will display based on the options selected below.",
+            "text_size": 80,
+            "width": "full",
+            "text_alignment": "left",
+            "bg_color": "",
+            "padding_bottom": 20
+          }
+        },
+        "divider_gCbdwB": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 22
+          }
+        },
+        "feature_NegkDK": {
+          "type": "feature",
+          "settings": {
+            "icon_name": "none",
+            "icon_width": 25,
+            "title": "",
+            "text": "<p><strong>PRE ORDER: </strong>Estimated arrival between 1st - 7th December.</p>",
+            "bg_color": "#f7f9fa",
+            "text_color": "#000000",
+            "padding_bottom": 20
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "show_labels": true,
+            "show_quantity": false,
+            "show_payment_button": false,
+            "enable_subscriptions_selectors": false,
+            "padding_bottom": 20
+          }
+        },
+        "divider_8jUH6A": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "popup_text_9mt68D": {
+          "type": "popup_text",
+          "settings": {
+            "text": "Sofa Topper Size Guide →",
+            "popup_page": "size-guide-sofa-toppers",
+            "padding_bottom": 18
+          }
+        },
+        "popup_text_9gYP4F": {
+          "type": "popup_text",
+          "settings": {
+            "text": "Plush Bed Size Guide →",
+            "popup_page": "sizing-chart-flat-beds",
+            "padding_bottom": 24
+          }
+        },
+        "divider_Fhj96L": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "padding_bottom": 20
+          }
+        },
+        "product_accordion_PdUMcK": {
+          "type": "product_accordion",
+          "disabled": true,
+          "settings": {
+            "accordion_heading": "Sofa Topper Size Guide →",
+            "heading_style": "font-heading",
+            "accordion_text": "<p><strong>Standard Size</strong><br/><strong>Dimensions:</strong> 185cm L x 65cm W<br/><strong>Suitable for:</strong> 2 - 3 seaters sofas, single chairs, back seats of cars, use as a portable floor mat<br/><br/><strong>Large Size</strong><br/><strong>Dimensions:</strong> 215cm L x 65cm W<br/><strong>Suitable for:</strong> 3 - 4 seater sofas, single chairs, portable floor mat</p>",
+            "accordion_page": "",
+            "padding_bottom": 20
+          }
+        },
+        "divider_DEtkc3": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "product_accordion": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "Materials",
+            "heading_style": "font-body",
+            "accordion_text": "<h6><strong>Plush Bed:</strong></h6><p><strong>Mattress</strong></p><ul><li>Supportive foam base layer with a cooling gel memory foam top layer</li><li>Waterproof liner</li></ul><p><strong>Fabric Cover (two options)</strong></p><ul><li>Choose between our exclusive upholstery linen and boucle fabric covers</li><li>Linen GSM weight: 480gsm</li><li>Boucle GSM weight: 600gsm</li><li>OEKO-TEX 100 Certified (no nasties)<br/></li></ul><h6><strong>Sofa Topper: </strong></h6><p><strong>Fabric cover</strong></p><ul><li>55% Linen 45% Cotton</li><li>325GSM</li><li>Invisible YKK Zip</li><li>Machine washable</li><li>Reversible</li><li>OEKO-TEX 100 Certified (no nasties)</li></ul><p><strong>Inner Materials</strong></p><ul><li>Water-resistant liner</li><li>Eco-friendly polycluster fibre filling</li></ul>",
+            "accordion_page": "",
+            "padding_bottom": 20
+          }
+        },
+        "divider_FjnhaC": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "product_accordion_rKj7J3": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "Details",
+            "heading_style": "font-body",
+            "accordion_text": "<h6>Plush Bed</h6><ul><li>CertiPUR-US certified memory foam</li><li>Upholstery linen fabric cover</li><li>Waterproof Liner</li><li>Rounded corners</li><li>Machine washable, zip-removable cover</li><li>Timeless, natural and elegant style</li><li>Non-slip base</li><li>Hidden YKK zips</li><li>OEKO-TEX Standard 100 certified</li></ul><h6>Sofa Topper</h6><ul><li>Waterproof liner</li><li>Cotton-Linen blend</li><li>Versatile Use</li><li>OEKO-TEX Standard 100 certified</li><li>Reversible</li><li>Fringed edging</li></ul>",
+            "accordion_page": "",
+            "padding_bottom": 20
+          }
+        },
+        "divider_7aNryg": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "product_accordion_rMmPrj": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "Care",
+            "heading_style": "font-body",
+            "accordion_text": "<h6><strong>Plush Flat Bed</strong></h6><ul><li>Machine wash up to 30ºC on a gentle cycle</li><li>Wash separately</li><li>Use mild detergent</li><li>Line dry when possible</li><li>Spot clean stains promptly</li></ul><h6><strong>Sofa Topper</strong></h6><ul><li>Covers are zip-removable and machine washable for easy care.</li><li>Machine wash up to 30ºC on a gentle cycle using mild liquid detergent.</li><li>Air dry, or limit tumble-drying to a low or delicate setting</li><li>Do not bleach, iron or dry-clean, and if your linen happens to stain, launder. Spot-clean marks immediately.</li></ul>",
+            "accordion_page": "",
+            "padding_bottom": 20
+          }
+        },
+        "divider_r7TzH9": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "9927e90d-2ecb-4104-af67-0dadf75b2a0a": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "Delivery",
+            "heading_style": "font-body",
+            "accordion_text": "<p><strong>Enjoy Complimentary Standard Delivery - for a limited time.</strong></p><ul><li>Orders are dispatched from our Sydney warehouse within 1 - 2 business days.</li><li>Delivery time typically is between 2 - 10 business days, depending on your location.</li><li>We will send your tracking number once order is dispatched.</li></ul>",
+            "accordion_page": "",
+            "padding_bottom": 20
+          }
+        },
+        "divider_zFtCk9": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "icon_pDY3KX",
+        "divider_gCbdwB",
+        "feature_NegkDK",
+        "form",
+        "divider_8jUH6A",
+        "popup_text_9mt68D",
+        "popup_text_9gYP4F",
+        "divider_Fhj96L",
+        "description",
+        "product_accordion_PdUMcK",
+        "divider_DEtkc3",
+        "product_accordion",
+        "divider_FjnhaC",
+        "product_accordion_rKj7J3",
+        "divider_7aNryg",
+        "product_accordion_rMmPrj",
+        "divider_r7TzH9",
+        "9927e90d-2ecb-4104-af67-0dadf75b2a0a",
+        "divider_zFtCk9"
+      ],
+      "settings": {
+        "product_sticky_enable": true,
+        "image_layout": "grid",
+        "image_width": "large",
+        "product_image_aspect_ratio": true,
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "bg_color": "",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_text_De37Rh": {
+      "type": "section-text",
+      "blocks": {
+        "heading_G6WLFq": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>A stylish table for you, a cosy retreat for your pooch</p>",
+            "size": 105,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "text_dgP77T": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Introducing the Koozi side table: a dual functional crate or dog den and a stylish side table, that looks beautiful in your home.</p>",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "heading_G6WLFq",
+        "text_dgP77T"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 46,
+        "padding_bottom": 30
+      }
+    },
+    "38ff978b-66eb-4318-9ce0-94db8ff86311": {
+      "type": "section-columns",
+      "blocks": {
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-0": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/dvfsc.png",
+            "title": "A Stylish Table and Crate or Den in One",
+            "text": "<p>Seamlessly integrates into your living room or bedroom, providing a stylish, functional design that’s built to last throughout your dog’s lifetime.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-1": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/sliding_door.jpg",
+            "title": "Versatile Sliding Transparent Pocket Door",
+            "text": "<p>Featuring a transparent door that slides in or pulls down for versatile use, with elegant brass locks that add a refined touch.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-2": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/crate_-_marble_detail_6d70146e-e2a1-4785-b3c2-f82d521ae5aa.jpg",
+            "title": "Sleek Carrara Marble-Style Top",
+            "text": "<p>The Carrara marble-style surface top is not only visually stunning but also easy to clean and less prone to stains, combining beauty and everyday practicality.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-0",
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-1",
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "columns": 3,
+        "columns_mobile": "1",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 1.1,
+        "mobile_aspect_ratio": 1,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color_secondary": false,
+        "color_borders": "#000000",
+        "layout_mobile": "stacked",
+        "width": "wrapper",
+        "padding_top": 40,
+        "padding_bottom": 22
+      }
+    },
+    "section_columns_y4Q9yC": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_H9RTFj": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-STUDIO-239_63ca5922-44bb-45ae-bc44-e344db9f8b6d.jpg",
+            "title": "Durable Elm Wood Melamine",
+            "text": "<p>Our elm wood plywood combines the natural beauty of wood grain with the strength of engineered materials, offering an organic look that’s made to last.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_gTCJwF": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Medium_crate_side_on.jpg",
+            "title": "Enhanced airflow design",
+            "text": "<p>Three rows of elongated air holes on each side ensure optimal airflow, keeping your pet comfortable at all times.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_eWQzBb": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/brass_lock_detail.jpg",
+            "title": "Gold Brass Locks for crate use",
+            "text": "<p>The door features two elegant gold brass locks, blending sophistication with enhanced functionality for customers who crate train their dogs.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_H9RTFj",
+        "text_block_gTCJwF",
+        "text_block_eWQzBb"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "columns": 3,
+        "columns_mobile": "1",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 1.1,
+        "mobile_aspect_ratio": 1,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color_secondary": false,
+        "color_borders": "#000000",
+        "layout_mobile": "carousel",
+        "width": "wrapper",
+        "padding_top": 30,
+        "padding_bottom": 60
+      }
+    },
+    "section_icons_row_kXRzWp": {
+      "type": "section-icons-row",
+      "blocks": {
+        "text_YQXh73": {
+          "type": "text",
+          "settings": {
+            "icon_name": "smile",
+            "title": "Helps reduce anxiety",
+            "text": "<p>Provides a safe space that mimics a dog's natural instinct to seek a small, enclosed den for comfort and security.</p>"
+          }
+        },
+        "text_eVLXTy": {
+          "type": "text",
+          "settings": {
+            "icon_name": "check",
+            "title": "Assemble in 15 minutes",
+            "text": "<p>The Koozi Side Table Crate arrives flat packed with simple assembly.</p>"
+          }
+        },
+        "text_FyTN8h": {
+          "type": "text",
+          "settings": {
+            "icon_name": "shield",
+            "title": "Premium, durable materials",
+            "text": "<p>Designed with a timeless, natural aesthetic, our side table crate features a scratch-resistant melamine-coated elm wood veneer for lasting style and durability. Paired with a low-maintenance, water-resistant marble-look top, it offers both elegance and practicality.</p>"
+          }
+        },
+        "text_AYfFEJ": {
+          "type": "text",
+          "settings": {
+            "icon_name": "paw-heart",
+            "title": "Paw'fect for Puppies",
+            "text": "<p>Introducing the crate early on, helps puppies with training, and lets them grow up loving their side table crate. It becomes their cosy, safe den for life.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_YQXh73",
+        "text_eVLXTy",
+        "text_FyTN8h",
+        "text_AYfFEJ"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "subheading": "<h3></h3><p></p>",
+        "alignment": "center",
+        "columns": 4,
+        "icons_width": 20,
+        "show_vertical_borders": true,
+        "show_horizontal_borders": true,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color": "#f5f4f1",
+        "text_color": "#333333",
+        "box_color": "",
+        "color_border": "#333333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "layout_mobile": "grid",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_text_XLMLyg": {
+      "type": "section-text",
+      "blocks": {
+        "heading_tV3t9T": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Flat-out Comfort: The Plushest Sleep For Dogs Who Love to Stretch Out</p>",
+            "size": 95,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "text_8eTpBN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The flat bed design allows your dog to fully stretch out in their instinctual sleeping position, promoting comfortable rest and minimising joint pressure. It’s perfect as a beautifully simple standalone bed or can be easily fitted for crates, providing versatility for you and your dog's needs.</p>",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "heading_tV3t9T",
+        "text_8eTpBN"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 38,
+        "padding_bottom": 14
+      }
+    },
+    "section_columns_LT3KLd": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_aLhqUm": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Denim_Blue_Plush_Flat_Bed_-_Bailey.jpg",
+            "title": "Orthopaedic Memory Foam - with Cooling Gel",
+            "text": "<p>Our foam is <a href=\"http://www.certipur.us/\" title=\"CertiPUR-US®\">CertiPUR-US®</a> certified, providing orthopaedic support that's just the right balance for smaller dogs. Topped with a cooling gel memory foam for a breathable, temperature regulating and contouring layer for ultimate comfort.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_GgxJCz": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Plush_Flat_Beds_Stacked.jpg",
+            "title": "Premium Upholstery Fabric Covers",
+            "text": "<p>We thoughtfully select fabrics that combine timeless style, durability and easy maintenance. Our linen covers are breathable and come in five natural earthy tones, to seamlessly fit in your home decor. For a softer, cosier feel, our boucle fabric offers a rich, plush texture in a warm buttery colour. </p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_EhNLMe": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Red_Clay_linen_Plush_Flat_Bed_-_straight_on.jpg",
+            "title": "Minimalist, Low-Profile Mattress Ideal for Smaller Dogs",
+            "text": "<p>The low-profile mattress design makes it easy for smaller dogs to hop on and off. It's sleek, soft and supportive, ensuring comfort without the unnecessary height.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_aLhqUm",
+        "text_block_GgxJCz",
+        "text_block_EhNLMe"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "columns": 3,
+        "columns_mobile": "1",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 1.1,
+        "mobile_aspect_ratio": 1.1,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color_secondary": false,
+        "color_borders": "#000000",
+        "layout_mobile": "carousel",
+        "width": "wrapper",
+        "padding_top": 26,
+        "padding_bottom": 22
+      }
+    },
+    "section_columns_UkTVmi": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_Q8hQH3": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/flat_bed_flat_lay_oatmeal_blue_khaki.jpg",
+            "title": "Rounded Corners for Style and to Deter Chewing",
+            "text": "<p>The rounded corners deliver a sleek, refined look that also may help to deter chewing - as dogs are generally less tempted by rounded edges compared with sharp corners.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_Kz693Q": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/flat_bed_boucle.jpg",
+            "title": "Machine Washable Bed Covers",
+            "text": "<p>Our fabric covers are zip-removable and can be machine washed on a gentle low-temperature cycle, for easy care. Foam can be spot-cleaned.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_6a6JYd": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Plush_flat_Bed_Red_Clay_Linen_Zip_detail.jpg",
+            "title": "Waterproof Liner and Non-skid Base",
+            "text": "<p>Protected from spills with a waterproof liner. These features also prevents sliding, reduces the risk of spills, and provides extra stability for your dog—especially on smooth surfaces.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_Q8hQH3",
+        "text_block_Kz693Q",
+        "text_block_6a6JYd"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "columns": 3,
+        "columns_mobile": "1",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 1.1,
+        "mobile_aspect_ratio": 1.1,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color_secondary": false,
+        "color_borders": "#000000",
+        "layout_mobile": "carousel",
+        "width": "wrapper",
+        "padding_top": 42,
+        "padding_bottom": 46
+      }
+    },
+    "section_icons_row_Vh86Qz": {
+      "type": "section-icons-row",
+      "blocks": {
+        "text_Cz87wf": {
+          "type": "text",
+          "settings": {
+            "icon_name": "paw-heart",
+            "title": "Machine Washable Bed Covers",
+            "text": "<p>Both the linen and boucle bed covers are zip removable and machine washable on a gentle, low-temp cycle.</p>"
+          }
+        },
+        "text_mk9VP7": {
+          "type": "text",
+          "settings": {
+            "icon_name": "paw-heart",
+            "title": "Internal Waterproof Liner",
+            "text": "<p>We ensure the memory foam mattress is protected from any accidents with an internal liquid-resistant liner.</p>"
+          }
+        },
+        "text_UkbfQj": {
+          "type": "text",
+          "settings": {
+            "icon_name": "eco-friendly",
+            "title": "YKK Zipps + Non-skid Base",
+            "text": "<p>Stops the bed from sliding around, reduces the risk of accidents and makes it more comfortable for your dog to get in and out of the bed - especially on smooth surfaces</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_Cz87wf",
+        "text_mk9VP7",
+        "text_UkbfQj"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "alignment": "center",
+        "columns": 3,
+        "icons_width": 20,
+        "show_vertical_borders": true,
+        "show_horizontal_borders": true,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color": "#f5f4f1",
+        "text_color": "#333333",
+        "box_color": "",
+        "color_border": "#333333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "layout_mobile": "grid",
+        "width": "wrapper",
+        "padding_top": 26,
+        "padding_bottom": 26
+      }
+    },
+    "section_divider_LqgKya": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "padding_top": 38,
+        "padding_bottom": 38
+      }
+    },
+    "section_text_qq4CBy": {
+      "type": "section-text",
+      "blocks": {
+        "heading_W8cHkf": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Sleek, Breathable Linen-Cotton Toppers for Subtle Furniture Protection</p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "text_gGp39z": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our Sofa Toppers provide a waterproof protective layer without hiding the look and style of your furniture — ideal for dog parents who want to safeguard their sofas and soft furnishings from everyday pet wear without fully covering them up.</p><p>Crafted from a heavyweight natural linen-cotton blend, these toppers offer a comfortable shield against dribbles, accidents, muddy paws, scratching, and pet hair.</p>",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "heading_W8cHkf",
+        "text_gGp39z"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 38,
+        "padding_bottom": 50
+      }
+    },
+    "section_columns_949Pkm": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_YBjEUQ": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-253_9790c11e-1604-4c46-8820-4a30fbb884f2.jpg",
+            "title": "Stylish Protection without Hiding your Furniture",
+            "text": "<p>Safeguard your sofa from pet accidents, scratches, and muddy paws with our premium natural linen-cotton blend topper. It not only looks stunning but also provides subtle protection without hiding your furniture, ensuring that style and functionality go hand in hand.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_hr4E3C": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Sofa_topper_campaign_milk.jpg",
+            "title": "Waterproof Liner to Protect Against Accidents",
+            "text": "<p>An inner waterproof liner protects against liquid accidents, dribbles or spills, keeping your furniture dry and clean.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_abtmW3": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-300.jpg",
+            "title": "Machine Washable Covers",
+            "text": "<p>The linen-cotton covers are zip-removable and machine washable, making cleaning easy and ensuring a fresh pet-friendly home. </p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_AnNhNB": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Sofa_topper_milk_cotton_linen_campaign.jpg",
+            "title": "Say Goodbye to Sticky Pet Hair",
+            "text": "<p>Our Sofa Topper stops pet hair from clinging to your furniture, making it easy to lift off and quickly lint-roll a smaller, manageable surface - ensuring your sofa stays clean and inviting.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_R8Gpc4": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/temp_10ztF8Y.jpg",
+            "title": "Versatile Use",
+            "text": "<p>Perfect for home furnishings or dog-friendly travel. Lightweight and adaptable to various settings, it fits seamlessly on sofas, chairs, car seats, and is ideal for hotels or visits to family and friends.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_YBjEUQ",
+        "text_block_hr4E3C",
+        "text_block_abtmW3",
+        "text_block_AnNhNB",
+        "text_block_R8Gpc4"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "columns": 3,
+        "columns_mobile": "1",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 1.1,
+        "mobile_aspect_ratio": 1.1,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color_secondary": false,
+        "color_borders": "#000000",
+        "layout_mobile": "carousel",
+        "width": "wrapper",
+        "padding_top": 20,
+        "padding_bottom": 50
+      }
+    },
+    "section_video_BDed9J": {
+      "type": "section-video",
+      "settings": {
+        "video_height": "five-fifty-height",
+        "text_position": "middle-center",
+        "video_link_bg": "https://cdn.shopify.com/videos/c/o/v/4e9510c8df834d8d8496b2953c4285d4.mp4",
+        "video_link": "",
+        "overlay_opacity": 10,
+        "text_color": "text-light",
+        "title": "",
+        "heading_highlight_type": "italics",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "text": "",
+        "heading_size": 100,
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--white",
+        "button_style": "btn--solid-border",
+        "button_size": "btn--small"
+      }
+    },
+    "section_text_U6kRh9": {
+      "type": "section-text",
+      "blocks": {
+        "heading_BEL4Tx": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Nap-time Never Looked So Koozi...</p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "text_QrP7WQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Your dog will love curling up in their very own cosy den, while you get a side table thats as stylish as it is functional - exactly what your home sanctuary deserves.</p>",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "heading_BEL4Tx",
+        "text_QrP7WQ"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 40,
+        "padding_bottom": 60
+      }
+    },
+    "section_image_accordions_YjpyGA": {
+      "type": "section-image-accordions",
+      "blocks": {
+        "image_YKBYGB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-41_1_b3eafc49-f0eb-4514-8b05-d4c5ac2d2766.jpg",
+            "overlay_opacity": 10,
+            "text_width": "wide",
+            "text_position": "left",
+            "text_color": "text-light",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        },
+        "image_AU6yRc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-237_1.jpg",
+            "overlay_opacity": 10,
+            "text_width": "wide",
+            "text_position": "left",
+            "text_color": "text-light",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        },
+        "image_zLwyFa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-143_1_72582fcc-f4b1-4f13-bbf4-b7534692e28a.png",
+            "overlay_opacity": 10,
+            "text_width": "wide",
+            "text_position": "left",
+            "text_color": "text-light",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        },
+        "image_BGUDYH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Crate-sidetable-matt-winston.jpg",
+            "overlay_opacity": 10,
+            "text_width": "wide",
+            "text_position": "left",
+            "text_color": "text-light",
+            "title": "",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "image_YKBYGB",
+        "image_AU6yRc",
+        "image_zLwyFa",
+        "image_BGUDYH"
+      ],
+      "disabled": true,
+      "settings": {
+        "accordion_height": "seven-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_section_height": "five-fifty-height-mobile",
+        "heading_size": 100,
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "tabs": {
+      "type": "section-accordions",
+      "blocks": {
+        "acordion-0": {
+          "type": "text",
+          "settings": {
+            "title": "How do I care for the Plush Flat Bed?",
+            "text": "<p><strong>Bed Cover:</strong> The zip-off bed cover can be easily removed and machine washed on a cold, gentle cycle with mild detergent. For best results, lay flat to dry.</p><p><strong>Waterproof Liner:</strong> Wipe down the waterproof liner with a spray or soapy water for easy cleaning.</p><p><strong>Foam Core:</strong> If you need to clean the foam, wipe it down with warm, soapy water. Allow it to dry completely in a dry place to ensure all moisture is removed before reassembling the bed.</p>"
+          }
+        },
+        "text_NDjbVD": {
+          "type": "text",
+          "settings": {
+            "title": "When will my order ship?",
+            "text": "<p><strong>Enjoy free standard delivery for a limited time. </strong></p><p>We ship from our warehouse in Sydney. All orders will be dispatched within 1 to 2 business days. <br/><br/>Delivery timeframe is typically 2 - 10 days once dispatched. <br/><br/>Orders placed on Saturday or Sunday, will be processed the next business day.</p>"
+          }
+        },
+        "text_KhjDzY": {
+          "type": "text",
+          "settings": {
+            "title": "Warranty and Returns",
+            "text": "<h5>Returns and Exchanges</h5><p><strong>For Unopened & Unused Items Only</strong><br/>Unopened and unused Plush Flat Beds can be returned within 7 days of receipt for a full refund or exchange. Please ensure you have not cut the vacuum seal. To check the size, carefully open the box and unroll the vacuum-sealed item without breaking the seal. If it’s not the right fit, re-roll the item, place it back in the box, and return it.</p><p>You are responsible for the cost and arrangement of return shipping.<br/><br/>Please be aware that opened beds (i.e., those with a cut vacuum seal) cannot be returned or exchanged due to handling difficulties and hygiene concerns.<br/></p><h5>Warranty</h5><p>We offer a 12-month warranty covering manufacturing defects, including faulty workmanship or materials. This warranty does not cover normal wear and tear or damages caused by dog use, such as excessive scratching, biting, accidents, chewing, or other use.</p><p>For warranty issues, please contact us within 48 hours of opening the bed at <a>hello@koozipets.com.au</a>, including images of the defective or damaged item. Failure to provide this information within the specified timeframe may void your exchange or refund.</p>"
+          }
+        },
+        "text_RE78Jj": {
+          "type": "text",
+          "settings": {
+            "title": "What does OEKO-TEX Standard 100 mean?",
+            "text": "<p>OEKO-TEX Standard 100 is a certification that ensures our linen covers and foam mattresses are free from harmful substances and chemicals, making them safe for both pets and humans.<br/><br/>This certification guarantees that the fabric meets strict safety and environmental criteria, reflecting our commitment to quality and sustainability. By choosing OEKO-TEX certified covers, you can trust that you are providing a safe, durable, and sustainable option for your dog.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "acordion-0",
+        "text_NDjbVD",
+        "text_KhjDzY",
+        "text_RE78Jj"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "Frequently Asked Questions",
+        "subheading": "",
+        "text": "<h3>Plush Flat Bed</h3>",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 10
+      }
+    },
+    "section_accordions_JdRzdT": {
+      "type": "section-accordions",
+      "blocks": {
+        "text_Qhtirx": {
+          "type": "text",
+          "settings": {
+            "title": "How do I clean my Sofa Topper?",
+            "text": "<p><strong>Linen-Cotton Cover</strong></p><ul><li>Machine wash up to 30ºC on a gentle cycle using mild liquid detergent.</li><li>Air dry (preferably) or tumble dry on a delicate setting.</li></ul><p><strong>Inner</strong></p><ul><li>Wipe down waterproof liner</li><li>Fluff and shake out regularly to maintain shape</li></ul>"
+          }
+        },
+        "text_bg9rb9": {
+          "type": "text",
+          "settings": {
+            "title": "Warranty and Returns",
+            "text": "<h5>Returns and Exchanges</h5><p><strong>For Unopened & Unused Items Only</strong><br/>Unopened and unused Sofa Toppers can be returned within 7 days of receipt for a full refund or exchange. Please ensure you have not cut the vacuum seal. To check the size, carefully open the box and unroll the vacuum-sealed item without breaking the seal. If it’s not the right fit, re-roll the item, place it back in the box, and return it.</p><p>You are responsible for the cost and arrangement of return shipping.<br/><br/>Please be aware that opened Sofa Toppers (i.e., those with a cut vacuum seal) cannot be returned or exchanged due to handling difficulties and hygiene concerns.<br/></p><h5>Warranty</h5><p>We offer a 12-month warranty covering manufacturing defects, including faulty workmanship or materials. This warranty does not cover normal wear and tear or damages caused by dog use, such as excessive scratching, biting, accidents, chewing, or other use.</p><p>For warranty issues, please contact us within 48 hours of opening the package at <a>hello@koozipets.com.au</a>, including images of the defective or damaged item. Failure to provide this information within the specified timeframe may void your exchange or refund.</p>"
+          }
+        },
+        "text_387gBB": {
+          "type": "text",
+          "settings": {
+            "title": "How do I determine what size to choose?",
+            "text": "<p>When deciding on the right Sofa Topper size, think about both coverage and placement. Here are some tips to help guide you:</p><ol><li><strong>Assess Your Furniture's Seating Area</strong>: Measure the seating width of your sofa or chair. This helps ensure the topper drapes nicely without excess material hanging over the edges.</li><li><strong>Consider Desired Coverage</strong>:<br/><strong>For Sofas</strong>: Decide if you want the topper to cover just the seating area or extend over the armrests for added protection. The standard size works well for most 2-3 seater sofas, while the large size offers more coverage on 3-4 seater sofas.<br/><strong>For Chairs or Beds</strong>: If you’re planning to use the topper on a single chair, the standard size is ideal. For use at the end of a bed or for extra surface area, the large size offers additional flexibility.</li><li><strong>Versatility in Use</strong>: If you’d like the option to use the topper across various spots (like the car, bed, or armchair), the standard size is easier to manage and transport, while the large size provides more protection on bigger surfaces.</li></ol>"
+          }
+        },
+        "text_qdhpLd": {
+          "type": "text",
+          "settings": {
+            "title": "How is the Sofa Topper different from a regular blanket?",
+            "text": "<p>Unlike regular blankets, the Sofa Topper is designed with a water-resistant liner and filling to guard against pet accidents, spills, pet hair, and scratches. This helps extend the life of your sofa, saving you from frequent cleaning or costly replacements.</p><p>Made from a natural, breathable linen-cotton blend, the topper offers added comfort, particularly in warm months when synthetic covers can cause overheating—keeping your pet cool and comfortable instead. The natural fibres are also low-static, so pet hair clings less and is easy to clean.</p><p>The premium fabric cover enhances your furniture without fully covering it, making it a stylish, functional addition that integrates seamlessly into your space. So, you’re not just buying a cover; you’re investing in a versatile topper that complements your decor while providing essential protection.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_Qhtirx",
+        "text_bg9rb9",
+        "text_387gBB",
+        "text_qdhpLd"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "",
+        "subheading": "",
+        "text": "<h3>Sofa Topper</h3>",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 10,
+        "padding_bottom": 60
+      }
+    },
+    "section_video_MeMtcn": {
+      "type": "section-video",
+      "disabled": true,
+      "settings": {
+        "video_height": "six-fifty-height",
+        "text_position": "middle-center",
+        "video_link_bg": "https://cdn.shopify.com/videos/c/o/v/3cac7f80d8c74fc482fc9f3bac325f6c.mp4",
+        "video_link": "",
+        "overlay_opacity": 10,
+        "text_color": "text-light",
+        "title": "",
+        "heading_highlight_type": "italics",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "text": "",
+        "heading_size": 100,
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--white",
+        "button_style": "btn--solid-border",
+        "button_size": "btn--small"
+      }
+    },
+    "ss_scrolling_images_G9wK3T": {
+      "type": "ss-scrolling-images",
+      "blocks": {
+        "image_FMjmgH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2551-2.jpg",
+            "url": ""
+          }
+        },
+        "image_iwe39A": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_9657.jpg",
+            "url": ""
+          }
+        },
+        "image_VmiVDk": {
+          "type": "image",
+          "settings": {
+            "url": ""
+          }
+        },
+        "image_WGmHVt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0445.jpg",
+            "url": ""
+          }
+        },
+        "image_DkCeJq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_7164.jpg",
+            "url": ""
+          }
+        },
+        "image_amcBxz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_9299.jpg",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_FMjmgH",
+        "image_iwe39A",
+        "image_VmiVDk",
+        "image_WGmHVt",
+        "image_DkCeJq",
+        "image_amcBxz"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "<h2>Furry friends who love Koozi</h2>",
+        "heading_custom": true,
+        "heading_font": "itc_berkeley_old_style_n4",
+        "heading_size": 28,
+        "heading_height": 80,
+        "heading_align": "center",
+        "slider_speed": 40,
+        "slider_gap": 10,
+        "slider_gap_mobile": 10,
+        "slider_mt": 50,
+        "slider_direction": "left",
+        "pause_hover": true,
+        "image_width_desktop": 300,
+        "image_width_mobile": 250,
+        "image_height_desktop": 400,
+        "image_height_mobile": 330,
+        "image_radius": 10,
+        "use_content": false,
+        "content_position": "center",
+        "content_max_width": 340,
+        "content_max_width_mobile": 340,
+        "content_padding_vertical": 30,
+        "content_padding_horizontal": 30,
+        "content_distance": 60,
+        "content_radius": 10,
+        "content_border_thickness": 0,
+        "use_shadow": true,
+        "text": "<p>+29.000 people love our product</p>",
+        "text_custom": false,
+        "text_font": "assistant_n4",
+        "text_size": 24,
+        "text_height": 130,
+        "heading_color": "#000000",
+        "content_bg": "#ffffff",
+        "content_border_color": "#000000",
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 80,
+        "padding_bottom": 36,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "172696648968e9a7db": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_prBETd": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_prBETd"
+      ],
+      "disabled": true,
+      "settings": {
+        "bg_color": "#f5f4f1",
+        "width": "wrapper",
+        "padding_top": 50,
+        "padding_bottom": 60
+      }
+    },
+    "section_divider_h4gcCj": {
+      "type": "section-divider",
+      "disabled": true,
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "padding_top": 38,
+        "padding_bottom": 44
+      }
+    },
+    "related": {
+      "type": "related-products",
+      "blocks": {
+        "related": {
+          "type": "related",
+          "settings": {
+            "title": "You May Also Like",
+            "product_recommendations_limit": 4
+          }
+        },
+        "recent": {
+          "type": "recent",
+          "settings": {
+            "title": "Recently viewed",
+            "product_recently_limit": 4
+          }
+        }
+      },
+      "block_order": [
+        "related",
+        "recent"
+      ],
+      "disabled": true,
+      "settings": {
+        "enable_tabs": true,
+        "columns_mobile": "1",
+        "type_style": "subheading-text",
+        "tab_heading_size": 120,
+        "bg_color": "",
+        "width": "wrapper--full-padded",
+        "padding_top": 72,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_text_De37Rh",
+    "38ff978b-66eb-4318-9ce0-94db8ff86311",
+    "section_columns_y4Q9yC",
+    "section_icons_row_kXRzWp",
+    "section_text_XLMLyg",
+    "section_columns_LT3KLd",
+    "section_columns_UkTVmi",
+    "section_icons_row_Vh86Qz",
+    "section_divider_LqgKya",
+    "section_text_qq4CBy",
+    "section_columns_949Pkm",
+    "section_video_BDed9J",
+    "section_text_U6kRh9",
+    "section_image_accordions_YjpyGA",
+    "tabs",
+    "section_accordions_JdRzdT",
+    "section_video_MeMtcn",
+    "ss_scrolling_images_G9wK3T",
+    "172696648968e9a7db",
+    "section_divider_h4gcCj",
+    "related"
+  ]
+}

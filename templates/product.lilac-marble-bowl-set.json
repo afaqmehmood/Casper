@@ -1,0 +1,668 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "subheading": "none",
+            "padding_bottom": 20
+          }
+        },
+        "inventory_countdown": {
+          "type": "inventory_countdown",
+          "settings": {
+            "max_inventory": 10,
+            "hide_inventory_count": true,
+            "padding_bottom": 14
+          }
+        },
+        "judge_me_reviews_preview_badge_99RDKm": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider_KirCDA": {
+          "type": "divider",
+          "settings": {
+            "show_line": false,
+            "padding_bottom": 20
+          }
+        },
+        "7ddd2db6-1d92-43ee-a7d9-e786662f9ced": {
+          "type": "icon",
+          "settings": {
+            "icon_name": "none",
+            "icon_color": "#000000",
+            "icon_width": 20,
+            "icon_text": "Made from 100% natural New York Lilac Marble, renowned for its subtle lilac colours and striking purple veins. Set includes 2 large marble dog bowls + one marble tray. Sold as a complete matching 3-piece set.",
+            "text_size": 90,
+            "width": "full",
+            "text_alignment": "left",
+            "bg_color": "#ffffff",
+            "padding_bottom": 8
+          }
+        },
+        "divider_Pnjbp8": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 42
+          }
+        },
+        "feature_QLwJJf": {
+          "type": "feature",
+          "disabled": true,
+          "settings": {
+            "icon_name": "none",
+            "icon_width": 25,
+            "title": "",
+            "text": "<p><strong>Set includes: Two large marble dog bowls + one marble tray. <br/></strong><em>This item is sold as a complete matching 3-piece set.</em></p>",
+            "bg_color": "#f7f9fa",
+            "text_color": "#000000",
+            "padding_bottom": 44
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "show_labels": true,
+            "show_quantity": false,
+            "show_payment_button": false,
+            "enable_subscriptions_selectors": false,
+            "padding_bottom": 20
+          }
+        },
+        "popup_text_z3AMRk": {
+          "type": "popup_text",
+          "disabled": true,
+          "settings": {
+            "text": "Size Guide →",
+            "popup_page": "size-guide-marble-bowl-set",
+            "padding_bottom": 20
+          }
+        },
+        "divider_ETJjGn": {
+          "type": "divider",
+          "settings": {
+            "show_line": false,
+            "padding_bottom": 32
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "padding_bottom": 20
+          }
+        },
+        "product_accordion_wjRTMJ": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "OVERVIEW",
+            "heading_style": "font-body",
+            "accordion_text": "<p>Transform your dog's dining area and your kitchen with our limited edition New York Lilac Marble Dog Bowl Set. Made from 100% natural New York lilac marble, this elegant dog bowl set includes two large marble dog bowls and a sleek marble tray.</p><p>Designed for both style and function, the marble tray offers stability to prevent spills, while adding sophistication. Each set showcases unique lilac colours and striking purple veins. Durable, chew-resistant and naturally cooling for fresher water, this luxurious dog bowl set is perfect for design-conscious dog parents seeking beauty and practicality.</p>",
+            "accordion_page": "",
+            "padding_bottom": 8
+          }
+        },
+        "divider_ynYQiH": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 24
+          }
+        },
+        "product_accordion": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "MATERIALS & CARE",
+            "heading_style": "font-body",
+            "accordion_text": "<p><strong>Materials</strong></p><p>100% natural New York Marble </p><p>New York Marble, or sometimes referred to as Milas Lilac Marble, is sourced from the southern coastal region of Milas / Bodrum in Turkey. Known for its white and lilac hues with striking purple veining, this marble is an ideal choice for pet parents who appreciate premium interior finishes.</p><p><strong>Care</strong><br/>We recommend hand washing with warm water and mild detergent. </p><p>Note: As this item is made from marble - colours may vary from the images. The variations in the natural marble add to the beauty and character of the product.</p>",
+            "accordion_page": "",
+            "padding_bottom": 8
+          }
+        },
+        "divider_GWyhRG": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 24
+          }
+        },
+        "product_accordion_HAJ44n": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "FEATURES",
+            "heading_style": "font-body",
+            "accordion_text": "<p></p><ul><li>100% natural New York Marble</li><li>Two bowls in one set</li><li>Bowl Size: 15cm Diameter (2) </li><li>Bowl Capacity: 900ml</li><li>Non-slip / non-spill marble tray</li><li>Chemical-free, BPA-free, and plastic-free</li><li>Total set weight: 6kg</li></ul>",
+            "accordion_page": "",
+            "padding_bottom": 8
+          }
+        },
+        "divider_F8YpWV": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 20
+          }
+        },
+        "9927e90d-2ecb-4104-af67-0dadf75b2a0a": {
+          "type": "product_accordion",
+          "settings": {
+            "accordion_heading": "DELIVERY & WARRANTY",
+            "heading_style": "font-body",
+            "accordion_text": "<p><strong>Enjoy Free Standard Delivery - for a limited time.</strong></p><ul><li>Orders are dispatched from our Sydney warehouse within 1 - 2 business days.</li><li>Delivery time typically is between 2 - 10 business days, depending on your location.</li><li>We will send your tracking number once order is dispatched.</li></ul><p><strong>Warranty Guarantee<br/></strong>Shop with peace of mind - we offer warranty on manufacturing defects.</p>",
+            "accordion_page": "",
+            "padding_bottom": 8
+          }
+        },
+        "divider_ctwBw9": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 12
+          }
+        },
+        "icon_row_wUc6Mj": {
+          "type": "icon_row",
+          "settings": {
+            "icon_name_1": "truck",
+            "icon_color_1": "",
+            "icon_width_1": 20,
+            "icon_text_1": "Free & Reliable Delivery",
+            "icon_name_2": "map-pin",
+            "icon_color_2": "",
+            "icon_width_2": 20,
+            "icon_text_2": "Based in Sydney Australia",
+            "icon_name_3": "check",
+            "icon_color_3": "",
+            "icon_width_3": 20,
+            "icon_text_3": "12 Month Warranty Guarantee",
+            "icon_name_4": "gem",
+            "icon_color_4": "",
+            "icon_width_4": 20,
+            "icon_text_4": "100% Natural Marble",
+            "alignment": "left",
+            "bg_color": "#ffffff",
+            "padding_bottom": 20
+          }
+        },
+        "divider_M7EVRQ": {
+          "type": "divider",
+          "settings": {
+            "show_line": true,
+            "padding_bottom": 18
+          }
+        },
+        "feature_XhjQKN": {
+          "type": "feature",
+          "settings": {
+            "icon_name": "support",
+            "icon_width": 25,
+            "title": "Have a question? Chat with us!",
+            "text": "<p>Click the chat bubble icon to connect instantly with our team, or email us anytime at <a href=\"mailto:hello@koozipets.com.au&quot;>hello@koozipets.com.au\" title=\"mailto:hello@koozipets.com.au&quot;>hello@koozipets.com.au\">hello@koozipets.com.au</a>.</p>",
+            "bg_color": "rgba(0,0,0,0)",
+            "text_color": "#000000",
+            "padding_bottom": 28
+          }
+        },
+        "divider_bCnfPw": {
+          "type": "divider",
+          "disabled": true,
+          "settings": {
+            "show_line": false,
+            "padding_bottom": 20
+          }
+        },
+        "feature_FhmfTj": {
+          "type": "feature",
+          "disabled": true,
+          "settings": {
+            "icon_name": "none",
+            "icon_width": 25,
+            "title": "",
+            "text": "<h5><strong>BUY ANY 2 ITEMS SAVE 20% OFF YOUR ORDER </strong></h5><p>DISCOUNT IS APPLIED AUTOMATICALLY AT CHECKOUT<strong> </strong></p>",
+            "bg_color": "#ffffff",
+            "text_color": "#000000",
+            "padding_bottom": 0
+          }
+        },
+        "upsell": {
+          "type": "upsell",
+          "disabled": true,
+          "settings": {
+            "product_list": [
+              "cloud-sofa-dog-bed-denim-blue-linen",
+              "cloud-sofa-dog-bed-buttercream-boucle",
+              "plush-flat-dog-bed-red-clay-linen"
+            ],
+            "padding_bottom": 20
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "inventory_countdown",
+        "judge_me_reviews_preview_badge_99RDKm",
+        "divider_KirCDA",
+        "7ddd2db6-1d92-43ee-a7d9-e786662f9ced",
+        "divider_Pnjbp8",
+        "feature_QLwJJf",
+        "form",
+        "popup_text_z3AMRk",
+        "divider_ETJjGn",
+        "description",
+        "product_accordion_wjRTMJ",
+        "divider_ynYQiH",
+        "product_accordion",
+        "divider_GWyhRG",
+        "product_accordion_HAJ44n",
+        "divider_F8YpWV",
+        "9927e90d-2ecb-4104-af67-0dadf75b2a0a",
+        "divider_ctwBw9",
+        "icon_row_wUc6Mj",
+        "divider_M7EVRQ",
+        "feature_XhjQKN",
+        "divider_bCnfPw",
+        "feature_FhmfTj",
+        "upsell"
+      ],
+      "custom_css": [
+        "h1 {font-size: 22px;}"
+      ],
+      "settings": {
+        "product_sticky_enable": true,
+        "image_layout": "grid",
+        "image_width": "large",
+        "product_image_aspect_ratio": true,
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "bg_color": "",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_text_CULJF3": {
+      "type": "section-text",
+      "blocks": {
+        "subheading_yHfc8F": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p>100% Natural New York Lilac Marble</p>",
+            "size": 100,
+            "margin_bottom": 16
+          }
+        },
+        "heading_pGaJPC": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Elevate Mealtime With The Most Beautiful Dog Bowl Set</p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "text_MBL88j": {
+          "type": "text",
+          "settings": {
+            "text": "<p>New York Marble, or Lilac Milas Marble, is celebrated for its exceptional quality and stunning deep purple and lilac veins with white hues. Sourced from the mountains of Milas on the southern coast of Turkey, it's a true work of art and a home statement piece.</p>",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "subheading_yHfc8F",
+        "heading_pGaJPC",
+        "text_MBL88j"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": true,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 78,
+        "padding_bottom": 32
+      }
+    },
+    "38ff978b-66eb-4318-9ce0-94db8ff86311": {
+      "type": "section-columns",
+      "blocks": {
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-0": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-343_1.jpg",
+            "title": "One Complete Pet Dining Set",
+            "text": "<p>In this set you get not one, but two marble dog bowls, that both have a generous 900mL capacity for water and dog food. They sit securely in precision - cut holes in a beautiful marble tray.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-1": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/Marble_Bowl_Set_Campaign.jpg",
+            "title": "Elegant & Timeless Style",
+            "text": "<p>The sleek marble dog bowls and a tray set, made from New York Marble, beautifully complements your home with its unique lilac and white colours and striking purple veins.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-2": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify://shop_images/KOOZI-CAMPAIGN-271_1.jpg",
+            "title": "Spill-Proof & Anti-Scratch",
+            "text": "<p>The stunning marble tray prevents your dog from tipping the marble bowls over, resists nibbling and is fitted with a soft non-scratch base.</p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-0",
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-1",
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "columns": 3,
+        "columns_mobile": "1",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 1.1,
+        "mobile_aspect_ratio": 1,
+        "heading_size": 120,
+        "text_size": 90,
+        "bg_color_secondary": true,
+        "color_borders": "#000000",
+        "layout_mobile": "stacked",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_divider_hpBqFy": {
+      "type": "section-divider",
+      "disabled": true,
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "section_image_with_text_A8GpTm": {
+      "type": "section-image-with-text",
+      "settings": {
+        "section_height": "six-fifty-height",
+        "layout": "inline",
+        "image_location": "left",
+        "image_width": "standard",
+        "image": "shopify://shop_images/Marble-bowl-set-placing-bowl-down.jpg",
+        "subheading": "",
+        "title": "<p>Two Marble Dog Bowls in One Set</p>",
+        "heading_highlight_type": "circle",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "heading_size": 110,
+        "content": "<p>With our Marble Dog Bowl and Tray Set, you get not just one, but two beautifully made marble dog bowls. Perfect for both food and water, this set provides a complete, elegant dining solution for your dog, and your interiors.</p>",
+        "text_alignment": "left",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "video_link": "",
+        "text_color": "text-dark",
+        "bg_color": "",
+        "gradient": "",
+        "section_width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_image_with_text_T3bNxG": {
+      "type": "section-image-with-text",
+      "settings": {
+        "section_height": "six-fifty-height",
+        "layout": "inline",
+        "image_location": "right",
+        "image_width": "standard",
+        "image": "shopify://shop_images/marble_bowl_set_studio.jpg",
+        "subheading": "",
+        "title": "<p>Marble Dog Bowls are Kept Securely in Place</p><p></p>",
+        "heading_highlight_type": "circle",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "heading_size": 110,
+        "content": "<p>Each marble dog bowl and tray set includes two bowls - one for food and one for water. They sit in a precision-cut marble tray to ensure a secure fit, and to prevent the dog bowls from slipping around.</p>",
+        "text_alignment": "left",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "video_link": "",
+        "text_color": "text-dark",
+        "bg_color": "",
+        "gradient": "",
+        "section_width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_icons_row_3xXg4F": {
+      "type": "section-icons-row",
+      "blocks": {
+        "text_J6yaHV": {
+          "type": "text",
+          "settings": {
+            "icon_name": "paw-heart",
+            "title": "Marble Helps keep Water Cool",
+            "text": "<p>Marble helps keep water cool longer because it maintains a stable temperature.</p><h6></h6>"
+          }
+        },
+        "text_w7dNC9": {
+          "type": "text",
+          "settings": {
+            "icon_name": "check",
+            "title": "Easy to Clean",
+            "text": "<p>Marble has a smooth, non-porous surface that doesn't trap dirt or bacteria. This makes it easy to hand wash.</p>"
+          }
+        },
+        "text_44zK6f": {
+          "type": "text",
+          "settings": {
+            "icon_name": "pencils",
+            "title": "Unique Marble Design",
+            "text": "<p>Each marble dog bowl is a unique piece of art, showcasing natural lilac purple veins. Each bowl is different and one-of-a-kind.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_J6yaHV",
+        "text_w7dNC9",
+        "text_44zK6f"
+      ],
+      "custom_css": [],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "alignment": "center",
+        "columns": 3,
+        "icons_width": 25,
+        "show_vertical_borders": false,
+        "show_horizontal_borders": true,
+        "heading_size": 110,
+        "text_size": 90,
+        "bg_color": "#ffffff",
+        "text_color": "#333333",
+        "box_color": "#ffffff",
+        "color_border": "#333333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "layout_mobile": "stacked",
+        "width": "wrapper",
+        "padding_top": 24,
+        "padding_bottom": 22
+      }
+    },
+    "tabs": {
+      "type": "section-accordions",
+      "blocks": {
+        "acordion-0": {
+          "type": "text",
+          "settings": {
+            "title": "Is marble safe for dogs?",
+            "text": "<p>Natural marble stone is safe for dog use. It is non-toxic and non-porous, which helps reduce bacterial growth. It's also more sturdy and chew-resistant. </p>"
+          }
+        },
+        "acordion-1": {
+          "type": "text",
+          "settings": {
+            "title": "Where is the marble from?",
+            "text": "<p>New York Marble, or sometimes referred to as Milas Lilac Marble, is sourced from the Milas in the southern coastal region of Turkey near Bodrum.<br/>Known for its white background and distinctive lilac-purple veining, this marble is a premium choice for high-end interiors and design.</p>"
+          }
+        },
+        "text_LYnbeK": {
+          "type": "text",
+          "settings": {
+            "title": "When will my order ship?",
+            "text": "<p>Enjoy Free Standard Delivery.</p><p>Orders are dispatched next day from our Sydney warehouse, unless weekend or holidays.<br/><br/>Shipping takes between 3 - 7 days, depending on your location.</p>"
+          }
+        },
+        "acordion-2": {
+          "type": "text",
+          "settings": {
+            "title": "What is included in the Marble Dog Bowl Set?",
+            "text": "<p>Two generously sized marble bowls and a large marble marble tray. Non-slip base. </p>"
+          }
+        },
+        "d0defd0d-94c3-403c-bd36-dc2f140a104f": {
+          "type": "text",
+          "settings": {
+            "title": "What is the capacity of each dog bowl?",
+            "text": "<p>Each bowl has a 900ML capacity, which is suitable for both small and large dogs and cats.<br/><br/>Use one for food and one for water. </p>"
+          }
+        },
+        "text_zi8YL4": {
+          "type": "text",
+          "settings": {
+            "title": "Warranty and returns",
+            "text": "<p><strong>Returns</strong><br/>The Marble Bowl Tray Set is a limited edition piece and sale is final. It cannot be returned for change of mind.<br/><br/><strong>Warranty<br/></strong>Warranty is offered for manufacturing defects including faulty workmanship or materials. This warranty does not cover normal wear and tear or damages caused by the customer or by dog use, such as excessive scratching, biting, accidents, chewing, or other use.</p><p>For warranty issues, please contact us within 48 hours of opening the bed at <a>hello@koozipets.com.au</a>, including images of the defective or damaged item. Failure to provide this information within the specified timeframe may void your exchange or refund.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "acordion-0",
+        "acordion-1",
+        "text_LYnbeK",
+        "acordion-2",
+        "d0defd0d-94c3-403c-bd36-dc2f140a104f",
+        "text_zi8YL4"
+      ],
+      "custom_css": [],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "title": "Frequently Asked Questions",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 70,
+        "padding_bottom": 50
+      }
+    },
+    "section_divider_BVKQeh": {
+      "type": "section-divider",
+      "disabled": true,
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "related": {
+      "type": "related-products",
+      "blocks": {
+        "related": {
+          "type": "related",
+          "settings": {
+            "title": "You May Also Like",
+            "product_recommendations_limit": 4
+          }
+        },
+        "recent": {
+          "type": "recent",
+          "settings": {
+            "title": "Recently viewed",
+            "product_recently_limit": 4
+          }
+        }
+      },
+      "block_order": [
+        "related",
+        "recent"
+      ],
+      "disabled": true,
+      "settings": {
+        "enable_tabs": true,
+        "columns_mobile": "1",
+        "type_style": "subheading-text",
+        "tab_heading_size": 120,
+        "bg_color": "",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_text_CULJF3",
+    "38ff978b-66eb-4318-9ce0-94db8ff86311",
+    "section_divider_hpBqFy",
+    "section_image_with_text_A8GpTm",
+    "section_image_with_text_T3bNxG",
+    "section_icons_row_3xXg4F",
+    "tabs",
+    "section_divider_BVKQeh",
+    "related"
+  ]
+}

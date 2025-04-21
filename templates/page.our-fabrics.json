@@ -1,0 +1,391 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "bg_color_secondary": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_text_Lta8rA": {
+      "type": "section-text",
+      "blocks": {
+        "heading_UUzx6M": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Our Fabrics and Materials</p>",
+            "size": 115,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "text_WzYKw9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our carefully selected premium fabrics are designed to blend style, durability, and comfort. Each material is chosen to enhance your home’s aesthetic while providing ultimate comfort for your dog.<br/><br/>Made from a mix of natural, breathable fibers and performance fabrics, they strike the perfect balance between elegance and everyday functionality. Plus, all of our fabrics are Oeko-Tex® Standard 100 Certified, ensuring they are free from harmful substances for your peace of mind.</p>",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "heading_UUzx6M",
+        "text_WzYKw9"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 90,
+        "padding_bottom": 30
+      }
+    },
+    "section_divider_EraVi9": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 32
+      }
+    },
+    "section_overlapping_images_8KaUYM": {
+      "type": "section-overlapping-images",
+      "custom_css": [
+        "h2 {font-size: 16px;}"
+      ],
+      "settings": {
+        "text_position": "right",
+        "text_alignment": "left",
+        "images_width": 750,
+        "images_offset": 60,
+        "image_1": "shopify://shop_images/KOOZI-CAMPAIGN-117_1_e93f0983-b590-4d93-a972-3b36c65cc6f6.jpg",
+        "image_link_1": "",
+        "image_2": "shopify://shop_images/KOOZI-CAMPAIGN-246-2_ad8b1094-ba99-4e37-a52f-28941f14ddee.jpg",
+        "image_link_2": "",
+        "hide_image_2": true,
+        "title": "<p>Bed Covers</p>",
+        "heading_highlight_type": "circle",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "description": "<p>Our beds are made with fabrics that are as functional as they are beautiful. <br/><br/>From the organic tones and light  texture of our performance linen to the cosy plush feel of our boucle fabric, both are chosen with endurance and timeless style in mind. </p>",
+        "heading_size": 90,
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "video_text": "",
+        "video_link": "",
+        "bg_color_secondary": false,
+        "gradient": "",
+        "animation": "horizontal",
+        "animation_intensity": 50,
+        "width": "wrapper--full-padded",
+        "padding_top": 50,
+        "padding_bottom": 30
+      }
+    },
+    "section_text_RiMcmY": {
+      "type": "section-text",
+      "blocks": {
+        "text_PNkgNF": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong> Linen Fabric</strong><br/>Crafted from performance blend with 460gsm weight, our linen fabric is a mix of durability and natural beauty. With its earthy organic colours, this thick yet breathable fabric offers timeless appeal. It’s also machine washable, making it practical for everyday use while maintaining a luxurious feel.<br/><br/></p><p><strong>Boucle Fabric</strong><br/>This upholstery-grade acrylic-cotton blend fabric, at 600gsm, is all about texture and style. Its cosy, soft surface gives off a trendy, inviting vibe, ideal for adding a modern yet comfortable touch to your home.</p>",
+            "size": 110
+          }
+        }
+      },
+      "block_order": [
+        "text_PNkgNF"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 22,
+        "padding_bottom": 30
+      }
+    },
+    "section_divider_NE6wxd": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "padding_top": 30,
+        "padding_bottom": 32
+      }
+    },
+    "section_overlapping_images_McYt8D": {
+      "type": "section-overlapping-images",
+      "settings": {
+        "text_position": "left",
+        "text_alignment": "left",
+        "images_width": 750,
+        "images_offset": 60,
+        "image_1": "shopify://shop_images/KOOZI-CAMPAIGN-233_1_92fcec5b-fe25-4432-8570-e9eab21885bb.jpg",
+        "image_link_1": "",
+        "image_2": "shopify://shop_images/medium_crate.jpg",
+        "image_link_2": "",
+        "hide_image_2": false,
+        "title": "<p>The Koozi Side Table Crate</p>",
+        "heading_highlight_type": "circle",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "description": "<p>Our Koozi Side Table Crate is designed to seamlessly blend style and functionality, offering a chic, pet-friendly solution that complements any home. With a beautiful marble-look top and a wood-inspired finish, it provides the perfect balance of elegance and durability for both you and your dog.</p>",
+        "heading_size": 100,
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "video_text": "",
+        "video_link": "",
+        "bg_color_secondary": false,
+        "gradient": "",
+        "animation": "horizontal",
+        "animation_intensity": 50,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 18
+      }
+    },
+    "section_accordions_6dTVbD": {
+      "type": "section-accordions",
+      "blocks": {
+        "text_k3q8UK": {
+          "type": "text",
+          "settings": {
+            "title": "Elm wood structure",
+            "text": "<p>We understand the charm of natural elm wood with its warm texture and timeless appeal. But for a side table that doubles as a dog den, natural wood can be prone to wear, scratches, and warping in high-traffic, pet-friendly homes.</p><p>That’s why we’ve chosen to build our side table crate using <strong>plywood with a eucalyptus core and a melamine surface</strong> that replicates the rich texture and colour of natural elm wood. This combination delivers both durability and a sleek, natural aesthetic, ensuring your home looks sophisticated while being pet-friendly.</p>"
+          }
+        },
+        "text_Qp9PrH": {
+          "type": "text",
+          "settings": {
+            "title": "What are the advantages of engineered wood?",
+            "text": "<p>By using plywood with a melamine finish in an elm wood texture, we’ve created the Koozi Side Table Crate that’s both practical and elegant - perfect for those who appreciate the look and texture of natural wood, but with the durability and low-maintenance benefits of modern materials.</p><p>Here’s why this choice is ideal for your home:</p><ul><li><strong> Elm Wood Grain Texture</strong>: Our melamine finish closely mimics the natural grain of elm wood, offering a refined, organic look that complements your home’s décor. You get the warmth and beauty of wood without the vulnerability of real elm.</li><li><strong>Strong Engineered Materials</strong>: The engineered plywood core provides strength and durability, with resistance to warping. This ensures a robust structure to ensure your Koozi Side Table Crate stands up to daily use by both pets and people.</li><li><strong>Scratch & Wear Resistant</strong>: The melamine surface offers protection against scratches.</li><li><strong>Moisture Resistant</strong>: Unlike natural wood, which can absorb moisture and warp over time, the engineered wood combined with melamine prevents water damage. This is especially useful in homes with pets prone to dribbles or accidents.</li><li><strong>Stain and Heat Resistant</strong>: The material is more resistant to stains and heat damage from cups or pet-related messes. This means less worry and easy clean-up, all while keeping the look of elegant elm wood.</li><li><strong>Eco-Friendly & Sustainable</strong>: MDF plywood is a fast-growing, renewable resource, making it an eco-friendly choice for furniture construction.</li><li><strong>Easy to Clean & Maintain</strong>: Unlike solid wood that requires careful maintenance, our elm plywood is designed for easy care. A simple wipe-down is all it takes to keep the surface looking fresh, making it perfect for busy pet homes.</li></ul><p></p>"
+          }
+        },
+        "text_RMwfpX": {
+          "type": "text",
+          "settings": {
+            "title": "The Marble Top",
+            "text": "<p>We know that natural marble is a beautiful material with incredible qualities - timeless, luxurious, and a true design statement. However, for a side table that doubles as a dog crate, it simply isn’t a practical safe choice. Marble can be heavy, prone to staining, and sensitive to wear, making it less suited for the everyday demands of a home with pets.</p><p>However, we didn’t want to compromise on style. That’s why we sought to replicate the classic appeal of white Carrara marble using a more practical solution that is waterproof, lighter in weight and easier to maintain. This way, pet parents can still enjoy the luxurious look of marble.</p>"
+          }
+        },
+        "text_BQM7PX": {
+          "type": "text",
+          "settings": {
+            "title": "What are the advantages?",
+            "text": "<ul><li><strong>Replicating the Look of Marble</strong>: The melamine surface captures the timeless elegance of Carrara marble, allowing you to enjoy its classic aesthetic without the fragility of natural stone. It seamlessly blends style and practicality in your home.</li><li><strong>Durable & Scratch Resistant</strong>: Unlike real marble, which can easily scratch, the melamine coating provides a durable, scratch-resistant surface. Whether it’s the occasional scuff from pet paws or daily wear, your side table will stay looking sleek and polished.</li><li><strong>Stain Resistance</strong>: Natural marble is porous, but our melamine-coated MDF resists stains, so you don’t have to worry about spills or pet-related messes causing damage or discoloration.</li><li><strong>Moisture & Heat Protection</strong>: Melamine surfaces protect against moisture and heat, essential for a table that sees everyday use. The MDF core won’t warp or degrade, and the surface stays strong even in humid conditions or with hot items placed on it.</li><li><strong>Easy Maintenance</strong>: Real marble can require special care, but our melamine-coated MDF is easy to clean with a simple wipe. It’s designed for a pet-friendly home, offering effortless maintenance without sacrificing style.</li><li><strong>Eco-Friendly & Sustainable</strong>: Using MDF made from recycled wood fibers is an environmentally conscious choice. Combined with a durable melamine coating, it offers a long-lasting alternative to solid wood or marble, while reducing environmental impact.<br/></li></ul><p><br/>With this approach, we’ve combined the best of both worlds—delivering a beautifully designed piece that’s functional for dog parents and stylish for any home.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_k3q8UK",
+        "text_Qp9PrH",
+        "text_RMwfpX",
+        "text_BQM7PX"
+      ],
+      "settings": {
+        "layout": "one-column",
+        "show_accordion_divider": false,
+        "title": "",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "#fafafa",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 22,
+        "padding_bottom": 60
+      }
+    },
+    "section_overlapping_images_EpfpnH": {
+      "type": "section-overlapping-images",
+      "settings": {
+        "text_position": "right",
+        "text_alignment": "left",
+        "images_width": 750,
+        "images_offset": 60,
+        "image_link_1": "",
+        "image_2": "shopify://shop_images/KOOZI-CAMPAIGN-300.jpg",
+        "image_link_2": "",
+        "hide_image_2": false,
+        "title": "<p>Sofa Toppers</p>",
+        "heading_highlight_type": "circle",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "description": "<h5>For our Sofa Toppers, we’ve chosen a thick luxurious natural 30% linen and 70% cotton blend, offering the perfect balance between comfort and durability. Every detail of our fabric selection reflects our commitment to creating soft furnishings that elevate your living space without compromising on comfort or practicality.</h5>",
+        "heading_size": 100,
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "video_text": "",
+        "video_link": "",
+        "bg_color_secondary": true,
+        "gradient": "",
+        "animation": "horizontal",
+        "animation_intensity": 50,
+        "width": "wrapper--full-padded",
+        "padding_top": 36,
+        "padding_bottom": 26
+      }
+    },
+    "section_text_KVfJtd": {
+      "type": "section-text",
+      "blocks": {
+        "text_9DViUP": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>The fabric is made from a linen-cotton blend. This upholstery-grade fabric at 480gsm offers the perfect combination of thickness and lightness. Its soft, textured feel, paired with neutral, minimal colours, makes it both comfortable and stylish. Plus, it’s machine washable for easy care, ensuring long-lasting durability without sacrificing comfort.</h5>",
+            "size": 110
+          }
+        }
+      },
+      "block_order": [
+        "text_9DViUP"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": true,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 30,
+        "padding_bottom": 60
+      }
+    },
+    "section_collection_83hT9t": {
+      "type": "section-collection",
+      "settings": {
+        "collection": "launch-collection-a-shared-sanctuary",
+        "products_layout": "carousel",
+        "number_of_products": 6,
+        "products_per_row_on_desktop": 4,
+        "columns_mobile": "2",
+        "text_alignment": "text-left",
+        "title": "<p>Launch Collection</p>",
+        "heading_highlight_type": "circle",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "heading_size": 80,
+        "text": "",
+        "text_size": 100,
+        "button_text": "View All",
+        "button_color": "btn--black",
+        "button_style": "btn--outline",
+        "button_size": "btn--large",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": true,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_icons_row_nMRqPy": {
+      "type": "section-icons-row",
+      "blocks": {
+        "text_QARkG9": {
+          "type": "text",
+          "settings": {
+            "icon_name": "truck",
+            "title": "Quality",
+            "text": "<p>on all order over $99</p>"
+          }
+        },
+        "text_tcnbyG": {
+          "type": "text",
+          "settings": {
+            "icon_name": "check",
+            "title": "Free Returns",
+            "text": "<p>within 30 days of purchase</p>"
+          }
+        },
+        "text_NzyckT": {
+          "type": "text",
+          "settings": {
+            "icon_name": "eco-friendly",
+            "title": "1% Donated",
+            "text": "<p>to forest conservation</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_QARkG9",
+        "text_tcnbyG",
+        "text_NzyckT"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "alignment": "center",
+        "columns": 3,
+        "icons_width": 20,
+        "show_vertical_borders": true,
+        "show_horizontal_borders": true,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color": "",
+        "text_color": "#333333",
+        "box_color": "",
+        "color_border": "#333333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "layout_mobile": "grid",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "recent_products_ynHcY4": {
+      "type": "recent-products",
+      "settings": {
+        "product_recently_limit": 4,
+        "product_recently_minimum": 4,
+        "title": "Recently viewed",
+        "columns_mobile": "1",
+        "bg_color": "",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_text_Lta8rA",
+    "section_divider_EraVi9",
+    "section_overlapping_images_8KaUYM",
+    "section_text_RiMcmY",
+    "section_divider_NE6wxd",
+    "section_overlapping_images_McYt8D",
+    "section_accordions_6dTVbD",
+    "section_overlapping_images_EpfpnH",
+    "section_text_KVfJtd",
+    "section_collection_83hT9t",
+    "section_icons_row_nMRqPy",
+    "recent_products_ynHcY4"
+  ]
+}

@@ -1,0 +1,813 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "bg_color_secondary": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_image_hXfHBk": {
+      "type": "section-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Khaki_linen_cloud_dog_bed.jpg",
+        "height": "six-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "one-third-height-mobile",
+        "enable_stretch": true,
+        "image_position": "center",
+        "bg_color_secondary": false,
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_banner_image_Hjt9Ge": {
+      "type": "section-banner-image",
+      "blocks": {
+        "heading_hNt8gH": {
+          "type": "heading",
+          "settings": {
+            "text": "<p> </p>",
+            "size": 180,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hNt8gH"
+      ],
+      "settings": {
+        "height": "original-height",
+        "enable_mobile_height": true,
+        "mobile_height": "original-height-mobile",
+        "image": "shopify://shop_images/nm_kl_2x_cde1b33d-d152-4fd6-b708-407722cdcde6.png",
+        "image_mobile": "shopify://shop_images/herohrad_2x_48bc1be7-2b1b-4e56-a258-5e2c5370e9e6.png",
+        "overlay_opacity": 0,
+        "transition": "slide",
+        "enable_zoom_animation": false,
+        "enable_card_scrolling": false,
+        "increase_border_radius": false,
+        "text_width": "normal",
+        "text_position": "bottom-left",
+        "text_alignment": "text-left",
+        "text_color": "text-light"
+      }
+    },
+    "section_text_RmT3Dj": {
+      "type": "section-text",
+      "blocks": {
+        "heading_anqkCx": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Your dog's best nap</p><p>is on a Cloud </p>",
+            "size": 115,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "text_TVttKL": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<h5>Unlike bulky bolster beds, the Koozi Cloud Bed is tailored to small and medium dogs, with a sleek design that beautifully blends with your interiors.</h5>",
+            "size": 135
+          }
+        },
+        "button_qhV6RY": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_text": "Shop now",
+            "button_link": "shopify://products/cloud-sofa-dog-bed-oatmeal-linen",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "heading_anqkCx",
+        "text_TVttKL",
+        "button_qhV6RY"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": true,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 28,
+        "padding_bottom": 24
+      }
+    },
+    "section_divider_rANXM6": {
+      "type": "section-divider",
+      "disabled": true,
+      "settings": {
+        "show_line": true,
+        "width": "wrapper",
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "section_image_PnqBm3": {
+      "type": "section-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/KOOZI-CAMPAIGN-229_copy.jpg",
+        "height": "original-height",
+        "enable_mobile_height": true,
+        "mobile_height": "original-height-mobile",
+        "enable_stretch": true,
+        "image_position": "center",
+        "bg_color_secondary": false,
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_icons_row_6h6yVq": {
+      "type": "section-icons-row",
+      "blocks": {
+        "text_Pc9pPp": {
+          "type": "text",
+          "settings": {
+            "icon_name": "check",
+            "title": "3/4 Length Bolster",
+            "text": "<p>Easier to get on and off + more space to stretch</p>"
+          }
+        },
+        "text_K4xUEw": {
+          "type": "text",
+          "settings": {
+            "icon_name": "check",
+            "title": "Less bulky & high",
+            "text": "<p>More comfy, and won't overbear your living space</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_Pc9pPp",
+        "text_K4xUEw"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "alignment": "center",
+        "columns": 3,
+        "icons_width": 20,
+        "show_vertical_borders": false,
+        "show_horizontal_borders": false,
+        "heading_size": 100,
+        "text_size": 80,
+        "bg_color": "",
+        "text_color": "#333333",
+        "box_color": "",
+        "color_border": "#333333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "layout_mobile": "grid",
+        "width": "wrapper--full-padded",
+        "padding_top": 20,
+        "padding_bottom": 6
+      }
+    },
+    "section_icons_row_HxErPi": {
+      "type": "section-icons-row",
+      "blocks": {
+        "text_kWPnfW": {
+          "type": "text",
+          "settings": {
+            "icon_name": "check",
+            "title": "Easier to get on & off",
+            "text": "<p>The bolster wraps around just 3/4 of the bed</p>"
+          }
+        },
+        "text_Y4WKmj": {
+          "type": "text",
+          "settings": {
+            "icon_name": "check",
+            "title": "Not bulky & oversized",
+            "text": "<p>The sleek design means the bed won’t dominate your living space</p>"
+          }
+        },
+        "text_JUeDNQ": {
+          "type": "text",
+          "settings": {
+            "icon_name": "check",
+            "title": "Cloud-like comfort",
+            "text": "<p>Softer cooling-gel memory foam provides gentle joint support.</p>"
+          }
+        },
+        "text_xMxpnh": {
+          "type": "text",
+          "settings": {
+            "icon_name": "check",
+            "title": "Upholstery linen & boucle covers",
+            "text": "<p>Stylish fabric covers: durable & comfy</p>"
+          }
+        },
+        "text_aCPtGF": {
+          "type": "text",
+          "settings": {
+            "icon_name": "check",
+            "title": "Machine washable",
+            "text": "<p>Easy to clean & maintain with removable covers</p>"
+          }
+        },
+        "text_HmY3da": {
+          "type": "text",
+          "settings": {
+            "icon_name": "check",
+            "title": "Breathable Support",
+            "text": "<p>Cooling gel memory foam for joint relief & temperature control.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_kWPnfW",
+        "text_Y4WKmj",
+        "text_JUeDNQ",
+        "text_xMxpnh",
+        "text_aCPtGF",
+        "text_HmY3da"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "alignment": "center",
+        "columns": 3,
+        "icons_width": 20,
+        "show_vertical_borders": false,
+        "show_horizontal_borders": false,
+        "heading_size": 80,
+        "text_size": 80,
+        "bg_color": "#f4f3ef",
+        "text_color": "#333333",
+        "box_color": "",
+        "color_border": "#333333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "layout_mobile": "carousel",
+        "width": "wrapper--full-padded",
+        "padding_top": 26,
+        "padding_bottom": 36
+      }
+    },
+    "section_divider_nwQgjX": {
+      "type": "section-divider",
+      "disabled": true,
+      "settings": {
+        "show_line": false,
+        "width": "wrapper",
+        "padding_top": 8,
+        "padding_bottom": 6
+      }
+    },
+    "section_image_pzGzGj": {
+      "type": "section-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/099A1163-2_b991af30-c9ba-486c-b50a-d63f77017e65.jpg",
+        "height": "one-half-height",
+        "enable_mobile_height": true,
+        "mobile_height": "one-third-height-mobile",
+        "enable_stretch": true,
+        "image_position": "center",
+        "bg_color_secondary": false,
+        "width": "wrapper--full-padded",
+        "padding_top": 24,
+        "padding_bottom": 72
+      }
+    },
+    "section_split_images_dNtFtd": {
+      "type": "section-split-images",
+      "blocks": {
+        "image_gGTEx7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/099A1196-2_copy.jpg",
+            "image_mobile": "shopify://shop_images/099A1163-2_b991af30-c9ba-486c-b50a-d63f77017e65.jpg"
+          }
+        },
+        "image_qFA3ja": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/boucle-cloud-bed-koozi_copy_2_af3b39c5-34ee-4354-aa88-6473d75ec37c.jpg",
+            "image_mobile": "shopify://shop_images/099A1196-2_copy.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_gGTEx7",
+        "image_qFA3ja"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_height": "full-height",
+        "enable_mobile_height": true,
+        "mobile_image_height": "four-fifty-height-mobile",
+        "mobile_layout": "split",
+        "text_position": "middle-center",
+        "overlay_opacity": 0,
+        "width": "wrapper--narrow",
+        "text_color": "text-light",
+        "title": "",
+        "heading_highlight_type": "italics",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "heading_size": 120,
+        "text": "",
+        "button_1_text": "",
+        "button_1_link": "",
+        "button_1_color": "btn--white",
+        "button_1_style": "btn--solid-border",
+        "button_1_size": "btn--small",
+        "button_2_text": "",
+        "button_2_link": "",
+        "button_2_color": "btn--black",
+        "button_2_style": "btn--solid",
+        "button_2_size": "btn--small"
+      }
+    },
+    "section_banner_image_PNbDiV": {
+      "type": "section-banner-image",
+      "blocks": {
+        "heading_wjQzXt": {
+          "type": "heading",
+          "settings": {
+            "text": "<p> </p>",
+            "size": 180,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wjQzXt"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "four-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "original-height-mobile",
+        "image": "shopify://shop_images/Oatmeal-Linen-Cloud-Bed-Winston.jpg",
+        "image_mobile": "shopify://shop_images/Oatmeal-Linen-Cloud-Bed-Winston.jpg",
+        "overlay_opacity": 10,
+        "transition": "zoom-out",
+        "enable_zoom_animation": false,
+        "enable_card_scrolling": false,
+        "increase_border_radius": false,
+        "text_width": "normal",
+        "text_position": "left",
+        "text_alignment": "text-left",
+        "text_color": "text-light"
+      }
+    },
+    "section_collection_ft8xDC": {
+      "type": "section-collection",
+      "custom_css": [
+        ".featured-collection .price {display: none !important;}",
+        ".product-grid-item__title {font-size: 12px;}"
+      ],
+      "settings": {
+        "collection": "cloud-dog-beds",
+        "products_layout": "grid",
+        "number_of_products": 8,
+        "products_per_row_on_desktop": 3,
+        "columns_mobile": "2",
+        "text_alignment": "text-left",
+        "title": "<p><em>20% Off Cloud Beds</em></p>",
+        "heading_highlight_type": "stroke",
+        "highlight_color": "#d43747",
+        "highlight_text_color": "#000000",
+        "heading_size": 90,
+        "text": "",
+        "text_size": 90,
+        "button_text": "",
+        "button_color": "btn--black",
+        "button_style": "btn--text",
+        "button_size": "btn--large",
+        "bg_color_secondary": true,
+        "enable_slider_mobile": false,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "ss_featured_collection_7_EyCc9G": {
+      "type": "ss-featured-collection-7",
+      "blocks": {
+        "slide_Lhmh8n": {
+          "type": "slide",
+          "settings": {
+            "product": "cloud-sofa-dog-bed-denim-blue-linen",
+            "tag": "Best Seller",
+            "url": ""
+          }
+        },
+        "slide_DJyjyx": {
+          "type": "slide",
+          "settings": {
+            "product": "cloud-sofa-dog-bed-oatmeal-linen",
+            "tag": "Best Seller",
+            "url": ""
+          }
+        },
+        "slide_b7wzMD": {
+          "type": "slide",
+          "settings": {
+            "product": "cloud-dog-bed-red-clay-linen",
+            "tag": "",
+            "url": ""
+          }
+        },
+        "slide_BWzTUq": {
+          "type": "slide",
+          "settings": {
+            "product": "cloud-sofa-dog-bed-light-khaki-linen",
+            "tag": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_Lhmh8n",
+        "slide_DJyjyx",
+        "slide_b7wzMD",
+        "slide_BWzTUq"
+      ],
+      "disabled": true,
+      "settings": {
+        "collection": "cloud-dog-beds",
+        "collection_show": 7,
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 18,
+        "heading_size_mobile": 14,
+        "heading_height": 130,
+        "heading_align": "left",
+        "heading_align_mobile": "left",
+        "use_all": false,
+        "all": "Shop All",
+        "all_url": "",
+        "all_custom": false,
+        "all_font": "josefin_sans_n4",
+        "all_size": 16,
+        "all_size_mobile": 16,
+        "all_height": 130,
+        "all_arrow": true,
+        "slider_view": 4,
+        "slider_view_mobile": 1.6,
+        "slider_gap": 20,
+        "slider_gap_mobile": 8,
+        "slider_mt": 10,
+        "slider_mt_mobile": 4,
+        "image_radius": 0,
+        "image_border_thickness": 0,
+        "image_ratio": "portrait",
+        "image_ratio_mobile": "portrait",
+        "tag_custom": false,
+        "tag_font": "josefin_sans_n4",
+        "tag_size": 11,
+        "tag_size_mobile": 11,
+        "tag_height": 100,
+        "tag_padding_vertical": 5,
+        "tag_padding_vertical_mobile": 5,
+        "tag_padding_horizontal": 15,
+        "tag_padding_horizontal_mobile": 15,
+        "tag_radius": 2,
+        "tag_border_thickness": 0,
+        "title_custom": true,
+        "title_font": "serif",
+        "title_size": 15,
+        "title_size_mobile": 14,
+        "title_height": 130,
+        "title_mt": 12,
+        "title_mt_mobile": 10,
+        "vendor_custom": false,
+        "vendor_font": "josefin_sans_n4",
+        "vendor_size": 0,
+        "vendor_size_mobile": 0,
+        "vendor_height": 130,
+        "vendor_mt": 4,
+        "vendor_mt_mobile": 4,
+        "button": "Shop Now",
+        "button_custom": true,
+        "button_font": "sans-serif",
+        "button_size": 14,
+        "button_size_mobile": 14,
+        "button_height": 90,
+        "button_padding_vertical": 12,
+        "button_padding_vertical_mobile": 12,
+        "button_padding_horizontal": 28,
+        "button_padding_horizontal_mobile": 24,
+        "button_radius": 0,
+        "button_border_thickness": 1,
+        "button_mt": 14,
+        "button_mt_mobile": 16,
+        "button_style": "outline",
+        "use_price": false,
+        "price_custom": false,
+        "price_font": "josefin_sans_n4",
+        "price_size": 14,
+        "price_size_mobile": 12,
+        "price_height": 100,
+        "price_compare": false,
+        "navigation_mt": 20,
+        "navigation_mt_mobile": 32,
+        "arrow_size": 36,
+        "arrow_size_mobile": 36,
+        "arrow_icon_size": 7,
+        "arrow_icon_size_mobile": 7,
+        "arrow_border_thickness": 0.5,
+        "arrow_radius": 100,
+        "arrow_hover_effect": "color",
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "scrollbar_height": 3,
+        "scrollbar_show_desktop": true,
+        "scrollbar_show_mobile": false,
+        "image_border_color": "#000000",
+        "tag_color": "#3a3a3a",
+        "tag_bg_color": "#d4e1f7",
+        "tag_border_color": "#000000",
+        "title_color": "#000000",
+        "vendor_color": "#000000",
+        "price_color": "#ffffff",
+        "price_original_color": "#ffffff",
+        "button_color": "#292727",
+        "button_hover_color": "#ffffff",
+        "button_bg_color": "#ffffff",
+        "button_bg_hover_color": "#000000",
+        "button_bg_gradient": "",
+        "button_bg_hover_gradient": "",
+        "button_border_color": "#1a1919",
+        "button_border_hover_color": "#000000",
+        "arrow_color": "#7b7b7b",
+        "arrow_hover_color": "#7b7b7b",
+        "arrow_bg_color": "#ebebeb",
+        "arrow_bg_hover_color": "#ffffff",
+        "arrow_border_color": "#c7c7c7",
+        "arrow_border_hover_color": "#c7c7c7",
+        "scrollbar_bg_color": "#dddddd",
+        "scrollbar_drag_bg_color": "#6e6e6e",
+        "all_color": "#000000",
+        "all_hover_color": "#000000",
+        "all_bg_color": "#ebebeb",
+        "heading_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 36,
+        "padding_bottom": 20,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
+    "ss_video_grid_socials_3_btRPii": {
+      "type": "ss-video-grid-socials-3",
+      "blocks": {
+        "video_QQHrkV": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/4d6e7fdf16684e87841d50524435e25c.MOV",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "info": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_QQHrkV"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 36,
+        "heading_size_mobile": 26,
+        "heading_height": 130,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "sub_heading": "",
+        "sub_heading_custom": false,
+        "sub_heading_font": "josefin_sans_n4",
+        "sub_heading_size": 18,
+        "sub_heading_size_mobile": 16,
+        "sub_heading_height": 150,
+        "sub_heading_align": "center",
+        "sub_heading_align_mobile": "center",
+        "sub_heading_mt": 4,
+        "sub_heading_mt_mobile": 14,
+        "slider_view": 4,
+        "slider_view_mobile": 1,
+        "slider_gap": 20,
+        "slider_gap_mobile": 8,
+        "slider_mt": 28,
+        "slider_mt_mobile": 24,
+        "card_radius": 0,
+        "card_border_thickness": 0,
+        "video_ratio": "original",
+        "video_ratio_mobile": "original",
+        "info_custom": false,
+        "info_font": "josefin_sans_n4",
+        "info_size": 15,
+        "info_size_mobile": 18,
+        "info_height": 150,
+        "info_align": "left",
+        "info_align_mobile": "left",
+        "arrow_size": 36,
+        "arrow_size_mobile": 10,
+        "arrow_icon_size": 8,
+        "arrow_icon_size_mobile": 8,
+        "arrow_border_thickness": 1,
+        "arrow_radius": 100,
+        "arrow_hover_effect": "color",
+        "arrow_show_desktop": false,
+        "arrow_show_mobile": false,
+        "action_size": 48,
+        "action_size_mobile": 28,
+        "action_icon_size": 28,
+        "action_icon_size_mobile": 14,
+        "action_border_thickness": 0,
+        "card_border_color": "#000000",
+        "info_color": "#ffffff",
+        "arrow_color": "#000000",
+        "arrow_hover_color": "#ffffff",
+        "arrow_bg_color": "#ffffff",
+        "arrow_bg_hover_color": "#555555",
+        "arrow_border_color": "#f6f6f6",
+        "arrow_border_hover_color": "#555555",
+        "action_color": "#ffffff",
+        "action_hover_color": "#ffffff",
+        "action_bg_color": "#ffffff",
+        "action_bg_hover_color": "#ffffff",
+        "action_border_color": "#ffffff",
+        "action_border_hover_color": "#ffffff",
+        "heading_color": "#000000",
+        "sub_heading_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 0,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
+    "section_accordions_739HEx": {
+      "type": "section-accordions",
+      "blocks": {
+        "text_nrybpc": {
+          "type": "text",
+          "settings": {
+            "title": "Why is this bed ideal for smaller breeds?",
+            "text": "<h5>The Koozi Cloud Bed is thoughtfully designed for small and medium dogs, offering the ideal combination of comfort and support.</h5><h5>Its low-profile design ensures easy access, especially for smaller or senior dogs. The half-bolster shape provides ample room for dogs to stretch out naturally, while the soft chin-rest is perfect for smaller breeds to relax comfortably.</h5><h5>Whether your dog prefers to curl up or sprawl out, this bed caters to their unique needs, creating a cozy retreat tailored for restful sleep.</h5>"
+          }
+        },
+        "text_A7q7bL": {
+          "type": "text",
+          "settings": {
+            "title": "How is this bed different from other dog beds?",
+            "text": "<h5>Your dog deserves the best of both worlds. And unlike traditional full-bolster beds that can feel cramped for your dog or bulky in your home, the half-bolster design creates a perfect balance.<br/><br/>Instead of a chin rest bolster all the way around, the Cloud Bed's bolster wraps around 3/4 of the bed. This provides extra flat bed space for your dog to stretch out comfortably, and its also easier for smaller dogs or older dogs to get on and off - no need to strain their bodies climbing over a bolster.<br/><br/>We've also made the bolster softer, delivering a more gentle chin-rest support for dogs to rest their head.</h5>"
+          }
+        },
+        "text_epQbr9": {
+          "type": "text",
+          "settings": {
+            "title": "Do I need to buy the cover separately?",
+            "text": "<h5>No not at all - you shouldn't have to double up your expenses when investing in your dog's forever bed.<br/>Unlike other beds that require an extra cover for a stylish look, our bed comes ready with a premium boucle fabric cover that complements your décor. It’s an investment in both style and comfort.</h5>"
+          }
+        },
+        "text_wzQHmw": {
+          "type": "text",
+          "settings": {
+            "title": "What are the benefits of cooling gel memory foam?",
+            "text": "<h5>Cooling gel memory foam helps regulate temperature by drawing heat away from the body, keeping your dog cool and comfortable during warmer nights.</h5><h5>It offers pressure relief by conforming to your dog’s body, providing joint support while reducing firm discomfort. The cooling properties make it ideal for dogs prone to overheating, ensuring they can rest peacefully without the discomfort of excessive warmth.</h5><h5>It’s perfect for creating a balanced sleep environment with both comfort and temperature control.</h5>"
+          }
+        },
+        "text_CmD78T": {
+          "type": "text",
+          "settings": {
+            "title": "How will this bed fit with my home interiors ?",
+            "text": "<h5>This bed will look better in your home than any other dog bed. With its sleek, sofa-inspired design and premium boucle cover, the Koozi Cloud Bed blends seamlessly into your living space, adding a touch of elegance while providing ultimate comfort for your dog.<br/></h5><h5>Unlike bulky donut or bolster beds, its streamlined shape takes up less space and enhances your home’s style—making it a bed you’ll want to showcase, not hide.</h5>"
+          }
+        },
+        "text_VxMJkC": {
+          "type": "text",
+          "settings": {
+            "title": "How durable is the Cloud bed?",
+            "text": "<h5>Koozi's Cloud Bed is built to last with memory foam that maintains its shape and support over time. The premium boucle cover is extra thick and designed for everyday use, while the waterproof inner liner ensures the bed stays clean and dry. It's a bed made for durability, offering long-lasting comfort and style for both you and your dog.</h5>"
+          }
+        }
+      },
+      "block_order": [
+        "text_nrybpc",
+        "text_A7q7bL",
+        "text_epQbr9",
+        "text_wzQHmw",
+        "text_CmD78T",
+        "text_VxMJkC"
+      ],
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": true,
+        "title": "Your questions, answered",
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "#f4f3ef",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 52,
+        "padding_bottom": 60
+      }
+    },
+    "17344124764d7540f0": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_homepage_DkyDep": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "product": "cloud-sofa-dog-bed-denim-blue-linen"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_homepage_DkyDep"
+      ],
+      "settings": {
+        "bg_color": "",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_image_hXfHBk",
+    "section_banner_image_Hjt9Ge",
+    "section_text_RmT3Dj",
+    "section_divider_rANXM6",
+    "section_image_PnqBm3",
+    "section_icons_row_6h6yVq",
+    "section_icons_row_HxErPi",
+    "section_divider_nwQgjX",
+    "section_image_pzGzGj",
+    "section_split_images_dNtFtd",
+    "section_banner_image_PNbDiV",
+    "section_collection_ft8xDC",
+    "ss_featured_collection_7_EyCc9G",
+    "ss_video_grid_socials_3_btRPii",
+    "section_accordions_739HEx",
+    "17344124764d7540f0"
+  ]
+}
